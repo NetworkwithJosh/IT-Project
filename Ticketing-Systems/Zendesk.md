@@ -92,7 +92,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Verified the issue by remoting into the user’s account.
 - Removed and re-added the PC to the company’s domain.
 - Reached out to the user to confirm the issue has been resolved.
-![Screenshot](images/)
+![Screenshot](images/Zendesk1-2.jpg)
 - Updated the **work note** (internal notes). 
 ![Screenshot](images/Zendesk8.jpg)
 - **Closed the ticket**.
@@ -113,16 +113,3 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  **Closed the ticket**.
 
 ---
-# Handling a Task Request from My Supervisor
-
--  **supervisor/manager requested** to onboard a new employee and set up the necessary account.  
--  **Supervisor created a ticket** to onboard and set up a new account for an employee starting work soon.
-![Screenshot](images/screenshot260.jpg)
--  Ticket like this **usually comes with low priority** since it's not affecting productivity. 
--  Usually comes as a **task to complete with a deadline**.
-- Set up the user account, add to relevant group, set right permissions and outlook.
-![Screenshot](images/screenshot262.jpg)
-- Emailed the supervisor that account has been set up.
-![Screenshot](images/screenshot263.jpg)
-- Closed the ticket as Resolved.
- ![Screenshot](images/screenshot259.jpg)
