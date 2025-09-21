@@ -29,7 +29,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
   Example:  
   > I'm going to have that fixed. Let me help you.  
   > Definitely reach out to IT helpdesk or me if you have any other issues. I hope you have a great day.
-![Screenshot](images/screenshot268.jpg)
+![Screenshot](images/Zendesk00-1.jpg)
 - **Make sure to look at old tickets** if you've never seen an issue before.
 - **Google is your best friend too.**  
   (Remember: no one knows everything.)
@@ -41,7 +41,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - **Be sure to attach all any approved emails** on the ticket or notes inside the ticket.
 - **Use the ticket system to your advantage** by looking at old tickets.
 - **Follow your tickets that were assigned to you**, even if you gave it to someone else, like Level 2.
-![Screenshot](images/sc)
+![Screenshot](images/Zendesk0-1-1-1.jpg)
 - **Always update your tickets every day.**  
   (Managers check this.)
 
@@ -61,13 +61,12 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 ### Example Scenario:
 
 - User sent an email about **account lockout** after multiple attempts.
-![Screenshot](images/screenshot233.jpg)
+![Screenshot](images/Zendesk2.jpg)
 - Reached out to the user, confirmed receiving the ticket and **further steps**.
-![Screenshot](images/screenshot234.jpg)
+![Screenshot](images/zendesk3.jpg)
 - Took action immediately and **unlocked the account** using **Active Directory Users and Computers**.
-![Screenshot](images/screenshot235.jpg)
 - Added my **ticket notes** and submitted the ticket as **Solved**.
-![Screenshot](images/screenshot236.jpg)
+![Screenshot](images/zendesk4.jpg)
 ---
 # Ticket Management Tips
 
@@ -81,28 +80,21 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Managers use it to track performance.
 ### Ticket Fields
 - Understanding ticketing system in IT is very important from: Priority, Type, Tags, Group, Assignee.
-# Additional Ticket Handling Best Practices
 
--  I document steps taken, tools used, and resolution steps.  
-- Add timestamps if required by your team.  
--  Stay professional, polite, and helpful.  
-- Thank the user, apologize where needed, and set expectations
-![Screenshot](images/screenshot247.jpg)
----
 ## Creating New Ticket for End User
 
 - **User reports**: System has fallen off the domain while trying to log in.
-![Screenshot](images/screenshot248.jpg)
+![Screenshot](images/Zendesk5.jpg)
 - Reached out to the user and assigned the ticket to myself.
-![Screenshot](images/screenshot249.jpg)
-![Screenshot](images/screenshot250.jpg)
+![Screenshot](images/Zendesk6.jpg)
+![Screenshot](images/Zendesk7.jpg)
 - Set **urgency high** and **type** as Task.
 - Verified the issue by remoting into the user’s account.
 - Removed and re-added the PC to the company’s domain.
 - Reached out to the user to confirm the issue has been resolved.
-![Screenshot](images/screenshot252.jpg)
+![Screenshot](images/)
 - Updated the **work note** (internal notes). 
-![Screenshot](images/screenshot253.jpg)
+![Screenshot](images/Zendesk8.jpg)
 - **Closed the ticket**.
 # Handling a Ticket Using Zendesk
 
