@@ -4,7 +4,7 @@ Zendesk is a cloud-based ticketing and customer support platform that enables IT
 
 ---
 ## Zendesk as a Tool for IT Support
-![Screenshot](images/screenshot270.jpg)
+![Screenshot](images/Zendesk0-1.jpg)
 For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - Log and track incidents and service requests.
@@ -21,7 +21,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - **Sign up for Zendesk 14-Day Trial.**
 - **Create a new ticket** on Zendesk.
-![Screenshot](images/screenshot269.jpg)
+![Screenshot](images/Zendesk0-1-1.jpg)
 ---
 # Ticketing System Tips
 
@@ -41,7 +41,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - **Be sure to attach all any approved emails** on the ticket or notes inside the ticket.
 - **Use the ticket system to your advantage** by looking at old tickets.
 - **Follow your tickets that were assigned to you**, even if you gave it to someone else, like Level 2.
-![Screenshot](images/screenshot229.jpg)
+![Screenshot](images/sc)
 - **Always update your tickets every day.**  
   (Managers check this.)
 
