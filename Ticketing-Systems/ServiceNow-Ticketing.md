@@ -1,7 +1,7 @@
 # ServiceNow as a Ticketing System
 
 While ServiceNow can do a lot, its core use for **IT Support** is as a **ticketing system** – a place to manage and track problems users report, requests they make, and the steps Support teams take to resolve those issues.
-![Screenshot](images/screenshot241.jpg)
+![Screenshot](images/servicenow1.jpg)
 For most helpdesk or IT support agents, **ServiceNow** is where:
 
 - You receive **tickets** (issues or requests from users).
@@ -9,7 +9,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - **Log** what you're doing in *Internal Work Notes*.
 - **Escalate** issues to the right team.
 - **Close out** tickets with proper documentation.
-![Screenshot](images/screenshot240.jpg)
+![Screenshot](images/servicenow2.jpg)
 > For IT Support, if it’s not in the ticket, it didn’t happen.
 # ServiceNow Hands-on Practice (Developer Option)
 
@@ -26,11 +26,11 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 1. Navigate to **Google** and search **ServiceNow Developer**.
 2. **Sign up / Start building**:
    - Verify account and get started with the set-up.
-   ![Screenshot](images/screenshot165.jpg)
+   ![Screenshot](images/servicenow3.jpg)
    
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
     **Agree & Finish Set-up**
-![Screenshot](images/screenshot166.jpg)
+![Screenshot](images/servicenow4.jpg)
 # ServiceNow Instance Setup
 
 1. **Click on** `Request Instance`.
@@ -38,7 +38,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
    - Click on it.
    - Head over to `Workspaces` at the top.
    - Go to `Service Operations Workspace`.
-![Screenshot](images/screenshot167_LI.jpg)
+![Screenshot](images/servicenow5_LI.jpg)
 ---
 # How Different Roles Use ServiceNow
 
@@ -56,7 +56,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - **Escalate tickets** to the right support teams.
 - Document **resolutions and work notes**.
 - Follow **internal SLA (Service Level Agreement)** guidelines.
-![Screenshot](images/screenshot168.jpg)
+![Screenshot](images/servicedesk6.jpg)
 ---
 ## Core Components of ServiceNow Ticketing
 
@@ -66,19 +66,19 @@ Example: *"User can't access Outlook or laptop not working."*
 
 - **Goal**: Restore normal service as quickly as possible.
 - IT Support investigates, logs troubleshooting steps, and resolves or escalates.
-![Screenshot](images/screenshot184.jpg)
+![Screenshot](images/servicenow6.jpg)
 ---
 ### 2. Service Requests
 Used when users want something that isn’t broken.  
 Example: *"Request access to SharePoint,"* or *"Software install."*
 
 - Often follows a predefined workflow for **approval** or **fulfillment** (e.g., from a supervisor).
-![Screenshot](images/screenshot169.jpg)
+![Screenshot](images/servicenow7.jpg)
 ---
 ### 3. Problems
 Used to investigate the **underlying cause** of one or more incidents.  
 Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
-![Screenshot](images/screenshot170.jpg)
+![Screenshot](images/servicenow8.jpg)
 # Additional Concepts
 
 - **System admins or specialists** usually handle **problems**.
@@ -88,7 +88,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Created from resolved tickets or documented procedures.
 - Helps technicians solve **common issues faster**.
 - Users may also access this for **self-service**.
-![Screenshot](images/screenshot227.jpg)
+![Screenshot](images/servicenow9.jpg)
 ---
 ## ServiceNow Dashboard
 
@@ -114,15 +114,15 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - Scroll down to the **User Groups** section.
    - Select the group → Click **Edit**.
    - Select the group using the **arrow** → Click **Save**.
-![Screenshot](images/screenshot200.jpg)
-![Screenshot](images/screenshot201.jpg)
+![Screenshot](images/servicenow10.jpg)
+![Screenshot](images/servicenow11.jpg)
 
 ---
 ## Incidents on ServiceNow
 
 1. Navigate to **Workspace** → Click **All**.
 2. Search for **Incident** or **ServiceDesk** and click the **star** icon to favorite it (makes it show up in the Favorites section).
-![Screenshot](images/screenshot203.jpg)
+![Screenshot](images/servicenow12.jpg)
 3. Click on it to see incidents categorized by:
    - **Assigned to me**
    - **Open**
@@ -149,8 +149,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 4. Set:
    - **Assignment Group**: `Helpdesk`
    - **Assigned To**: `Self`
-![Screenshot](images/screenshot184.jpg)
-![Screenshot](images/screenshot186.jpg)
+![Screenshot](images/servicenow13.jpg)
 ---
 ## Example Scenario
 
@@ -159,7 +158,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Quickly opened a ticket.
   - After the call, sent an email requesting to **RDP** into her system.
   - Meanwhile, she can use the **web version** of Outlook on her mobile device.
-![Screenshot](images/screenshot204.jpg)
+![Screenshot](images/servicenow14.jpg)
 ## Troubleshooting Steps
 
 - **RDP** into the system with the right approval.
@@ -171,7 +170,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Updated my ticket notes on **every step taken** and used **PhraseExpress** to input time, making my ticket note stand out.
 - Updated the **Resolution Information**.
 - Clicked **Resolve Ticket**.
-![Screenshot](images/screenshot205.jpg)
+![Screenshot](images/servicenow15.jpg)
 ---
 # ServiceNow - VPN Issue Ticket Handling
 
@@ -182,22 +181,18 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - **User unable to connect to VPN.**
 - **Sent an email** (acknowledging receipt of the ticket and confirming I'm working on fixing the issue).
   - This also helps in meeting **SLA Compliance**.
-![Screenshot](images/screenshot207.jpg)
-![Screenshot](images/screenshot211.jpg)
+![Screenshot](images/servicenow16.jpg)
+![Screenshot](images/servicenow17.jpg)
 ## Troubleshooting
 
 - **Issue**: Unable to connect to VPN due to **old password** crashing with new credentials.
 - **Action**: Resolved the issue.
-## Follow-Up
 
-- Sent an additional comment to the user, instructing her with the **right steps to follow**.
-- **User confirmed** access to VPN was restored.
-![Screenshot](images/screenshot212.jpg)
 ## Final Steps
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
 - Added **Resolution Notes** and **Resolved the ticket**.
-![Screenshot](images/screenshot210.jpg)
+![Screenshot](images/servicenow18.jpg)
 ---
 # Resolving a Ticket (ServiceNow)
 
@@ -207,18 +202,18 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Navigated to **Incidents → Open** → Selected ticket based on **Priorities** → Assigned to Self → Open the ticket.
 - Inside the ticket: “Assigned to Self” means SLA won’t be breached.
 - Issue: **Unable to access team file share**.
-![Screenshot](images/screenshot218.jpg)
+![Screenshot](images/servicenow19.jpg)
 - Contacted the user for further details (using **Additional Comment**).
 - Notified the user that the issue is getting resolved.
-![Screenshot](images/screenshot219.jpg)
+![Screenshot](images/servicenow20.jpg)
 - Issue fixed → Reached out to the user to confirm access to the file share.
 - User confirmed and issue resolved.
 - Updated my **Work Notes**.
-![Screenshot](images/screenshot220.jpg)
+![Screenshot](images/servicenow21.jpg)
   - For every step and interaction taken with the user, this should be documented.
   - Add a Resolve note to close the ticket as issue has been resolved
-![Screenshot](images/screenshot221.jpg)
-![Screenshot](images/screenshot222.jpg)
+![Screenshot](images/servicenow22.jpg)
+![Screenshot](images/servicenow23.jpg)
 
 ---
 ## Performance Problem with Wi-Fi
@@ -234,10 +229,10 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Release & Renew IP Address → Flush DNS Cache → Restart Network Adapter → Verify IP Configuration.
 - Make sure the user has a valid IP (Not starting with `169.x.x.x`).
 - Reached out to the user, confirmed the user’s network speed has improved.
-![Screenshot](images/screenshot223.jpg)
+![Screenshot](images/servicenow24.jpg)
 - Updated my **Work Notes**.
-![Screenshot](images/screenshot224.jpg)
+![Screenshot](images/servicenow25.jpg)
 - Added **Resolution Notes**.
-![Screenshot](images/screenshot225.jpg)
+![Screenshot](images/servicenow26.jpg)
 - Resolved the ticket as **Closed**.
 ---
