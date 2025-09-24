@@ -15,3 +15,4 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - `ping google.com` or `ping 8.8.8.8`
    - `[your default gateway]` or `ping 8.8.8.8`
    - `[127.0.0.1]` (Check your computer's network loopback)
+![Screenshot](images/Network1.jpg)
