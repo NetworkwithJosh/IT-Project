@@ -110,27 +110,7 @@
 - Updated my ticket note and closed the ticket.
 ![Screenshot](images/screenshot532.jpg)
 ---
-## Outlook Crashes on Launch
 
-- User reports: "Outlook crashes when I open it, but the web version works fine."
-- Reached out for support, asked the user to connect to their workstation to find the root cause.
-![Screenshot](images/screenshot462.jpg)
-- Initiated a remote session with the user (email or TeamViewer), watched out for any prompt to connect to their session.
-![Screenshot](images/screenshot463.jpg)
-### Solution
-- Press `Windows + R` → Type `outlook.exe /safe` → Press Enter.
-- Outlook opens in **Safe Mode**, indicating the issue is likely due to an **add-in** or **profile**.
-- Go to: Outlook → File → Options → Add-Ins → Click "Go" (at the bottom of the window).
-- Ask the user which add-ins are unnecessary → Remove them all
-![Screenshot](images/screenshot308.jpg)
-- User logged off and back in. Outlook seems to be working fine.
-## Outlook Issue - Additional Steps
-- Also tried to repair Office installation.
-- Closed the TeamViewer session → Session ended.
-- Sent an email to the user to confirm Outlook is working before closing the ticket.
-- Issue resolved.
-![Screenshot](images/screenshot464.jpg)
----
 ## Internet Intermittency Issue
 ### Reported By: Emma Baker
 - User reported having issues with the internet.
