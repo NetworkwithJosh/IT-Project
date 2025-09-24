@@ -26,11 +26,11 @@
 - Navigate to **Active Directory**:
   - Right-click on the domain → Click on *Find*
   - Entire directory → Type the name →
-![Screenshot](images/.jpg)
+![Screenshot](images/Troubleshooting8.jpg)
   - Right-click → Reset password → Provide a temporary password
   - Check “User must change password at next logon” → OK.
-![Screenshot](images/.jpg)
-![Screenshot](images/.jpg)
+![Screenshot](images/Troubleshooting9.jpg)
+![Screenshot](images/Troubleshooting10.jpg)
 
 - User logs in with the new password after changing it.
 ![Screenshot](images/.jpg)
