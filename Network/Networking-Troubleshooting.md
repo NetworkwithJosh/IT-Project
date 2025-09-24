@@ -111,5 +111,9 @@ A **network** is a group of two or more devices (like computers, servers, printe
      ```
    - Check which hop fails—could indicate a routing or ISP issue.
 
+ **Reset Network Adapter**:
+   - Disable/Enable the adapter:
+     - Control Panel > Network and Sharing Center > Change Adapter Settings
+     - Right-click > Disable > wait > Enable
 
    
