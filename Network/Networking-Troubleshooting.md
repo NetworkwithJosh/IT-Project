@@ -97,6 +97,19 @@ A **network** is a group of two or more devices (like computers, servers, printe
         ```
        ping 8.8.8.8
         ```
+   . **Run `nslookup`**:
+   - Test DNS resolution:
+     ```
+     nslookup google.com
+     ```
+   - If this fails, DNS may be the issue.
+![Screenshot](images/Network7.jpg)
+ **Run `tracert`**:
+   - Trace where the connection fails:
+     ```
+     tracert google.com
+     ```
+   - Check which hop fails—could indicate a routing or ISP issue.
 
 
    
