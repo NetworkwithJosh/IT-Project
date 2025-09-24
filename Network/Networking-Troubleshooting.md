@@ -32,3 +32,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 # What is ipconfig and How to Use it for Network Troubleshooting
 
 **ipconfig** is a Windows command that shows your computer's network settings, such as: 
+- IP address
+- -Subnet mask
+- DNS server
+- Default gateway
