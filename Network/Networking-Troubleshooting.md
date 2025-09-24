@@ -128,4 +128,11 @@ A **network** is a group of two or more devices (like computers, servers, printe
     - Right-click the adapter > Update Driver
     - Or download latest from manufacturer’s website
 
+ **Restart Router/Modem**:
+   - Power cycle router (off for 30 seconds, then on)
+   - Wait for internet light to stabilize
+## Network Troubleshooting
+
+
+
    
