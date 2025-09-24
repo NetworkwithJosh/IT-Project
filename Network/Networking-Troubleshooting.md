@@ -103,7 +103,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
      nslookup google.com
      ```
    - If this fails, DNS may be the issue.
-![Screenshot](images/Network7.jpg)
+![Screenshot](images/Network7-1.jpg)
  **Run `tracert`**:
    - Trace where the connection fails:
      ```
@@ -132,6 +132,30 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - Power cycle router (off for 30 seconds, then on)
    - Wait for internet light to stabilize
 ## Network Troubleshooting
+
+### `ipconfig /release`
+- This command releases the current IP address assigned to the computer by the DHCP server.
+- After running this, the network adapter won't have any IP address assigned.
+![Screenshot](images/Network7.jpg)
+### `ipconfig /renew`
+- This command requests a new IP address from the DHCP server.
+- Often used after `/release` to refresh the network connection or to fix a bad IP (e.g., 169.xx.x.x).
+![Screenshot](images/Network8.jpg)
+### `ipconfig /flushdns`
+- This clears the DNS cache.
+- Useful when websites are not loading, wrong sites are loading, or experiencing intermittent network issues.
+![Screenshot](images/Network9.jpg)
+---
+### Wi-Fi vs Ethernet
+
+- **Wi-Fi**: Wireless, more convenient, but generally slower and less stable than Ethernet.
+- **Ethernet**: Wired connection, faster, more reliable, and better for large transfers or remote work.
+
+---
+### IP Addressing
+
+- **Static IP Address**: Manually assigned IP that does not change.  
+  - Useful for servers, printers, or devices that need consistent IP addresses.
 
 
 
