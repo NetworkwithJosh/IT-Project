@@ -30,3 +30,5 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - If a website is slow or not loading, `tracert` show **where the slowdown is happening**.
 ---
 # What is ipconfig and How to Use it for Network Troubleshooting
+
+**ipconfig** is a Windows command that shows your computer's network settings, such as: 
