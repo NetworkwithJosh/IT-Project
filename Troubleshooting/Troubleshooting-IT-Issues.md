@@ -194,8 +194,8 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
     - Group memberships
         
     - Last password change and expiration
-![Screenshot](images/screenshot533.jpg)
-![Screenshot](images/screenshot534.jpg)
+![Screenshot](images/Troubleshooting48.jpg)
+![Screenshot](images/Troubleshooting49.jpg)
 ## Microsoft Excel Issues
 ### Scenario:
 User submits a ticket that Excel won’t open or crashes when opening a file.
