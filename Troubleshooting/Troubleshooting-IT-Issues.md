@@ -163,20 +163,20 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
   Username (First name with last name)  
   Set user must change password at next login  
   Click Finish
-![Screenshot](images/screenshot312.jpg)
+![Screenshot](images/Troubleshooting45.jpg)
 ---
 ## Add to Group (Project Design)
 
 - Right-click on the user → Properties → Member Of  
   Search for the group and add the user → Apply
-![Screenshot](images/screenshot313.jpg)
+![Screenshot](images/Troubleshooting46.jpg)
 ---
 ## Shared Drive Access
 
 - If access is needed to **Project Design**,  
   Add to the corresponding AD group that maps to the share  
   Add to local PC, connect to the system, and map the drive.
-![Screenshot](images/screenshot314.jpg)
+![Screenshot](images/Troubleshooting47.jpg)
 ## Email Group / Teams
 
 - I will go in and add the user to the necessary groups and Microsoft Teams.  
