@@ -44,7 +44,7 @@
 - Another fix:
   - Check the email and account to see if an account created for emails
   - Go to the search bar and type email & account, add a work or school account. This should fix the problem.
-![Screenshot](images/screenshot446.jpg)
+![Screenshot](images/Troubleshooting13.jpg)
 ---
 
 
@@ -55,13 +55,13 @@
 
 - User reported: "Unable to access the shared folder, please provide access."
 - Reached out to the user to get a better understanding of the problem.
-![Screenshot](images/screenshot519.jpg)
+![Screenshot](images/Troubleshooting14.jpg)
 - Asked a few questions such as:
   - "Have you accessed the folder before?"
   - "Which shared folder do you need access to?"
 - User replied that he had access before but can't find it now.
 - Identified the folder as the Finance network drive.
-![Screenshot](images/screenshot520.jpg)
+![Screenshot](images/Troubleshooting15.jpg)
 ### Resolution Steps
 
 - Reached out to the user to remote in and map the network drive to restore access.
