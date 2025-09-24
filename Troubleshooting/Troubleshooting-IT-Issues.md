@@ -115,21 +115,21 @@
 
 - User reported help connection seems slow, webpages are taking a long time to load.
 - Reached out to the user to ask a few questions to understand more about the problem.
-![Screenshot](images/screenshot491.jpg)
+![Screenshot](images/Troubleshooting30.jpg)
 - User reported they tried rebooting and still getting slow connection.
 - Replied to initiate a remote session and troubleshoot.
-![Screenshot](images/screenshot492.jpg)
+![Screenshot](images/Troubleshooting31.jpg)
 - Troubleshot the issue, did the following:
   - Recreated the problem
   - `ipconfig /release` & `renew`
-![Screenshot](images/screenshot467.jpg)
-![Screenshot](images/screenshot468.jpg)
+![Screenshot](images/Troubleshooting32.jpg)
+![Screenshot](images/Troubleshooting33.jpg)
   - Enabled and disabled network adapter
   - Confirmed network signal
   - The user confirmed network strength has improved
-![Screenshot](images/screenshot493.jpg)
+![Screenshot](images/Troubleshooting34.jpg)
 - Updated the ticket note.
-![Screenshot](images/screenshot494.jpg)
+![Screenshot](images/Troubleshooting35.jpg)
 ---
 ### Issue: Slow Computer
 
