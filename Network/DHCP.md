@@ -5,7 +5,6 @@
 ## DHCP Server
 A **DHCP Server** is a device (usually a router or Windows Server) that manages IP address allocation dynamically. Instead of manually assigning static IP addresses to every device, the DHCP server automatically provides them based on predefined rules.
 
-## Installing DHCP Server
 
 ## Installing DHCP Server
 
@@ -63,3 +62,41 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 
 - A lease is the range of IP addresses reserved for a specific thing, like a printer.
 ---
+
+## Reservation of IP Address
+
+- Reservation = Reservation of IP address
+- **New Reservation** → Add:
+  - Reservation name: `192.168.18.23`
+  - MAC address of the printer: `2C:97:6C:17:D8:F4` (no spaces)
+  - Description: `Printer IP Address`
+  - Click **Add**
+![Screenshot](images/DHCP9.jpg)
+![Screenshot](images/DHCP10.jpg)
+- As soon as the printer connects to the internal network, it will get this IP address.
+
+**Configure DHCP options**  
+→ Yes and click Next  
+→ Default gateway `(192.168.18.1)` → Next  
+→ Domain Name and DNS Server (default) → Next  
+→ Wins Server → Next  
+→ Activate Scope (Yes/No) and Next → Finish  
+![Screenshot](images/DHCP11.jpg)
+
+---
+## Log on into Windows machine
+
+- Search → Control Panel → Network and Internet  
+- View network status and tasks → Change adapter settings  
+- Ethernet → Status → Details → DHCP Enabled  
+- No → Click on Properties  
+- Click on Internet Protocol Version 4 (TCP/IPv4)  
+  → You can see it’s using a static IP address  
+  → Change it to *Obtain an IP address automatically*  then
+  → OK  
+![Screenshot](images/DHCP12.jpg)
+![Screenshot](images/DHCP13.jpg)
+
+---
+
+> **Note:** Go to the DHCP Scope, right click and activate the scope.
