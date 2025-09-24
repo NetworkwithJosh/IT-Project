@@ -91,4 +91,12 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - Is there an IP or "Media disconnected"?
    ![Screenshot](images/Network6.jpg)
    **Run `ping` tests**:
+
+        ```
+      - Google DNS (tests internet connectivity):
+        ```
+       ping 8.8.8.8
+        ```
+
+
    
