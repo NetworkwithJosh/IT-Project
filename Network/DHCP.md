@@ -15,3 +15,32 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 4. Click on **DHCP Server** (Add Features) → **Next** → **Confirmation**  
 5. Click **Install**
 6. ![Screenshot](images/
+### Post Installation
+
+- Go to **Flag icon** → **Post-deployment Configuration** → **Complete DHCP Configuration**
+
+**DHCP Pool – Install Configuration**  
+→ Description → Next  
+(Select User’s Credentials) and Commit  
+![Screenshot](images/screenshot113.jpg)
+**Go to Tools and click on DHCP**
+
+- Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
+- Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
+  → Add a description → IP address Range 
+![Screenshot](images/screenshot114.jpg)
+![Screenshot](images/screenshot115.jpg)
+Start IP address: 192.168.18.20  
+End IP address: 192.168.18.70
+- It’s going to reserve 5 IP addresses  
+- Length (3d) or (16) recommended 24  
+- Subnet mask: 255.255.255.0  
+**Add Exclusions and Delay**  
+- Exclude IP address for existing systems (Ex: IP address for a printer)  
+- Type in the Start IP address and End IP address and click add  
+![Screenshot](images/screenshot116.jpg)
+**Lease duration**  
+(The lease duration specifies how long a client can use an IP address from this Scope)  
+Put in Days, Hours & Minutes you want IP address to last on a Computer → Next  
+
+**Note**: For security reasons (Select 4 hours so it changes)
