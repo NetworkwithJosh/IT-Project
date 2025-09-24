@@ -48,3 +48,32 @@ A DNS Server is a computer or network device that stores and manages domain name
 ---
 
 ## Forward Lookup Zones (FLZ)
+- A **DNS Zone** that translates a **domain name** (e.g., `nykarson.com`) into an **IP address** (e.g., `172.168.1.10`)  
+- It allows users to access websites and network resources using domain names instead of IP addresses
+---
+## Reverse Lookup Zones (RLZ)
+
+- Performs the **opposite function** of FLZ  
+- Translates an **IP address** (e.g., `172.168.1.10`) back into a **domain name** (e.g., `nykarson.com`)  
+- It is used for **security**, **logging**, and **troubleshooting**
+![Screenshot](images/DNS7.jpg)
+# Creating a Zone
+
+## Forward Lookup Zone
+
+1. Right-click on **Forward Lookup Zones** → **New Zone** → **Next**
+2. **Zone Type** → Select **Primary Zone**, uncheck **Store the zone in Active Directory** → **Next**
+3. **Zone Name**: `njikason.com` → **Zone File** (leave as default) → **Next**
+4. **Dynamic Update**: Select **Do not allow** → **Finish**
+---
+## Reverse Lookup Zone
+
+1. Right-click on **Reverse Lookup Zones** → **New Zone** → **Next**
+2. **Zone Wizard** → Select **Primary Zone** → **Next**
+3. Skip **Active Directory Zone Replication** → **Next**
+4. Choose **IPv4 Reverse Lookup Zone** → **Next**
+5. **Network ID**: `10.1.10` → **Next**
+6. Select **Do not allow dynamic updates** → **Next** → **Finish**
+![Screenshot](images/DNS8.jpg)
+---
+# Creating a New Host (Forward Lookup Zone)
