@@ -79,9 +79,16 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - Is the network cable plugged in properly?
    - Is thee switch/router powered and functioning?
 
-   **Run `ipconfig`**:
+  . **Run `ipconfig`**:
     - Open Command Prompt and type:
       ```
       ipconfig /all
       ```
+   - Check:
+     - IPv4 Address
+     - Default Gateway
+     - DNS Servers
+     - Is there an IP or "Media disconnected"?
+   ![Screenshot](images/Network6.jpg)
+   **Run `ping` tests**:
    
