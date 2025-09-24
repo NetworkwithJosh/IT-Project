@@ -26,3 +26,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 1. Open **Command Prompt**
 2. Type : `tracert google.com`
 ![Screenshot](images/Network2.jpg)
+- It show a list of hops (routers) the data passes through.
+- If a website is slow or not loading, `tracert` show **where the slowdown is happening**.
+---
+# What is ipconfig and How to Use it for Network Troubleshooting
