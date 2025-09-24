@@ -123,5 +123,9 @@ A **network** is a group of two or more devices (like computers, servers, printe
      Preferred DNS: 8.8.8.8
      Alternate DNS: 8.8.4.4
      ```
+ **Update Network/Wi-Fi Drivers**:
+    - Go to Device Manager > Network Adapters
+    - Right-click the adapter > Update Driver
+    - Or download latest from manufacturer’s website
 
    
