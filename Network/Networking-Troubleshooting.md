@@ -12,3 +12,5 @@ A **network** is a group of two or more devices (like computers, servers, printe
 #### Steps:
 1. Open **Command Prompt** (Press `Windows + R`, type `cmd` and press Enter).
 2. Common ping tests to check network connectivity:
+   - `ping google.com` or `ping 8.8.8.8`
+   - `ping google.com` or `ping 8.8.8.8`
