@@ -9,4 +9,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
 
 - **Ping** is a command used to check if your computer can communicate with another device (like a website or a router).
 
-
+#### Steps:
+1. Open **Command Prompt** (Press `Windows + R`, type `cmd` and press Enter).
+2. Common ping tests to check network connectivity:
