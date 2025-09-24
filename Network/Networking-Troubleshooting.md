@@ -115,5 +115,13 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - Disable/Enable the adapter:
      - Control Panel > Network and Sharing Center > Change Adapter Settings
      - Right-click > Disable > wait > Enable
+    
+ **Swap DNS to Google**:
+   - Go to: Control Panel > Network Adapter > Properties > IPv4
+   - Use custom DNS:
+     ```
+     Preferred DNS: 8.8.8.8
+     Alternate DNS: 8.8.4.4
+     ```
 
    
