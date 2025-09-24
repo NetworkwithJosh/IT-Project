@@ -98,40 +98,18 @@
   - `\\Server2022\HR \Team Files`
   - Right-clicked the folder → Selected Properties → Navigated to the Security tab
   - Clicked Edit → Added the user's name and granted appropriate permissions
-![Screenshot](images/screenshot524.jpg)
+![Screenshot](images/Troubleshooting24.jpg)
   - Clicked Apply and saved changes
-![Screenshot](images/screenshot525.jpg)
+![Screenshot](images/Troubleshooting25.jpg)
 - Reached out to the user and asked them to check again.
-![Screenshot](images/screenshot531.jpg)
+![Screenshot](images/Troubleshooting26.jpg)
 - User confirmed access to the team folder.
-![Screenshot](images/screenshot526.jpg)
-![Screenshot](images/screenshot528.jpg)
+![Screenshot](images/Troubleshooting27.jpg)
+![Screenshot](images/Troubleshooting28.jpg)
 
 - Updated my ticket note and closed the ticket.
-![Screenshot](images/screenshot532.jpg)
+![Screenshot](images/Troubleshooting29.jpg)
 ---
-
-## Internet Intermittency Issue
-### Reported By: Emma Baker
-- User reported having issues with the internet.
-- Connection drops or becomes unstable at random times.
-### Common Causes Considered
-- Weak Wi-Fi signal.
-- Faulty Ethernet cable.
-- ISP issues.
-- Network adapter
-- Reached out to user via HaloPSA, trying to get more information before troubleshooting.
-![Screenshot](images/screenshot465.jpg)
-- User said it’s only affecting her, and she is the only one using the connection.
-- Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
-![Screenshot](images/screenshot470.jpg)
-
-### User Response
-
-- User confirmed: "Oh! It's working. Looks like it is working now , My system hasn't been rebooted for a while now.
-![Screenshot](images/screenshot471.jpg)
-- Initiated a remote session and confirmed everything is working fine.
-- Thanked the user for being patient throughout the process and documented everything.
 
 ### Issue: Help Connection Seems Slow
 
