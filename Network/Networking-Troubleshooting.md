@@ -5,4 +5,8 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ---
 ## How to Diagnose Issues for Network Troubleshooting
 
+### What is Ping and How to Ping a Network
+
+- **Ping** is a command used to check if your computer can communicate with another device (like a website or a router).
+
 
