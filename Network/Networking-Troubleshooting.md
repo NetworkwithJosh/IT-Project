@@ -16,3 +16,9 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - `[your default gateway]` or `ping 8.8.8.8`
    - `[127.0.0.1]` (Check your computer's network loopback)
 ![Screenshot](images/Network1.jpg)
+
+
+---
+## Tracert (Trace Route)
+
+- `tracert` (short for **trace route**) shows the path that data takes from your computer to a destination, like reaching a particular website
