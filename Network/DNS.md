@@ -77,3 +77,31 @@ A DNS Server is a computer or network device that stores and manages domain name
 ![Screenshot](images/DNS8.jpg)
 ---
 # Creating a New Host (Forward Lookup Zone)
+1. Right-click on the zone (`SBT.com`) → **New Host (A or AAAA)**  
+2. Enter **Name**: `Test`  
+3. Enter **IP Address**: `10.1.10.20` (or any IP address for your organization)
+---
+# Creating a PTR Record (Reverse Lookup Zone)
+
+1. Right-click on the reverse zone (`10.1.10.in-addr.arpa`) → **New Pointer**
+2. Enter **Host Name** → **Browse**  
+3. Navigate: `Server 2022` → `Forward Lookup` → `dns.course` (click on it) → **OK**
+# Checking our DNS
+
+## Steps:
+
+- Go to the **Server** (right-click → Launch nslookup)
+- Type the default IP address: `10.1.10.2`  
+  *(This IP address is associated with nykarson.com - Server 2022)*
+- Type `10.1.10.20` → It will point back to our newly created host DNS called: `SBT.Com`
+- Launch the **nslookup** again and type the host name, not the IP address → It will retrieve the IP address and information.
+
+---
+## Creating and Testing DNS Resolution
+
+- Check on `SBT.Com` and create a new host  
+  - **Name**: `www`  
+  - **IP Address**: `10.1.10.25`
+- When you launch **nslookup** and type the IP address, it points back to: `www.SBT.Com`
+
+---
