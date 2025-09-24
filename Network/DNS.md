@@ -23,3 +23,28 @@ A DNS Server is a computer or network device that stores and manages domain name
 ---
 
 > If you go back to the Local Server, you will observe the static IP that was just create
+
+# Installing DNS Server
+
+1. Go to **Server Manager**  
+2. On the top, click on **Manage** → **Add Roles & Features**  
+3. Click **Next** before you begin  
+4. **Role-based or feature-based installation** → **Next**  
+5. **Server Selection** → **Next**  
+6. **Server Roles** (click on **DNS Server**) → Add role and click **Next**  
+7. Click **Next** and **Install**
+![Screenshot](images/DNS4.jpg)
+![Screenshot](images/DNS5.jpg)
+
+---
+
+## Navigating to DNS Zones
+
+1. Navigate to **Tools** on the Server Manager and click on **DNS**  
+2. Under **Server 2022**, expand →  
+   - **Forward Lookup Zones**  
+   - **Reverse Lookup Zones**
+![Screenshot](images/DNS6.jpg)
+---
+
+## Forward Lookup Zones (FLZ)
