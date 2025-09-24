@@ -134,24 +134,24 @@
 ### Issue: Slow Computer
 
 - User reached out to support about slow computer issue and marked it urgent.
-![Screenshot](images/screenshot495.jpg)
+![Screenshot](images/Troubleshooting36.jpg)
 - Reached out to the user, empathized, and requested a remote session to take a closer look.
-![Screenshot](images/screenshot500.jpg)
+![Screenshot](images/Troubleshooting38.jpg)
 - Initiated a remote session with the user (call), remoted into the computer.
-![Screenshot](images/screenshot501.jpg)
+![Screenshot](images/Troubleshooting38.jpg)
 - Entered the Task Manager:
   - Found background consuming high resource
-![Screenshot](images/screenshot496.jpg)
+![Screenshot](images/Troubleshooting39.jpg)
   - Disabled unnecessary startup apps
-![Screenshot](images/screenshot498.jpg)
+![Screenshot](images/Troubleshooting40.jpg)
   - Cleaned temporary files on the C: drive
   - Adjust for best performance on the advanced setting on settings
-![Screenshot](images/screenshot540.jpg)
+![Screenshot](images/Troubleshooting41.jpg)
 - Ran malware scan and ensured Windows is updated.
-![Screenshot](images/screenshot499.jpg)
+![Screenshot](images/Troubleshooting42.jpg)
 - Emailed the user and updated my ticket note.
-![Screenshot](images/screenshot502.jpg)
-![Screenshot](images/screenshot503.jpg)
+![Screenshot](images/Troubleshooting43.jpg)
+![Screenshot](images/Troubleshooting44.jpg)
 ## New Hire Set-up
 
 ### Scenario:
