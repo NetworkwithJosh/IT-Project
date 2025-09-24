@@ -44,4 +44,20 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - This shows your basic IP information
 ![Screenshot](images/Network3.jpg)
 ### Detailed Info
-  
+- Type: `ipconfig/all`
+  - Shows detailed info like:
+    - MAC address
+    - DHCP status
+    - DNS suffix
+![Screenshot](images/Network4.jpg)
+---
+## Troubleshooting APIPA (Authomatic Private IP Address)
+
+- If your IP address falls within the range:
+  - `169.254.1.0` to `169.254.254.255`
+  - This is called an **APIPA address**, which means **no internet access**.
+### Solution
+1. Run command `ipconfig /release`
+2. Then: `ipconfig /renew`
+    → This will request a new IP address from the router.
+   
