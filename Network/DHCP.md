@@ -4,3 +4,5 @@
 
 ## DHCP Server
 A **DHCP Server** is a device (usually a router or Windows Server) that manages IP address allocation dynamically. Instead of manually assigning static IP addresses to every device, the DHCP server automatically provides them based on predefined rules.
+
+## Installing DHCP Server
