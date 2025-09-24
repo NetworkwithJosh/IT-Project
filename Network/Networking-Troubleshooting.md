@@ -33,6 +33,15 @@ A **network** is a group of two or more devices (like computers, servers, printe
 
 **ipconfig** is a Windows command that shows your computer's network settings, such as: 
 - IP address
-- -Subnet mask
+- Subnet mask
 - DNS server
 - Default gateway
+## How to Use ipconfig
+
+### Basic Command
+- Open **Command Prompt**
+- Type: `ipconfig`
+   - This shows your basic IP information
+![Screenshot](images/Network3.jpg)
+### Detailed Info
+  
