@@ -74,3 +74,13 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 
 ---
 ### File Transfer & Remote Control
+
+### File Transfer & Remote Control
+
+- I connected to the Windows 11 machine.
+- From the top menu → **File & Extras**, I can move files from my PC to the remote computer.
+![Screenshot](images/TeamViewer7.jpg)
+![Screenshot](images/TeamViewer8.jpg)
+![Screenshot](images/TeamViewer9.jpg)
+
+---
