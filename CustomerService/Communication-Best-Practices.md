@@ -25,6 +25,7 @@ My goal is to create a sense of trust and assurance from the first moment of con
 
 My goal is to make the client feel heard and supported, regardless of the issue’s complexity.
 
-- I recognize the client’s frustration. 
+- I recognize the client’s frustration.
+  *That must be frustrating, especially with a deadline approaching.*
 
 
