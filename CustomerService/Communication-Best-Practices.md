@@ -124,3 +124,5 @@ IT Support
 
 **Subject**: Re: Password Reset Request
 
+Hi Lisa,  
+I’ve reset your password as requested.
