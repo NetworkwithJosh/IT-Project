@@ -8,3 +8,5 @@ Customer service in IT support is more than just solving technical issues. It’
 ## 1. How I Approach a Client in Need 
 
 My goal is to create a sense of trust and assurance from the first moment of contact.
+
+- I start with a professional and polite greeting, using the client’s name if known. 
