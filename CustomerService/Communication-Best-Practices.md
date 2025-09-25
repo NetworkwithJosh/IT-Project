@@ -89,4 +89,6 @@ My goal is to fully understand both the technical problem and the client's situa
 ## 5. How I Repeat and Confirm Understanding
 
 My goal is to ensure clarity and avoid any miscommunication.
+
+- I summarize the issue using simple terms.
   
