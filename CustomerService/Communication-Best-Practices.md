@@ -101,3 +101,14 @@ My goal is to ensure clarity and avoid any miscommunication.
   
 - I always offer further help.  
   *Is there anything else I can assist you with before I close the ticket?*
+---
+## 6. Professional Email Responses
+
+My goal is to respond in a professional, clear, and reassuring manner.
+
+### Example: Account Lockout
+
+**Subject** Re: Lockout Out of My Account
+
+Hi James,
+
