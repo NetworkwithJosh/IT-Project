@@ -33,3 +33,5 @@ My goal is to make the client feel heard and supported, regardless of the issue�
 
 - I stay calm, positive, and professional.
   *You’re in good hands. I’ll take care of this for you.*
+---
+## 3. How I Communicate Clearly
