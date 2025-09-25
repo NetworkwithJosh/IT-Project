@@ -43,6 +43,8 @@
 2. Right-click → **Properties**
 3. Scroll down to **Remote Settings**
 4. Log in with admin rights
-5. Enable remote support and turn it on. 
+5. Enable remote support and turn it on.
+![Screenshot](images/TeamViewer5.jpg)
+---
 
 
