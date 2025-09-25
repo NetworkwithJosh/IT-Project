@@ -53,3 +53,7 @@ My goal is to keep communication simple, especially for clients who may not have
 ## 3.1 How I Explain Technical Terms to Non-Technical Clients
 
 My goal is to help clients feel informed, not overwhelmed.
+
+- I use real-world analogies to simplify concepts.
+  *A VPN works like a secure tunnel that connects your computer to the office network. It looks like that tunnel isn’t connecting right now.*
+
