@@ -50,5 +50,6 @@
 
 - Go to the TeamViewer website → Download the free version
 - Install TeamViewer → Sign up using support email → Download & sign in with email
+---
 
 
