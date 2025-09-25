@@ -12,3 +12,6 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **I remain calm and steady, even if the client is upset**  
   *I understand this has been frustrating. I’ll take care of it now and keep you informed as I work.*
+
+- **I avoid mirroring their tone**  
+  If a client sounds short or impatient, I respond with clarity and professionalism. I never raise my voice or match aggression.
