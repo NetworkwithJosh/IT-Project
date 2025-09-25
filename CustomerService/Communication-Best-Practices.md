@@ -74,5 +74,5 @@ My goal is to help clients feel informed, not overwhelmed.
 - I provide assurance and clear ownership.  
   *The issue is resolved, and we’re monitoring things on our end to ensure continued stability.*
 ---
-## 4.
+## 4. How I Practice Active Listening
   
