@@ -140,3 +140,5 @@ IT Support
 
 - I use clear, polite, and respectful language.
 - I avoid assigning blame or using complex terminology.
+- I keep messages concise and focused on solutions.
+- I always include the next steps and invite further questions.
