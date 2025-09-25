@@ -64,3 +64,8 @@
 - As an IT Support, it is essential to know how to guide a user to download and install TeamViewer or open it if it’s already installed.
 ----
 ### Creating a Session from the Host Machine
+
+-  On my host machine, I created a session → `114 161 080`
+![Screenshot](images/TeamViewer6.jpg)
+- The user needs to type in the session code to connect remotely
+  or
