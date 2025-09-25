@@ -15,3 +15,6 @@ RDP uses encryption to protect sessions, but it can be a security risk if not co
 
 ### Common Use
 IT support teams, system administrators, and employees working remotely often use RDP to manage or access computers and servers.
+
+### Example
+If you’re at home and need to access your office computer, you can open the Remote Desktop Connection app, enter your work computer’s IP address or name, and log in with your credentials. Once connected, you see and control your office desktop from your home computer.
