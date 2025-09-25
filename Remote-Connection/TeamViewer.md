@@ -34,6 +34,6 @@
 ![Screenshot](images/TeamViewer3-0.jpg)
 
   - Host machine
-  - 
+  - Windows 11 (running in Virtual Box)
 
 
