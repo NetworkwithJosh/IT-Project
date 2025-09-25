@@ -145,3 +145,5 @@ IT Support
 - I ensure my tone sounds human and professional.
 ---
 ## 7. Chat Etiquette (Live Chat or Ticket Comments)
+
+My goal is to maintain clear and professional communication during real-time interactions or ticket updates.
