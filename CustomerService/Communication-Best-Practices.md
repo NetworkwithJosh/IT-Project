@@ -63,3 +63,6 @@ My goal is to help clients feel informed, not overwhelmed.
 - I focus on what the issue means for the user, not the technical terminology.  
   *There was a permissions issue, which means your account couldn’t access the folder. I've corrected that, and you should have access now.*
 
+- I spell out abbreviations when needed.  
+  *We’ll set up MFA, Multi-Factor Authentication. It adds a second layer of security when you log in.*
+
