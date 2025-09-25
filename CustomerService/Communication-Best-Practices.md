@@ -111,4 +111,5 @@ My goal is to respond in a professional, clear, and reassuring manner.
 **Subject** Re: Lockout Out of My Account
 
 Hi James,
+Thanks for contacting IT Support. I've unlocked your account, you should now be able to log in with your current password.
 
