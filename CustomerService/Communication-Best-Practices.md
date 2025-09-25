@@ -85,4 +85,8 @@ My goal is to fully understand both the technical problem and the client's situa
 
 - I confirm what I heard to avoid misunderstandings.
   *Just to confirm, you tried to print, but nothing happened, and there were no error messages, right?*
+---
+## 5. How I Repeat and Confirm Understanding
+
+My goal is to ensure clarity and avoid any miscommunication.
   
