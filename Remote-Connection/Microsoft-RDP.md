@@ -59,4 +59,4 @@ If you’re at home and need to access your office computer, you can open the Re
   - Find root causes to technical problems
 ---
 **Note:** Always ensure both machines are on the same network before attempting RDP and end session once you are done.
-![Screenshot](images/screenshot376.jpg)
+![Screenshot](images/RDP9.jpg)
