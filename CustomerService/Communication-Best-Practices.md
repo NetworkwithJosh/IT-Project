@@ -75,4 +75,11 @@ My goal is to help clients feel informed, not overwhelmed.
   *The issue is resolved, and we’re monitoring things on our end to ensure continued stability.*
 ---
 ## 4. How I Practice Active Listening
+
+My goal is to fully understand both the technical problem and the client's situation.
+
+- I allow the user to explain the issue fully without interruption.
+
+- I pay attention to urgency or stress behind their words.
+  
   
