@@ -20,3 +20,9 @@ My goal is to create a sense of trust and assurance from the first moment of con
 
 - I provide a brief overview of what I’ll do.
   *I'll start by checking your account and running a few tests. It shouldn't take more than a few minutes.*
+---
+## 2. How I Show Empathy
+
+My goal is to make the client feel heard and supported, regardless of the issue’s complexity.
+
+
