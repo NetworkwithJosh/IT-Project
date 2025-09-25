@@ -48,4 +48,6 @@
 ---
 ### Downloading TeamViewer
 
+- Go to the TeamViewer website → Download the free version
+
 
