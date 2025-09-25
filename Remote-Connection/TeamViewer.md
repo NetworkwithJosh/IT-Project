@@ -44,7 +44,7 @@
 3. Scroll down to **Remote Settings**
 4. Log in with admin rights
 5. Enable remote support and turn it on.
-![Screenshot](images/TeamViewer5.jpg)
+![Screenshot](images/TeamViewer4-1.jpg)
 ---
 ### Downloading TeamViewer
 
@@ -66,10 +66,10 @@
 ### Creating a Session from the Host Machine
 
 -  On my host machine, I created a session → `114 161 080`
-![Screenshot](images/TeamViewer6.jpg)
+![Screenshot](images/TeamViewer5.jpg)
 - The user needs to type in the session code to connect remotely
   or share their ID and password from TeamViewer to the support technician.
-![Screenshot](images/TeamViewer7.jpg)
+![Screenshot](images/TeamViewer6.jpg)
 Now both my windows 10 and 11 from my lab are connected, while windows 10 is the host and 11 the guest.
 
 ---
