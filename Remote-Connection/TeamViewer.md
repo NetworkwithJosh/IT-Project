@@ -46,5 +46,6 @@
 5. Enable remote support and turn it on.
 ![Screenshot](images/TeamViewer5.jpg)
 ---
+### Downloading TeamViewer
 
 
