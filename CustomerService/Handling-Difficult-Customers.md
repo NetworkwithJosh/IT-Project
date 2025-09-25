@@ -15,3 +15,6 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **I avoid mirroring their tone**  
   If a client sounds short or impatient, I respond with clarity and professionalism. I never raise my voice or match aggression.
+
+- **I validate their experience without encouraging further anger**  
+  *I see why this would be disruptive, especially with a deadline coming up. I appreciate your patience while I take a closer look.*
