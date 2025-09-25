@@ -1,3 +1,6 @@
 ### What is Remote IT Support?
 
 - Is when an IT professional helps users fix technical problems without being physically present, by connecting to their computer or guiding them through troubleshooting steps online.
+
+### Remote Access Tools
+- The technician uses software like TeamViewer, AnyDesk, or RDP (Remote Desktop Protocol) to log into the user’s computer over the internet.
