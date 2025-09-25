@@ -40,5 +40,6 @@
 ### Enabling Remote Desktop on Windows11
 
 1. Go to **This PC**
+2. Right-click → **Properties**
 
 
