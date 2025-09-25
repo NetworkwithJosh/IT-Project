@@ -27,5 +27,6 @@ My goal is to make the client feel heard and supported, regardless of the issue�
 
 - I recognize the client’s frustration.
   *That must be frustrating, especially with a deadline approaching.*
-
-
+  
+- I treat every issue as valid, no matter how small it may seem. 
+   *That error message does look unusual. I’ll take a closer look.
