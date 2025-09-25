@@ -57,3 +57,6 @@ My goal is to help clients feel informed, not overwhelmed.
 - I use real-world analogies to simplify concepts.
   *A VPN works like a secure tunnel that connects your computer to the office network. It looks like that tunnel isn’t connecting right now.*
 
+- I ask if they want more detail or just the fix.
+  *Would you like a quick explanation of what caused the issue, or should I walk you through just the steps to fix it?*
+
