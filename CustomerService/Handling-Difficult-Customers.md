@@ -8,3 +8,4 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 **Goal:** Defuse the emotion, then resolve the issue.
 
+### How I handle it:
