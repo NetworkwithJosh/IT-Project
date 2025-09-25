@@ -68,4 +68,4 @@
 -  On my host machine, I created a session → `114 161 080`
 ![Screenshot](images/TeamViewer6.jpg)
 - The user needs to type in the session code to connect remotely
-  or
+  or share their ID and password from TeamViewer to the support technician.
