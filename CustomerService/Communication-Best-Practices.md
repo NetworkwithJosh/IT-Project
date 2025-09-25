@@ -47,3 +47,7 @@ My goal is to keep communication simple, especially for clients who may not have
 
 - I pause regularly to ensure they’re following along.  
   *Let me know once you see the Network Settings window.*
+
+- I don’t over-explain unless asked. I keep communication clear and relevant.
+
+## 3.1 How I Explain Technical Terms to Non-Technical Clients
