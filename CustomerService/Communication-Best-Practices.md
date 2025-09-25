@@ -38,4 +38,6 @@ My goal is to make the client feel heard and supported, regardless of the issueâ
 
 My goal is to keep communication simple, especially for clients who may not have a technical background.
 
-- I avoid using technical jargon unless the client is clearly comfortable with it. 
+- I avoid using technical jargon unless the client is clearly comfortable with it.
+  *Try restarting the app, that helps refresh things.*
+  (Rather than saying "clear the cache")
