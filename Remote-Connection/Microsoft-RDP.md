@@ -9,3 +9,6 @@ RDP is mainly used for remote administration, technical support, or accessing wo
 
 ### Functionality
 It transfers the screen display of the remote machine to the client device and sends back the client’s keyboard and mouse input.
+
+### Security
+RDP uses encryption to protect sessions, but it can be a security risk if not configured properly (e.g., weak passwords, open ports without firewall/VPN).
