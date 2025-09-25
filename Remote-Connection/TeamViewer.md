@@ -104,3 +104,12 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 
 - To close the session, click on **End Session**
 - You can also search devices, groups, and contacts to connect to.
+![Screenshot](images/TeamViewer12.jpg)
+---
+### Joining with Session Code (From User Side)
+
+- The user adds the given session code
+- Verify the user (on the user side)
+- Now I have control. Same thing applies after session closes
+- On the client machine, you can see the files transferred over during the session.
+
