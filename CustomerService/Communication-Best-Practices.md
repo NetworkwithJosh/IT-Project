@@ -37,3 +37,5 @@ My goal is to make the client feel heard and supported, regardless of the issueâ
 ## 3. How I Communicate Clearly
 
 My goal is to keep communication simple, especially for clients who may not have a technical background.
+
+- I avoid using technical jargon unless the client is clearly comfortable with it. 
