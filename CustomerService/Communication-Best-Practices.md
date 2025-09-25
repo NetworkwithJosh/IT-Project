@@ -91,4 +91,5 @@ My goal is to fully understand both the technical problem and the client's situa
 My goal is to ensure clarity and avoid any miscommunication.
 
 - I summarize the issue using simple terms.
+  *So, your email is stuck in the Outbox and won't send. Is that correct?*
   
