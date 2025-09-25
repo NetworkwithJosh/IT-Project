@@ -9,4 +9,5 @@ Customer service in IT support is more than just solving technical issues. It’
 
 My goal is to create a sense of trust and assurance from the first moment of contact.
 
-- I start with a professional and polite greeting, using the client’s name if known. 
+- I start with a professional and polite greeting, using the client’s name if known.
+*Hi Sarah, thank you for reaching out. I understand you're experiencing an issue with the VPN. I’ll assist you with that right away.*   
