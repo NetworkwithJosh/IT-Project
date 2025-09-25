@@ -41,3 +41,5 @@ My goal is to keep communication simple, especially for clients who may not have
 - I avoid using technical jargon unless the client is clearly comfortable with it.
   *Try restarting the app, that helps refresh things.*
   (Rather than saying "clear the cache")
+
+- I break instructions down into clear, easy-to-follow steps. 
