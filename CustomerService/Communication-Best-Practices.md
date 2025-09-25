@@ -60,3 +60,6 @@ My goal is to help clients feel informed, not overwhelmed.
 - I ask if they want more detail or just the fix.
   *Would you like a quick explanation of what caused the issue, or should I walk you through just the steps to fix it?*
 
+- I focus on what the issue means for the user, not the technical terminology.  
+  *There was a permissions issue, which means your account couldn’t access the folder. I've corrected that, and you should have access now.*
+
