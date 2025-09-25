@@ -41,5 +41,6 @@
 
 1. Go to **This PC**
 2. Right-click → **Properties**
+3. Scroll down to **Remote Settings**
 
 
