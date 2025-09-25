@@ -5,3 +5,4 @@ Is a multi-factor authentication (MFA) app developed by Cisco Duo Security. It h
 
 ## How it Works?
 - You install Duo Mobile on your smartphone.
+- When you try to log in to a system that uses Duo, you enter your username and password.
