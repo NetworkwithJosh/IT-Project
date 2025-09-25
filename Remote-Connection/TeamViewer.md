@@ -7,3 +7,6 @@
 
 ### Communications 
 - Support is usually provided via phone, email, chat, or video call while the technician works in the background.
+
+### Services Provided
+- Common tasks include installing or updating software, removing viruses, configuring settings, resetting passwords, resolving network issues, and answering technical questions.
