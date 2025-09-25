@@ -81,5 +81,5 @@ My goal is to fully understand both the technical problem and the client's situa
 - I allow the user to explain the issue fully without interruption.
 
 - I pay attention to urgency or stress behind their words.
-  
+  If someone says, *"My printer's not working and I've got a deadline,"* I understand the pressure they're under.
   
