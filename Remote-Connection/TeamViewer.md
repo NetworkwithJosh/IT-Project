@@ -54,4 +54,4 @@
 ### Testing Remote Support with TeamViewer
 
 - Already downloaded TeamViewer on the host machine
-
+- On my lab for Windows 11:
