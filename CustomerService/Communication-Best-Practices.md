@@ -44,3 +44,6 @@ My goal is to keep communication simple, especially for clients who may not have
 
 - I break instructions down into clear, easy-to-follow steps.
   *Click the Start menu, type 'Control Panel', and press Enter.*
+
+- I pause regularly to ensure they’re following along.  
+  *Let me know once you see the Network Settings window.*
