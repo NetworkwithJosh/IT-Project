@@ -44,3 +44,4 @@ If you’re at home and need to access your office computer, you can open the Re
 4. Then connect:
    - A prompt will appear
    - Click **Yes**
+![Screenshot](images/RDP5.jpg)
