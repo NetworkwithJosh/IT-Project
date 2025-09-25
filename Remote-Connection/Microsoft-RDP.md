@@ -46,4 +46,4 @@ If you’re at home and need to access your office computer, you can open the Re
    - Click **Yes**
 ![Screenshot](images/RDP5.jpg)
    - Now you’re logged in to the remote machine
-
+![Screenshot](images/RDP6.jpg)
