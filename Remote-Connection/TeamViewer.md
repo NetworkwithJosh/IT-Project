@@ -4,3 +4,6 @@
 
 ### Remote Access Tools
 - The technician uses software like TeamViewer, AnyDesk, or RDP (Remote Desktop Protocol) to log into the user’s computer over the internet.
+
+### Communications 
+- Support is usually provided via phone, email, chat, or video call while the technician works in the background.
