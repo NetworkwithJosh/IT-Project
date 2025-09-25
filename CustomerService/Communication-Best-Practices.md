@@ -17,3 +17,5 @@ My goal is to create a sense of trust and assurance from the first moment of con
 
 - I acknowledge any urgency or disruption.
   *I understand this might be affecting your workflow. I'll do my best to get this resolved quickly.*
+
+- I provide a brief overview of what I’ll do.
