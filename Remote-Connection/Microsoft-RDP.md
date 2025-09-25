@@ -33,3 +33,9 @@ If you’re at home and need to access your office computer, you can open the Re
 - Client machine used: **Windows 11 Pro** (`OS 10.1 - WIn11`)
 ![Screenshot](images/RDP1.jpg)
 ![Screenshot](/images/RDP2.jpg)
+
+---
+### How to Launch RDP on Windows
+1. Press `Win + R`
+2. Type `mstsc`
+
