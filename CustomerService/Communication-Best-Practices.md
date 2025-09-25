@@ -95,4 +95,7 @@ My goal is to ensure clarity and avoid any miscommunication.
 
 - I explain exactly what I'm going to do.
   *I'll check your Outlook setting and test your network connection.*
+
+- I confirm that the fix worked before closing the case.  
+  *Could you send a test email and let me know if it goes through?*
   
