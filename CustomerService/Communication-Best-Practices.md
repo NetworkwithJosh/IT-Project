@@ -42,4 +42,5 @@ My goal is to keep communication simple, especially for clients who may not have
   *Try restarting the app, that helps refresh things.*
   (Rather than saying "clear the cache")
 
-- I break instructions down into clear, easy-to-follow steps. 
+- I break instructions down into clear, easy-to-follow steps.
+  *Click the Start menu, type 'Control Panel', and press Enter.*
