@@ -113,3 +113,5 @@ My goal is to respond in a professional, clear, and reassuring manner.
 Hi James,
 Thanks for contacting IT Support. I've unlocked your account, you should now be able to log in with your current password.
 
+If you’d like, I can also help you set up a self-service password reset option for the future.
+
