@@ -68,4 +68,5 @@ My goal is to help clients feel informed, not overwhelmed.
 
 ### For executive-level clients
 
-
+- I keep communication high-level and impact-focused.  
+  *There was a short disruption in the file-sharing system. It’s been resolved, and we’ve put a safeguard in place to prevent it from happening again. No data was lost.*
