@@ -49,10 +49,10 @@ If you’re at home and need to access your office computer, you can open the Re
 ![Screenshot](images/RDP5.jpg)
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
-![Screenshot](images/RDP7.jpg)
+![Screenshot](images/RDP6.jpg)
 - Once connected, I can:
   - Push documents into the machine from the server
-![Screenshot](images/RDP8.jpg)
+![Screenshot](images/RDP7.jpg)
 ![Screenshot](images/RDP9.jpg)
   - Troubleshoot issues
   - Download applications
