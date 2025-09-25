@@ -13,3 +13,4 @@ My goal is to create a sense of trust and assurance from the first moment of con
 *Hi Sarah, thank you for reaching out. I understand you're experiencing an issue with the VPN. I’ll assist you with that right away.*
 
 - I introduce myself and explain my role.
+  *I'm Kizito from IT Support. I'll be helping you through this issue.*
