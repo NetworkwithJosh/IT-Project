@@ -49,4 +49,4 @@ If you’re at home and need to access your office computer, you can open the Re
 ![Screenshot](images/RDP6.jpg)
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
-
+![Screenshot](images/RDP7.jpg)
