@@ -2,6 +2,14 @@
 
 - Is when an IT professional helps users fix technical problems without being physically present, by connecting to their computer or guiding them through troubleshooting steps online.
 
+- Remote IT support is the process where IT professionals connect to a user's computer or system over the internet or network to
+![Screenshot](images/TeamViewer1.jpg)
+  - Troubleshoot issues
+  - Install software
+  - Configure settings
+  - Provide technical assistance without being physically present.
+---
+
 ### Remote Access Tools
 - The technician uses software like TeamViewer, AnyDesk, or RDP (Remote Desktop Protocol) to log into the user’s computer over the internet.
 
@@ -18,3 +26,11 @@
 
 ### Example 
  - If your laptop suddenly can’t connect to Wi-Fi, you might call the IT help desk. Instead of coming to your office, the IT technician could securely log in to your system from their location, diagnose the network settings, fix them, and get you back online.
+
+### Setting up TeamViewer
+
+- Installing TeamViewer (desktop client) on:
+![Screenshot](images/TeamViewer2.jpg)
+![Screenshot](images/TeamViewer3-0.jpg)
+
+
