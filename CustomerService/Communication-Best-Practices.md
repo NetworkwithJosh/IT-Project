@@ -99,3 +99,5 @@ My goal is to ensure clarity and avoid any miscommunication.
 - I confirm that the fix worked before closing the case.  
   *Could you send a test email and let me know if it goes through?*
   
+- I always offer further help.  
+  *Is there anything else I can assist you with before I close the ticket?*
