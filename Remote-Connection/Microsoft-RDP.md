@@ -6,3 +6,6 @@ It’s a proprietary protocol developed by Microsoft that allows a user to conne
 
 ### Purpose
 RDP is mainly used for remote administration, technical support, or accessing work PCs from home.
+
+### Functionality
+It transfers the screen display of the remote machine to the client device and sends back the client’s keyboard and mouse input.
