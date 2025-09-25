@@ -13,3 +13,4 @@ Is a multi-factor authentication (MFA) app developed by Cisco Duo Security. It h
 - Push Notifications: Simplifies login by just tapping “Approve.”
 - Passcodes: Works even without internet or cell service by generating temporary codes.
 - Biometric Support: Can use fingerprint or face recognition on your phone for extra security.
+- Wide Use: Commonly used by universities, corporations, and healthcare providers to secure VPNs, email, cloud apps, and remote access.
