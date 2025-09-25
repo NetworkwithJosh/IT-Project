@@ -57,3 +57,4 @@
 - On my lab for Windows 11:
   - I downloaded TeamViewer (free version)
   - Selected **Receive Support**
+  - Downloaded **QuickSupport**
