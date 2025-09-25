@@ -41,3 +41,6 @@ If you’re at home and need to access your office computer, you can open the Re
 3. Enter the **IP address** or **name** of the user’s computer (e.g., `192.168.56.106`)
 ![Screenshot](images/RDP3.jpg)
 ![Screenshot](images/RDP4.jpg)
+4. Then connect:
+   - A prompt will appear
+   - Click **Yes**
