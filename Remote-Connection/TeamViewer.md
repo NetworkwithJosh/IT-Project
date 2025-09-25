@@ -71,3 +71,6 @@
   or share their ID and password from TeamViewer to the support technician.
 ![Screenshot](images/TeamViewer7.jpg)
 Now both my windows 10 and 11 from my lab are connected, while windows 10 is the host and 11 the guest.
+
+---
+### File Transfer & Remote Control
