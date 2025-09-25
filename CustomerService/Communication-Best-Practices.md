@@ -144,3 +144,4 @@ IT Support
 - I always include the next steps and invite further questions.
 - I ensure my tone sounds human and professional.
 ---
+## 7. Chat Etiquette (Live Chat or Ticket Comments)
