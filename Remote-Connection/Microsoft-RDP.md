@@ -4,6 +4,12 @@
 ### What is RDP?
 It’s a proprietary protocol developed by Microsoft that allows a user to connect to another computer over a network and interact with its desktop as if they were sitting right in front of it.
 
+It’s commonly used by IT Support or System Administrators to:
+- Troubleshoot issues
+- Configure systems  
+- Perform administrative tasks  
+All without needing physical access to the device.
+
 ### Purpose
 RDP is mainly used for remote administration, technical support, or accessing work PCs from home.
 
