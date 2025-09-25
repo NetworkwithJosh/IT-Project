@@ -162,6 +162,16 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ---
 ### Email Protocols and Ports
 
+- **SMTP**: Simple Mail Transfer Protocol  
+  - Port 25/465 over SSL
+
+- **POP3**: Post Office Protocol Version 3  
+  - Port 110/995 over SSL
+
+- **IMAP**: Internet Message Access Protocol  
+  - Port 143/993 over SSL
+---
+## If All Steps Fail What’s Next
 
 
    
