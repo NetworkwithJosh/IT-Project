@@ -53,3 +53,5 @@
 ---
 ### Testing Remote Support with TeamViewer
 
+- Already downloaded TeamViewer on the host machine
+
