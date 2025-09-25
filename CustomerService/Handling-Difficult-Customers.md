@@ -4,3 +4,5 @@ In IT support, it’s common to interact with users who are frustrated, under pr
 
 My goal is to deliver support that de-escalates tension while moving the conversation toward a solution.
 
+## 1. When a Client is Frustrated
+
