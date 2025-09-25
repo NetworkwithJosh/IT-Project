@@ -126,3 +126,6 @@ IT Support
 
 Hi Lisa,  
 I’ve reset your password as requested.
+
+Your temporary password is: `Temp2024!`  
+Please log in and change it as soon as possible.
