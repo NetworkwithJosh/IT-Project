@@ -19,3 +19,4 @@ My goal is to create a sense of trust and assurance from the first moment of con
   *I understand this might be affecting your workflow. I'll do my best to get this resolved quickly.*
 
 - I provide a brief overview of what I’ll do.
+  *I'll start by checking your account and running a few tests. It shouldn't take more than a few minutes.*
