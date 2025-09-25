@@ -58,3 +58,5 @@
   - I downloaded TeamViewer (free version)
   - Selected **Receive Support**
   - Downloaded **QuickSupport**
+  - Opened **TeamViewer Receive Support**
+## Providing Remote Support via TeamViewer
