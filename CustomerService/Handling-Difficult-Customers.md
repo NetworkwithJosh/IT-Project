@@ -18,3 +18,7 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **I validate their experience without encouraging further anger**  
   *I see why this would be disruptive, especially with a deadline coming up. I appreciate your patience while I take a closer look.*
+
+- **I focus on the next step, clearly and calmly**  
+  *We’ll begin by restarting your VPN connection and checking the access settings. I’ll walk you through the process.*
+---
