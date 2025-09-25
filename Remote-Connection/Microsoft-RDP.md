@@ -12,3 +12,6 @@ It transfers the screen display of the remote machine to the client device and s
 
 ### Security
 RDP uses encryption to protect sessions, but it can be a security risk if not configured properly (e.g., weak passwords, open ports without firewall/VPN).
+
+### Common Use
+IT support teams, system administrators, and employees working remotely often use RDP to manage or access computers and servers.
