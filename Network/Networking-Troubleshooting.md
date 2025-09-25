@@ -173,5 +173,18 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ---
 ## If All Steps Fail What’s Next
 
+12. **Escalate to Network/Admin Team**:
+   - Provide:
+     - Results of ping, ipconfig, tracert, nslookup
+     - Event log info
+     - All steps already taken
+
+18. **Document Everything**:
+   - In your ticketing system:
+     - What was reported
+     - What tests you ran
+     - Results of each test
+     - Final decision (resolved/escalated)
+     - Attach screenshots or logs if needed
 
    
