@@ -115,4 +115,12 @@ Thanks for contacting IT Support. I've unlocked your account, you should now be 
 
 If you’d like, I can also help you set up a self-service password reset option for the future.
 
-Let me know if everything works as expected.  
+Let me know if everything works as expected.
+Kind regards,
+Joshua
+IT Support
+
+### Example: Password Reset
+
+**Subject**: Re: Password Reset Request
+
