@@ -135,3 +135,8 @@ Let me know if you need any help updating it.
 Best,
 Joshua
 IT Support
+---
+### Best Practices I Follow in Email
+
+- I use clear, polite, and respectful language.
+- I avoid assigning blame or using complex terminology.
