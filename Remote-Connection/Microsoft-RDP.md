@@ -38,4 +38,4 @@ If you’re at home and need to access your office computer, you can open the Re
 ### How to Launch RDP on Windows
 1. Press `Win + R`
 2. Type `mstsc`
-
+3. Enter the **IP address** or **name** of the user’s computer (e.g., `192.168.56.106`)
