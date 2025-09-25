@@ -56,3 +56,4 @@
 - Already downloaded TeamViewer on the host machine
 - On my lab for Windows 11:
   - I downloaded TeamViewer (free version)
+  - Selected **Receive Support**
