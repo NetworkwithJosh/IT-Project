@@ -129,3 +129,9 @@ I’ve reset your password as requested.
 
 Your temporary password is: `Temp2024!`  
 Please log in and change it as soon as possible.
+
+Let me know if you need any help updating it.
+
+Best,
+Joshua
+IT Support
