@@ -187,4 +187,9 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - Final decision (resolved/escalated)
      - Attach screenshots or logs if needed
 
-   
+---
+## Notes
+
+- IPv4 is most commonly used; IPv6 is newer but not always supported on all systems.
+- Google Public DNS: 8.8.8.8 and 8.8.4.4
+- Loopback address: 127.0.0.1   
