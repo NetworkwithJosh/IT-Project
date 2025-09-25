@@ -28,3 +28,5 @@ Is a multi-factor authentication (MFA) app developed by Cisco Duo Security. It h
 - Something you have – a smartphone app (like Duo Mobile, Google Authenticator), a hardware token, or a smart card.
 - Something you are – biometric identifiers such as a fingerprint, facial recognition, or voice pattern.
 
+### Example 
+- For example, when you log in to your email, you might first enter your password (something you know) and then confirm a push notification on your phone (something you have).
