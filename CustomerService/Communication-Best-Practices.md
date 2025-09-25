@@ -14,3 +14,5 @@ My goal is to create a sense of trust and assurance from the first moment of con
 
 - I introduce myself and explain my role.
   *I'm Kizito from IT Support. I'll be helping you through this issue.*
+
+- I acknowledge any urgency or disruption.
