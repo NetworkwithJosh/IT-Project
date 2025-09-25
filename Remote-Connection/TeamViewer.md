@@ -15,3 +15,6 @@
   - Faster Resolution: Issues can be solved immediately without waiting for someone to travel onsite.
   - Cost-Effective: Saves time and money for both the company and the user.
   - Scalable: A single IT team can support users across different cities or even countries.
+
+### Example 
+ - If your laptop suddenly can’t connect to Wi-Fi, you might call the IT help desk. Instead of coming to your office, the IT technician could securely log in to your system from their location, diagnose the network settings, fix them, and get you back online.
