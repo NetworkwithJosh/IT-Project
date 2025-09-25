@@ -153,3 +153,13 @@ My goal is to maintain clear and professional communication during real-time int
 
 - I provide brief updates if something takes time.  
   *I’m checking your account now, one moment please.*
+  
+- I break instructions into smaller steps to improve clarity.
+
+- I confirm resolution and offer further help before ending the conversation.  
+  *Everything looks good now. Is there anything else I can help with today?*
+
+  *If anything else comes up, feel free to reach out.*
+
+  
+
