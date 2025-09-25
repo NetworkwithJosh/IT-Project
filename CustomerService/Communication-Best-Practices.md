@@ -29,4 +29,7 @@ My goal is to make the client feel heard and supported, regardless of the issue�
   *That must be frustrating, especially with a deadline approaching.*
   
 - I treat every issue as valid, no matter how small it may seem. 
-   *That error message does look unusual. I’ll take a closer look.
+  *That error message does look unusual. I’ll take a closer look.
+
+- I stay calm, positive, and professional.
+  *You’re in good hands. I’ll take care of this for you.*
