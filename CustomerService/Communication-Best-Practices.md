@@ -66,3 +66,6 @@ My goal is to help clients feel informed, not overwhelmed.
 - I spell out abbreviations when needed.  
   *We’ll set up MFA, Multi-Factor Authentication. It adds a second layer of security when you log in.*
 
+### For executive-level clients
+
+
