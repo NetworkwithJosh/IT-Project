@@ -44,9 +44,9 @@ If you’re at home and need to access your office computer, you can open the Re
 4. Then connect:
    - A prompt will appear
    - Click **Yes**
-![Screenshot](images/RDP5.jpg)
+![Screenshot](images/RDP4.jpg)
    - Now you’re logged in to the remote machine
-![Screenshot](images/RDP6.jpg)
+![Screenshot](images/RDP5.jpg)
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
 ![Screenshot](images/RDP7.jpg)
