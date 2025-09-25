@@ -83,3 +83,4 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 ![Screenshot](images/TeamViewer9.jpg)
 
 ---
+### Basic Network Troubleshooting
