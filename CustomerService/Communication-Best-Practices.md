@@ -16,3 +16,4 @@ My goal is to create a sense of trust and assurance from the first moment of con
   *I'm Kizito from IT Support. I'll be helping you through this issue.*
 
 - I acknowledge any urgency or disruption.
+  *I understand this might be affecting your workflow. I'll do my best to get this resolved quickly.*
