@@ -6,3 +6,5 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 ## 1. When a Client is Frustrated
 
+**Goal:** Defuse the emotion, then resolve the issue.
+
