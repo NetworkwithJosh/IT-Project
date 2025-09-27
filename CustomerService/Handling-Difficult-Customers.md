@@ -90,3 +90,13 @@ These are the core beliefs I apply in every user interaction:
 - I explain issues in simple terms, as if speaking to a family member who is not tech-savvy.
 - I avoid jargon and focus on clarity.
 - I always follow up after resolving an issue, either by email or ticket update.
+
+### Example Follow-Up Email
+
+> **Subject**: Follow-Up on Adobe Acrobat Issue  
+>  
+> Good morning Marie,  
+>  
+> I wanted to check in regarding the issue you had with Adobe Acrobat yesterday.  
+
+
