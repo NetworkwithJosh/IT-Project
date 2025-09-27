@@ -70,3 +70,5 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 `[10:40 AM] Issue persists – GPO not applying correctly. Verified user and machine accounts, tried gpupdate /force, no success.`  
 `Escalating to SysAdmin team. Uploaded screenshots of Event Viewer logs and attached gpresult output.`
 
+## Ticket Note Writing Standards I Follow
+
