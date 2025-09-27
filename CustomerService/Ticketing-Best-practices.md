@@ -120,3 +120,5 @@ Log each action taken in detail, along with any findings or result.
 Use timestamps and explain what you're investigating or testing.
 ### 4. Resolution and Confirmation
 Clearly state what fixed the issue and confirm the user is satisfied.
+### 5. Escalation (if needed)
+Summarize all action taken, findings, and next steps. Attach logs or screenshots if necessary.
