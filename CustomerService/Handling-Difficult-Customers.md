@@ -76,3 +76,6 @@ Working in IT support means managing emotional moments with composure. Here are 
 - I never ignore the emotional side of the situation, users want to feel heard just as much as they want a fix.
 
 Support is not just about solving technical problems; it’s about building trust, especially under pressure.
+
+# Customer Service (My Values)
+
