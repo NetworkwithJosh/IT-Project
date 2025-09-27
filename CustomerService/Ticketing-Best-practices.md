@@ -22,3 +22,5 @@ This approach ensures transparency, continuity, and readiness for escalation if 
 ## My Step-by-Step Workflow
 
 ### 1. Initial Summary
+
+I start every ticket with a clear description of the issue, including the user’s report, exact error messages (if any), and the time the problem began.
