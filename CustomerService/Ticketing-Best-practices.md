@@ -126,3 +126,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 ---
 
 ## Sample Ticket Note
+
+### Account Lockout
+9:00 AM User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
+
