@@ -140,6 +140,9 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ---
 
+  ### **Outlook Not Opening / Freezing**
+
+10:06 AM User reports Outlook not opening. No error message. Issue started this morning.
 
 
 
