@@ -114,3 +114,6 @@ To create consistent, professional, and useful documentation that reflects the q
 
 ### 1. Initial Client Report
 Clearly summarize the issue based on the user's report. Include error messages, time of occurrence, and the method of contact.
+### 2. Technical Steps Taken
+Log each action taken in detail, along with any findings or result.
+### 3. Ongoing Updates
