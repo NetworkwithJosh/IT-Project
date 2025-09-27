@@ -57,3 +57,7 @@ Working in IT support means managing emotional moments with composure. Here are 
 *I’m sorry for the delay, and I understand how frustrating this must be. I’ve just picked up your ticket and I’m reviewing the issue now. I’ll keep you informed as I go and do my best to get this resolved quickly.*
 
 ### Scenario 2: A Client Using Profanity
+
+> “Why is this damn system always broken? Nothing ever works!”
+
+**My Response:**
