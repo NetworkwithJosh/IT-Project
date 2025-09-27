@@ -5,3 +5,6 @@
 My goal is to ensure every support ticket is clear, accurate, and professionally written. A well-documented ticket should provide full context, show visible progress, and allow anyone, technicians, clients, or managers, to quickly understand what happened, when it happened, and what actions were taken.
 
 Good ticketing builds trust, improves collaboration across teams, and supports accountability in managed environments.
+
+---
+## My Core Principle
