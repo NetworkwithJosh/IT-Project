@@ -118,3 +118,5 @@ Clearly summarize the issue based on the user's report. Include error messages, 
 Log each action taken in detail, along with any findings or result.
 ### 3. Ongoing Updates
 Use timestamps and explain what you're investigating or testing.
+### 4. Resolution and Confirmation
+Clearly state what fixed the issue and confirm the user is satisfied.
