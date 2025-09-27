@@ -102,4 +102,7 @@ That’s how I maintain trust with clients, teammates, and managers in a fast-pa
 To create consistent, professional, and useful documentation that reflects the quality of my support, improves team collaboration, and builds trust with both clients and managers.
 ## Core Principles
 
+- Document everything as a **timeline**
+- Use **clear, direct language** with technical accuracy
+
 
