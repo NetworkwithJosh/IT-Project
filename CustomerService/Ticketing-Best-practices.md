@@ -190,6 +190,8 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [11:05 AM] User reports no audio in Teams meeting. Tested with another call – same issue. 
 
+[11:08 AM] Remote session active. Confirmed output device set to HDMI (user has headphones plugged in).
+
    
 
 
