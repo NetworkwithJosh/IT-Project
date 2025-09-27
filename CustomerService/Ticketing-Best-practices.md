@@ -113,4 +113,4 @@ To create consistent, professional, and useful documentation that reflects the q
 ## Standard Ticket Structure
 
 ### 1. Initial Client Report
-
+Clearly summarize the issue based on the user's report. Include error messages, time of occurrence, and the method of contact.
