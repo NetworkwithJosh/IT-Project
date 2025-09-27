@@ -146,5 +146,5 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 10:10 AM Connected via remote session. Confirmed Outlook process stuck in Task Manager. Terminated task.
 
-
+10:14 AM Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
 
