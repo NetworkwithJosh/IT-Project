@@ -106,4 +106,6 @@ To create consistent, professional, and useful documentation that reflects the q
 - Use **clear, direct language** with technical accuracy
 - Assume **handover is always possible** – write so any colleague can continue the work
 - Keep the tone **professional and neutral**
+- Include the **client's confirmation** before closing
+- Log timestamps and actions every 10–15 minutes during active troubleshooting
 
