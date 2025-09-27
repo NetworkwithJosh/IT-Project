@@ -206,6 +206,10 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ## Follow-Up Example (Email or Internet Note)`
 
+[04:45 PM] Followed up via email:
+
+Subject: Follow-Up on Your Outlook Issue
+
 
 
   
