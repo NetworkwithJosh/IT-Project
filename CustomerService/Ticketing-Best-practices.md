@@ -176,6 +176,10 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
 
+[01:14 PM] Remote session started. Cleared print queue and restarted print spooler service.
+
+[01:18 PM] Printed test page from Notepad – successful.
+
 
 
 
