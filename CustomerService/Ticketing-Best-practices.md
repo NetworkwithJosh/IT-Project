@@ -198,6 +198,8 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [11:15 AM] User confirmed issue resolved. Restarted Teams and tested again to ensure consistency.   
 
+[11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
+
 
 
 
