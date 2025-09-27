@@ -36,4 +36,6 @@ For every step I take, I record what was done, why it was done, and what the res
 
 **Example**
 
+`[9:50 AM] Checked Active Directory – user account was locked after multiple failed attempts. Unlocked account and asked user to try logging in again.`
+
 
