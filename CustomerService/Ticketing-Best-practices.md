@@ -32,4 +32,8 @@ I start every ticket with a clear description of the issue, including the userâ€
 ---
 ### 2. Documentation of Actions
 
+For every step I take, I record what was done, why it was done, and what the result was.
+
+**Example**
+
 
