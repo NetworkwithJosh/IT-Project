@@ -97,6 +97,17 @@ These are the core beliefs I apply in every user interaction:
 >  
 > Good morning Marie,  
 >  
-> I wanted to check in regarding the issue you had with Adobe Acrobat yesterday.  
+> I wanted to check in regarding the issue you had with Adobe Acrobat yesterday.
+>
+> Please let me know if it’s working properly now. If everything looks good, I’ll go ahead and close the ticket.
+>
+> If you’re still experiencing any trouble, feel free to reply and I’ll take another look.
+>
+> Kings regards,
+> Joshua
+> IT Support
+
+## Final Thoughts
+
 
 
