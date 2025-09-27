@@ -47,3 +47,5 @@ If the issue is ongoing, I provide updates at reasonable intervals (typically ev
 
 `[10:05 AM] Remote session established. Reviewing logs on user machine.`  
 `[10:15 AM] Found Event ID 1058 – Group Policy error. Investigating DNS resolution and SYSVOL access.`
+
+This not only helps with visibility, but it also provides coverage in case the ticket needs to be handed off or escalated.
