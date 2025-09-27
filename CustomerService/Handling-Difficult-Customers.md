@@ -39,4 +39,7 @@ My goal is to deliver support that de-escalates tension while moving the convers
 ---
 ## 3. How I Stay Grounded Under Pressure
 
+Working in IT support means managing emotional moments with composure. Here are techniques I use to stay centered:
 
+- I pause and take a breath before responding.
+- I read the message twice before replying to anything emotional.
