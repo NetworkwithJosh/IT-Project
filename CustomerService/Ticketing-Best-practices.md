@@ -148,3 +148,5 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 10:14 AM Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
 
+10:18 AM Disabled all non-Microsoft add-ins. Restarted Outlook in normal mode.
+
