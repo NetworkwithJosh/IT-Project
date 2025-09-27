@@ -109,3 +109,6 @@ To create consistent, professional, and useful documentation that reflects the q
 - Include the **client's confirmation** before closing
 - Log timestamps and actions every 10–15 minutes during active troubleshooting
 
+---
+## Standard Ticket Structure
+
