@@ -62,3 +62,5 @@ Before closing a ticket, I confirm that the issue is fully resolved, services ar
 
 ---
 ### 5. Escalation Summary (When Applicable)
+
+If a ticket needs to be escalated to Level 2 or another department, I provide a clear and concise summary of what’s been done and where the issue currently stands. I include any logs, screenshots, or observations that may be useful for the next technician.
