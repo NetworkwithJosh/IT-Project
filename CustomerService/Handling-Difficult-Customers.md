@@ -23,3 +23,5 @@ My goal is to deliver support that de-escalates tension while moving the convers
   *We’ll begin by restarting your VPN connection and checking the access settings. I’ll walk you through the process.*
 ---
 ## 2. When a Client is Using Aggressive or Inappropriate Language
+
+**Goal:** Stay respectful and maintain healthy boundaries.
