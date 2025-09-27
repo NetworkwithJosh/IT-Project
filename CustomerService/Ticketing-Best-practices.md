@@ -20,3 +20,5 @@ If an issue is still in progress, I leave meaningful updates every 10–15 minut
 This approach ensures transparency, continuity, and readiness for escalation if needed.
 
 ## My Step-by-Step Workflow
+
+### 1. Initial Summary
