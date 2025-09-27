@@ -78,3 +78,4 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 - I explain every action taken, what was checked, what was changed, and what result it produced.
 - I stay neutral and professional in tone, while keeping notes easy to read.
 - I do not include unnecessary technical jargon if it doesn’t add value to the note.
+- I always include the client’s confirmation before closing, either via email, chat, or voice.
