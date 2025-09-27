@@ -25,3 +25,9 @@ My goal is to deliver support that de-escalates tension while moving the convers
 ## 2. When a Client is Using Aggressive or Inappropriate Language
 
 **Goal:** Stay respectful and maintain healthy boundaries.
+
+### How I handle it:
+
+- **I remind myself it’s not personal**
+    The client is frustrated with the situation, not with me as a person.
+
