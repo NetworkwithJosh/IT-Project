@@ -192,6 +192,8 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [11:08 AM] Remote session active. Confirmed output device set to HDMI (user has headphones plugged in).
 
+[11:10 AM] Changed default audio device to headphones in Windows and Teams settings.
+
    
 
 
