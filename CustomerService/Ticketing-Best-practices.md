@@ -95,4 +95,4 @@ It:
 The quality of my ticket notes reflects the quality of my work. They show how I think, how I solve problems, and how I communicate. Whether a ticket is simple or complex, I take pride in making sure my documentation is thorough, accurate, and easy for others to follow.
 
 That’s how I maintain trust with clients, teammates, and managers in a fast-paced MSP environment.
-
+# Ticketing Best Practices - Extend Guide
