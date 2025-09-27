@@ -12,3 +12,5 @@ Good ticketing builds trust, improves collaboration across teams, and supports a
 I treat every ticket like a technical timeline. Whether the issue is ongoing or resolved, I update the ticket regularly, especially during active troubleshooting.
 
 If an issue is still in progress, I leave meaningful updates every 10–15 minutes. These updates include timestamps and the specific steps taken, not generic statements.
+
+**Example:**
