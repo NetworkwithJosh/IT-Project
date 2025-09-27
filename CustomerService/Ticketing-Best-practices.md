@@ -59,3 +59,6 @@ Before closing a ticket, I confirm that the issue is fully resolved, services ar
 
 `[10:30 AM] User able to log in after correcting DNS settings and restarting workstation. Confirmed access to Outlook, mapped drives, and company apps. User confirmed everything is working.`  
 `Closing ticket.`
+
+---
+### 5. Escalation Summary (When Applicable)
