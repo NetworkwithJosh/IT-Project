@@ -170,7 +170,11 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [08:53 AM] Logged VPN logs in case of recurrence. Ticket closed after confirmation.
 
+---
 
+### **Printer Not Responding**
+
+[01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
 
 
 
