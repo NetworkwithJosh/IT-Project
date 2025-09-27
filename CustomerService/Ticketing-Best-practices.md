@@ -89,3 +89,4 @@ It:
 - Reduces back-and-forth with clients
 - Allows seamless handover during shift transitions
 - Protects against miscommunication or disputes
+- Improves root cause analysis and long-term solutions
