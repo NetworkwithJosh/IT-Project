@@ -104,5 +104,6 @@ To create consistent, professional, and useful documentation that reflects the q
 
 - Document everything as a **timeline**
 - Use **clear, direct language** with technical accuracy
-
+- Assume **handover is always possible** – write so any colleague can continue the work
+- Keep the tone **professional and neutral**
 
