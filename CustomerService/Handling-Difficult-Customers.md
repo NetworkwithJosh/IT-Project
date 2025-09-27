@@ -36,3 +36,7 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **If the language remains abusive, I follow proper steps**
    I document the behavior, alert a supervisor if needed, and follow company policy on escalation. I do not continue if it compromises respectful communication.
+---
+## 3. How I Stay Grounded Under Pressure
+
+
