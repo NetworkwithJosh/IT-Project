@@ -1,3 +1,5 @@
 # Ticketing Best Practices (My Personal Workflow)
 
 ## Objective
+
+My goal is to ensure every support ticket is clear, accurate, and professionally written. A well-documented ticket should provide full context, show visible progress, and allow anyone, technicians, clients, or managers, to quickly understand what happened, when it happened, and what actions were taken.
