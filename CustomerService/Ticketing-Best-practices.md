@@ -54,3 +54,8 @@ This not only helps with visibility, but it also provides coverage in case the t
 ### 4. Ticket Closure
 
 Before closing a ticket, I confirm that the issue is fully resolved, services are restored, and the user is satisfied.
+
+**Example:**
+
+`[10:30 AM] User able to log in after correcting DNS settings and restarting workstation. Confirmed access to Outlook, mapped drives, and company apps. User confirmed everything is working.`  
+`Closing ticket.`
