@@ -16,3 +16,5 @@ If an issue is still in progress, I leave meaningful updates every 10–15 minut
 **Example:**
 
 `[10:15 AM] Reset user profile, still receiving login error. Currently checking authentication logs on the domain controller.`
+
+This approach ensures transparency, continuity, and readiness for escalation if needed.
