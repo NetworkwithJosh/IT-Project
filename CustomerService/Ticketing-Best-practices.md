@@ -72,3 +72,5 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 
 ## Ticket Note Writing Standards I Follow
 
+- I avoid vague comments like “Still troubleshooting.” I always specify exactly what I'm doing.
+- I include timestamps when writing ongoing updates.
