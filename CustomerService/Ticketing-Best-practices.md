@@ -194,6 +194,8 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [11:10 AM] Changed default audio device to headphones in Windows and Teams settings.
 
+[11:12 AM] Test call successful. Microphone and speaker both working.
+
    
 
 
