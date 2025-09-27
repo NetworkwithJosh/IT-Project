@@ -67,3 +67,9 @@ Working in IT support means managing emotional moments with composure. Here are 
 **If the language continues:**
 
 *I’m here to assist, but I ask that we keep the communication respectful so I can focus on resolving the issue effectively.*
+
+---
+## 5. What I Avoid at All Times
+
+- I never raise my voice or respond with sarcasm.
+- I never blame the user, even when they contributed to the issue.
