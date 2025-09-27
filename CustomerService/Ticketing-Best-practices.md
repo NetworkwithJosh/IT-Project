@@ -112,3 +112,5 @@ To create consistent, professional, and useful documentation that reflects the q
 ---
 ## Standard Ticket Structure
 
+### 1. Initial Client Report
+
