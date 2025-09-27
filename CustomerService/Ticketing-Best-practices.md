@@ -76,3 +76,5 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 - I include timestamps when writing ongoing updates.
 - I write as if the next person to read the ticket has no prior context.
 - I explain every action taken, what was checked, what was changed, and what result it produced.
+- I stay neutral and professional in tone, while keeping notes easy to read.
+- I do not include unnecessary technical jargon if it doesn’t add value to the note.
