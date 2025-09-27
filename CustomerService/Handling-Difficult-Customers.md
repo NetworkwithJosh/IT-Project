@@ -65,3 +65,5 @@ Working in IT support means managing emotional moments with composure. Here are 
 *I understand you’re upset, and I’m here to help you through it. I’ll take a look now and guide you through the next steps.*
 
 **If the language continues:**
+
+*I’m here to assist, but I ask that we keep the communication respectful so I can focus on resolving the issue effectively.*
