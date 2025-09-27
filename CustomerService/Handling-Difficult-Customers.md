@@ -43,3 +43,7 @@ Working in IT support means managing emotional moments with composure. Here are 
 
 - I pause and take a breath before responding.
 - I read the message twice before replying to anything emotional.
+- I mentally separate the client’s emotion from the technical facts.
+- I stay focused on one thing: helping the user succeed.
+---
+## 4. Example Scenarios and How I Respond
