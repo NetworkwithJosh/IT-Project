@@ -200,6 +200,16 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 [11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
 
+---
+
+  ## Best Practices for Notes - Use **bulletproof clarity** - no abbreviations unless widely known (e.g AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **log or command output summaries** when useful - If issue recurs, use tags or keywords so it's searchable later - Keep your tone **calm, courteous, and composed** - especially if notes are visible --- ## What I Avoid - Writing vague notes like "Issue fixed" without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic langugage - Copy pasting logs without context - Closing a ticket without user confirmation or proper follow-up
+
+## Follow-Up Example (Email or Internet Note)`
+
+
+
+  
+
 
 
 
