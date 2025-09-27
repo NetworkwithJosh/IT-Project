@@ -86,4 +86,7 @@ These are the core beliefs I apply in every user interaction:
 - If a user asks to speak with a manager, I’m not defensive, I understand the value of transparency.
 - I respect the user’s time. Most people I support have meetings and tasks to complete, so I work efficiently.
 - I lead with empathy, not ego.
-- 
+- Technical knowledge matters, but **communication matters more**.
+- I explain issues in simple terms, as if speaking to a family member who is not tech-savvy.
+- I avoid jargon and focus on clarity.
+- I always follow up after resolving an issue, either by email or ticket update.
