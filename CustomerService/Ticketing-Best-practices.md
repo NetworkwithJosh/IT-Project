@@ -28,3 +28,8 @@ I start every ticket with a clear description of the issue, including the userâ€
 **Example:**
 
 `[9:42 AM] User reports being unable to log in since 8:45 AM. Error message displayed: "Account locked. Contact administrator." Issue reported via email.`
+
+---
+### 2. Documentation of Actions
+
+
