@@ -33,3 +33,6 @@ My goal is to deliver support that de-escalates tension while moving the convers
   
 - **If the tone crosses the line, I stay firm and professional**
    *I understand this is frustrating and I’m here to help. I do ask that we keep the conversation respectful so I can focus on resolving the issue for you.*
+
+- **If the language remains abusive, I follow proper steps**
+   I document the behavior, alert a supervisor if needed, and follow company policy on escalation. I do not continue if it compromises respectful communication.
