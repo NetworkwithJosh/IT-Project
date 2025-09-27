@@ -134,3 +134,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 09:18 AM Unlocked account in AD. Instructed user to attempt login.
 
+09:20 AM User logged in successfully. Advised to wait 30 seconds after each failed attempt going forward.
+
+
+
