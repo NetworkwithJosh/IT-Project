@@ -87,3 +87,5 @@ In an MSP environment, technicians often work across multiple clients, systems, 
 It:
 - Shows consistent effort and professionalism
 - Reduces back-and-forth with clients
+- Allows seamless handover during shift transitions
+- Protects against miscommunication or disputes
