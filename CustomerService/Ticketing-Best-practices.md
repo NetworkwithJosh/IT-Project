@@ -132,3 +132,5 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 09:15 AM Checked Active Directory - account locked due to 5 failed attempts. Verified no suspicious activity on logs.
 
+09:18 AM Unlocked account in AD. Instructed user to attempt login.
+
