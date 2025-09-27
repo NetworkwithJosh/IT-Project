@@ -47,3 +47,13 @@ Working in IT support means managing emotional moments with composure. Here are 
 - I stay focused on one thing: helping the user succeed.
 ---
 ## 4. Example Scenarios and How I Respond
+
+### Scenario 1: An Angry Client
+
+> “This is ridiculous! I’ve been waiting all day and no one has fixed this stupid system!”
+
+**My Response: **
+
+*I’m sorry for the delay, and I understand how frustrating this must be. I’ve just picked up your ticket and I’m reviewing the issue now. I’ll keep you informed as I go and do my best to get this resolved quickly.*
+
+### Scenario 2: A Client Using Profanity
