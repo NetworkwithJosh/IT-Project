@@ -11,3 +11,4 @@ As a  Helpdesk I might approval from management to install software application 
 ![Screenshot](images)
 
 ---
+## What Does It Do?
