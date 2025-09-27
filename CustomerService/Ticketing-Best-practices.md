@@ -130,3 +130,5 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 ### Account Lockout
 9:00 AM User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
 
+09:15 AM Checked Active Directory - account locked due to 5 failed attempts. Verified no suspicious activity on logs.
+
