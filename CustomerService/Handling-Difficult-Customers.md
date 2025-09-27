@@ -30,4 +30,6 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **I remind myself it’s not personal**
     The client is frustrated with the situation, not with me as a person.
-
+  
+- **If the tone crosses the line, I stay firm and professional**
+   *I understand this is frustrating and I’m here to help. I do ask that we keep the conversation respectful so I can focus on resolving the issue for you.*
