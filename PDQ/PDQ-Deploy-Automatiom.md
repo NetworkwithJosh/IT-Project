@@ -17,3 +17,4 @@ As a  Helpdesk I might approval from management to install software application 
 - Updates software and deploys custom scripts
 - Schedules deployments (e.g install at night)
 ---
+## Setting up PDQ Deploy on Server 2022 (My Lab Environment)
