@@ -127,7 +127,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ## Sample Ticket Note
 
-### Account Lockout
+ ### Account Lockout
 9:00 AM User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
 
 09:15 AM Checked Active Directory - account locked due to 5 failed attempts. Verified no suspicious activity on logs.
@@ -140,7 +140,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ---
 
-  ### **Outlook Not Opening / Freezing**
+ ### **Outlook Not Opening / Freezing**
 
 10:06 AM User reports Outlook not opening. No error message. Issue started this morning.
 
@@ -156,7 +156,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ---
 
-   ### **VPN / Network Connection Issue**
+  ### **VPN / Network Connection Issue**
 
 [08:30 AM] User unable to connect to VPN. Error: "Unable to establish connection." Occurring since today.
 
@@ -172,7 +172,7 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 
 ---
 
-### **Printer Not Responding**
+  ### **Printer Not Responding**
 
 [01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
 
@@ -183,6 +183,14 @@ Summarize all action taken, findings, and next steps. Attach logs or screenshots
 [01:20 PM] Asked user to retry printing Excel document. Success confirmed.
 
 [01:23 PM] User confirmed printing now works. Ticket closed. No further action needed.
+
+---
+
+ ### **Microsoft Teams - Audio/Video Not Working**
+
+[11:05 AM] User reports no audio in Teams meeting. Tested with another call – same issue. 
+
+   
 
 
 
