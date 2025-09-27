@@ -4,4 +4,5 @@
 
 PDQ Deploy is a remote software deployment tool for Windows environments. It allows you to push software, scripts, patches, and updates to multiple machines simultaneously or on a schedule.
 
-You can see it as your "remote software installer."  
+You can see it as your "remote software installer."
+Instead of going from PC to PC, you send out one command and PDQ takes care of the rest.
