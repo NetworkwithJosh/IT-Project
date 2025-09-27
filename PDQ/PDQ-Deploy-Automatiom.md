@@ -18,3 +18,6 @@ As a  Helpdesk I might approval from management to install software application 
 - Schedules deployments (e.g install at night)
 ---
 ## Setting up PDQ Deploy on Server 2022 (My Lab Environment)
+
+- My Windows Server 2022 has a static IP.
+  
