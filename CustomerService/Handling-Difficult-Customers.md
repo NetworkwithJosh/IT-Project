@@ -79,3 +79,4 @@ Support is not just about solving technical problems; it’s about building trus
 
 # Customer Service (My Values)
 
+These are the core beliefs I apply in every user interaction:
