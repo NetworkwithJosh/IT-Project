@@ -15,3 +15,4 @@ As a  Helpdesk I might approval from management to install software application 
 
 - Silently installs applications (e.g. Chrome, Zoom, Adobe Reader)
 - Updates software and deploys custom scripts
+- Schedules deployments (e.g install at night)
