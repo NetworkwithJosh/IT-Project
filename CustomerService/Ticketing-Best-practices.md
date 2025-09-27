@@ -38,4 +38,7 @@ For every step I take, I record what was done, why it was done, and what the res
 
 `[9:50 AM] Checked Active Directory – user account was locked after multiple failed attempts. Unlocked account and asked user to try logging in again.`
 
+---
+### 3. In-Progress Updates
+
 
