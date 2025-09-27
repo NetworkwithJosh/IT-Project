@@ -41,4 +41,6 @@ For every step I take, I record what was done, why it was done, and what the res
 ---
 ### 3. In-Progress Updates
 
+If the issue is ongoing, I provide updates at reasonable intervals (typically every 10–15 minutes), detailing what I’m doing in that timeframe.
+
 
