@@ -12,3 +12,5 @@ As a  Helpdesk I might approval from management to install software application 
 
 ---
 ## What Does It Do?
+
+- Silently installs applications (e.g. Chrome, Zoom, Adobe Reader)
