@@ -8,3 +8,5 @@ Good ticketing builds trust, improves collaboration across teams, and supports a
 
 ---
 ## My Core Principle
+
+I treat every ticket like a technical timeline. Whether the issue is ongoing or resolved, I update the ticket regularly, especially during active troubleshooting.
