@@ -74,3 +74,5 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 
 - I avoid vague comments like “Still troubleshooting.” I always specify exactly what I'm doing.
 - I include timestamps when writing ongoing updates.
+- I write as if the next person to read the ticket has no prior context.
+- I explain every action taken, what was checked, what was changed, and what result it produced.
