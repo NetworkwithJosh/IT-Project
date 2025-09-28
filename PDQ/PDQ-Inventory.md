@@ -102,3 +102,5 @@ PDQ Inventory scans each machine to gather details such as:
     - Example: Deploying packages like **7-Zip** and **Zoom**
 ## Silent Application Deployent Notes
 
+ - Check target → Select time to deploy (etc.) → Deploy Now
+
