@@ -37,3 +37,7 @@ PDQ Inventory scans each machine to gather details such as:
 
   - At the top → **Add Computers** → **Active Directory**
   - It Shows you all the computers on your Active Directory
+  ![Screenshot](images/Inventory4.jpg)
+  - Add to the target → Click **OK**
+  ![Screenshot](images/Inventory5.jpg)
+
