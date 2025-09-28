@@ -24,3 +24,4 @@ As a  Helpdesk I might approval from management to install software application 
 ![Screenshot](images/PDQ2.jpg)
 ### Steps:
 1. Navigate to **Control Panel** → **Network** → **Change Adapter Settings**
+2. Go to PDQ official website
