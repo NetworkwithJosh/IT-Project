@@ -88,3 +88,5 @@ As a  Helpdesk I might approval from management to install software application 
   ### Deploying Software
 
   - From the Inventory, you can enter **PDQ Deploy** and deploy software:
+  ![Screenshot](images/PDQ14.jpg)
+    
