@@ -95,3 +95,7 @@ PDQ Inventory scans each machine to gather details such as:
 ---
 ### Deploying Software
 
+- From the Inventory, you can enter **PDQ Deploy** and deploy software:
+![Screenshot](images/Inventory18.jpg)
+ - Tools → Deploy Package
+
