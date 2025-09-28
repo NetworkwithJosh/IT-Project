@@ -86,3 +86,5 @@ As a  Helpdesk I might approval from management to install software application 
   > **Note:**  
   > This process allows IT administrators or helpdesk to deploy applications on the back-end without interrupting the users.
   ### Deploying Software
+
+  - From the Inventory, you can enter **PDQ Deploy** and deploy software:
