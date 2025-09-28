@@ -80,4 +80,8 @@ PDQ Inventory scans each machine to gather details such as:
 - PDQ Inventory also allows for **Reboot** or **Shutdown** of the machine
   - Go to: **Tools** → Reboot / Shutdown → OK
 ![Screenshot](images/Inventory15.jpg)
-    ipconfig on windows 11 from PDQ Inventory
+    ipconfig on windows 11 from PDQ Inventory.
+![Screenshot](images/Inventory16.jpg)
+
+
+---
