@@ -69,3 +69,5 @@ As a  Helpdesk I might approval from management to install software application 
   > Now it's completed and fully deployed to my Server 2022.
   ![Screenshot](images/PDQ11.jpg)
   ## Deploying 7-Zip PDQ Deploy on Windows Server 2022
+
+  ### Deployment Procedure
