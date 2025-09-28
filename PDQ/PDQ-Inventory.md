@@ -29,4 +29,4 @@ PDQ Inventory scans each machine to gather details such as:
 - Choose installation type  → Enter credential password  → Finish
 ![Screenshot] 
   ### Launch PDQ Inventory
-  ![S
+  ![Screenshot]
