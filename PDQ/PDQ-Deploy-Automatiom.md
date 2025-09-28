@@ -27,3 +27,4 @@ As a  Helpdesk I might approval from management to install software application 
 2. Go to PDQ official website
 3.  Sign up for 14-day trial
 4.  Fill in my details and verify my email account
+5. Download PDQ Deploy and input the license key
