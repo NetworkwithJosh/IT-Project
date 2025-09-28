@@ -91,3 +91,4 @@ As a  Helpdesk I might approval from management to install software application 
   ![Screenshot](images/PDQ14.jpg)
   - Tools → Deploy Package
   ![Screenshot](images/PDQ15.jpg)
+    -  Example: Deploying packages like **7-Zip** and **Zoom**
