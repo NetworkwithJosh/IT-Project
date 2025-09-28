@@ -62,4 +62,4 @@ As a  Helpdesk I might approval from management to install software application 
      - Click on the single arrow →
   ![Screenshot](images/PDQ8.jpg)
     - Click on **OK**
-    - 
+    - Then **Deploy Now**
