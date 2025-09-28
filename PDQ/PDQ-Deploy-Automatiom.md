@@ -50,3 +50,4 @@ As a  Helpdesk I might approval from management to install software application 
 - As app downloads, it gets added to local library
 ![Screenshot](images/PDQ5.jpg)
 1. Go to **Package**
+2. Select the app package
