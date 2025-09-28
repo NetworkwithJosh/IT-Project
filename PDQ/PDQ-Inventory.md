@@ -89,4 +89,6 @@ PDQ Inventory scans each machine to gather details such as:
 
 - To generate a report on applications:
   - Right-click on the PC → Scroll to **Run Report** → **Applications**
+  - Print preview on the top
+  - This reports on all the applications on the Windows 11 machine.
 
