@@ -34,3 +34,4 @@ As a  Helpdesk I might approval from management to install software application 
 
 -The Dashboard shows:
  -All Deployments
+ All apps deployment to endpoints
