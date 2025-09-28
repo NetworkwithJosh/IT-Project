@@ -85,3 +85,8 @@ PDQ Inventory scans each machine to gather details such as:
 
 
 ---
+### Application Reports
+
+- To generate a report on applications:
+  - Right-click on the PC → Scroll to **Run Report** → **Applications**
+
