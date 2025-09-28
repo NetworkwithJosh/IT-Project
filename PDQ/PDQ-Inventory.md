@@ -72,3 +72,7 @@ PDQ Inventory scans each machine to gather details such as:
 - You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
 ![Screenshot](images/Inventory13.jpg)
 ![Screenshot](images/Inventory14.jpg)
+
+
+---
+### Reboot or Shutdown via PDQ
