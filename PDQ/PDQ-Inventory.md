@@ -63,3 +63,6 @@ PDQ Inventory scans each machine to gather details such as:
 - On the Windows 11 PC, the file is already there if properly shared.
 ![Screenshot](images/Inventory10.jpg)
 ### Remote Access
+
+- Remoting into the computer from PDQ Inventory:
+  - Click on the computer → On top (Tools) → **Remote Desktop**
