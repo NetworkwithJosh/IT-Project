@@ -58,5 +58,6 @@ PDQ Inventory scans each machine to gather details such as:
 ![Screenshot](images/Inventory9.jpg)
 - This shows all the details of the computer for general info and Active Directory.
 ---
-
+### File Sharing
+- You can go to `\\shared path` to place a file for the user.
 
