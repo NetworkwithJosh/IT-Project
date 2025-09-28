@@ -28,16 +28,19 @@ PDQ Inventory scans each machine to gather details such as:
 - Enter license key and email account → Select **Local**
 - Choose installation type  → Enter credential password  → Finish
 ![Screenshot] 
-  ### Launch PDQ Inventory
+### Launch PDQ Inventory
   ![Screenshot](images/Inventory3.jpg)
   PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.
   In my project, I have Windows 11 added to the PDQ Inventory.
 
-  ### Adding Computers
+ ### Adding Computers
 
-  - At the top → **Add Computers** → **Active Directory**
-  - It Shows you all the computers on your Active Directory
-  ![Screenshot](images/Inventory4.jpg)
-  - Add to the target → Click **OK**
-  ![Screenshot](images/Inventory5.jpg)
+ - At the top → **Add Computers** → **Active Directory**
+ - It Shows you all the computers on your Active Directory
+ ![Screenshot](images/Inventory4.jpg)
+ - Add to the target → Click **OK**
+ ![Screenshot](images/Inventory5.jpg)
+---
+
+
 
