@@ -71,3 +71,5 @@ As a  Helpdesk I might approval from management to install software application 
   ## Deploying 7-Zip PDQ Deploy on Windows Server 2022
 
   ### Deployment Procedure
+
+  - Same procedure as deploying Zoom.
