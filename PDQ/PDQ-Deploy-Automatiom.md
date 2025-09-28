@@ -8,7 +8,7 @@ You can see it as your "remote software installer."
 Instead of going from PC to PC, you send out one command and PDQ takes care of the rest.
 As a  Helpdesk I might approval from management to install software application to client machine silently without interrupting their work.
 
-![Screenshot](images)
+![Screenshot](images/PDQ1.jpg)
 
 ---
 ## What Does It Do?
@@ -21,4 +21,5 @@ As a  Helpdesk I might approval from management to install software application 
 
 - My Windows Server 2022 has a static IP.
   In order to download PDQ, I had to change it to a dynamic IP address.
+![Screenshot](images/PDQ2.jpg)
   
