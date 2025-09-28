@@ -95,4 +95,5 @@ As a  Helpdesk I might approval from management to install software application 
   - Check target → Select time to deploy (etc.) → Deploy Now
   ![Screenshot](images/PDQ16.jpg)
   - Package is then deployed successfully
+  - On the lab/test machine, you can see the two apps installed silently on it
 
