@@ -43,3 +43,6 @@ As a  Helpdesk I might approval from management to install software application 
 - This is where all the apps are located
 ---
 ## Deploying Application on Server 2022
+
+- Go to **Package Library**
+- Select the app (in my lab: Zoom
