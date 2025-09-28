@@ -66,3 +66,4 @@ PDQ Inventory scans each machine to gather details such as:
 
 - Remoting into the computer from PDQ Inventory:
   - Click on the computer → On top (Tools) → **Remote Desktop**
+![Screenshot](images/Inventory11.jpg)
