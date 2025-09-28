@@ -93,4 +93,5 @@ As a  Helpdesk I might approval from management to install software application 
   ![Screenshot](images/PDQ15.jpg)
     -  Example: Deploying packages like **7-Zip** and **Zoom**
   - Check target → Select time to deploy (etc.) → Deploy Now
+  ![Screenshot](images/PDQ16.jpg)
 
