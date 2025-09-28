@@ -67,4 +67,6 @@ PDQ Inventory scans each machine to gather details such as:
 - Remoting into the computer from PDQ Inventory:
   - Click on the computer → On top (Tools) → **Remote Desktop**
 ![Screenshot](images/Inventory11.jpg)
- - Click **Connect** → Enter admin password → Now you have access. 
+ - Click **Connect** → Enter admin password → Now you have access.
+![Screenshot](images/Inventory12.jpg)
+- You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
