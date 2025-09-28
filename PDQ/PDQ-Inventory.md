@@ -43,4 +43,13 @@ PDQ Inventory scans each machine to gather details such as:
 ---
 ### Running Reports
 
+- If you right-click on a computer → **Run Report**
+- It gives you an in-depth report on:
+   - Applications
+   - Operating System
+   - Shared Folders
+![Screenshot](images/Inventory6.jpg)
+![Screenshot](images/Inventory7.jpg)
+![Screenshot](images/Inventory8.jpg)
+
 
