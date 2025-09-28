@@ -49,3 +49,4 @@ As a  Helpdesk I might approval from management to install software application 
 - Right-click the app → Select **Download Selected**
 - As app downloads, it gets added to local library
 ![Screenshot](images/PDQ5.jpg)
+  . Go to **Package**
