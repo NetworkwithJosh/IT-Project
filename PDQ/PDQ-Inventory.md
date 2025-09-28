@@ -8,3 +8,4 @@ PDQ Inventory scans each machine to gather details such as:
 - Hardware (CPU, RAM, disk space, etc.)
 - Installed software and versions
 - Operating system and patch levels
+- Services, running processes, users, and event logs
