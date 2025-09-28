@@ -51,5 +51,6 @@ PDQ Inventory scans each machine to gather details such as:
 ![Screenshot](images/Inventory6.jpg)
 ![Screenshot](images/Inventory7.jpg)
 ![Screenshot](images/Inventory8.jpg)
+### Shared Folders, Operating System, Applications
 
 
