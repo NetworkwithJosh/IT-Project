@@ -29,7 +29,7 @@ As a  Helpdesk I might approval from management to install software application 
 4.  Fill in my details and verify my email account
 5. Download PDQ Deploy and input the license key
 ![Screenshot](images/PDQ3.jpg)
-![Screenshot](images/PDQ4jpg)
+![Screenshot](images/PDQ3-1jpg)
 ## PDQ Dashboard Overview
 
 - The Dashboard shows:
@@ -38,3 +38,5 @@ As a  Helpdesk I might approval from management to install software application 
  - All schedules
  - Retry queue
  - Package Library
+![Screenshot](images/PDQ4.jpg)
+### Package Library
