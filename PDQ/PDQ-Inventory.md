@@ -13,3 +13,5 @@ PDQ Inventory scans each machine to gather details such as:
 ### Centralized DataBase
 - All the collected information is stored in a searchable database.
 - Admins can group computers dynamically (for example, “all machines missing a specific update” or “all computers running Windows 10”).
+
+### Integration with PDQ Deploy
