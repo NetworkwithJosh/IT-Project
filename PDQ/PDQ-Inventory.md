@@ -32,3 +32,8 @@ PDQ Inventory scans each machine to gather details such as:
   ![Screenshot](images/Inventory3.jpg)
   PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.
   In my project, I have Windows 11 added to the PDQ Inventory.
+
+  ### Adding Computers
+
+  - At the top → **Add Computers** → **Active Directory**
+  - 
