@@ -41,6 +41,6 @@ PDQ Inventory scans each machine to gather details such as:
  - Add to the target → Click **OK**
  ![Screenshot](images/Inventory5.jpg)
 ---
-
+### Running Reports
 
 
