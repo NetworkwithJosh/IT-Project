@@ -105,3 +105,4 @@ PDQ Inventory scans each machine to gather details such as:
  - Check target → Select time to deploy (etc.) → Deploy Now
  - Package is then deployed successfully
 ![Screenshot](images/Inventory20.jpg)
+- On the lab/test machine, you can see the two apps installed silently on it
