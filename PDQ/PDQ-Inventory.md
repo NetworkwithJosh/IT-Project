@@ -100,4 +100,5 @@ PDQ Inventory scans each machine to gather details such as:
  - Tools → Deploy Package
 ![Screenshot](images/Inventory19.jpg)
     - Example: Deploying packages like **7-Zip** and **Zoom**
+## Silent Application Deployent Notes
 
