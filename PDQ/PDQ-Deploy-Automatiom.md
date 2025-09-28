@@ -52,3 +52,6 @@ As a  Helpdesk I might approval from management to install software application 
 1. Go to **Package**
 2. Select the app package
 3. Right-click → Select **Deploy Once**
+![Screenshot](images/PDQ6.jpg)
+4. On the top right, click on **Targets**
+5. Select **Active Directory** → **Computers**
