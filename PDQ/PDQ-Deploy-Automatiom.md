@@ -23,4 +23,4 @@ As a  Helpdesk I might approval from management to install software application 
   In order to download PDQ, I had to change it to a dynamic IP address.
 ![Screenshot](images/PDQ2.jpg)
 ### Steps:
-  
+1. Navigate to **Control Panel** → **Network** → **Change Adapter Settings**
