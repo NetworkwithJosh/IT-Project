@@ -73,3 +73,6 @@ As a  Helpdesk I might approval from management to install software application 
   ### Deployment Procedure
 
   - Same procedure as deploying Zoom.
+  - Right-click on the package → **Deploy Once**
+  - Select **Target** → **Active Directory** → **Containers or Computers**
+  - Select the computer
