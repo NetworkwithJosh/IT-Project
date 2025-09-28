@@ -57,3 +57,4 @@ As a  Helpdesk I might approval from management to install software application 
 5. Select **Active Directory** → **Computers**
   - As you can see, I have two computers.
   - Since I'm deploying Zoom to Windows Server 2022:
+    - Select it
