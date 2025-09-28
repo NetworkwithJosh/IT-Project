@@ -15,3 +15,6 @@ PDQ Inventory scans each machine to gather details such as:
 - Admins can group computers dynamically (for example, “all machines missing a specific update” or “all computers running Windows 10”).
 
 ### Integration with PDQ Deploy
+- PDQ Inventory works closely with PDQ Deploy.
+ For example:
+   - You can create a group in Inventory for “computers missing Adobe Reader” and then use PDQ Deploy to push the Adobe Reader update only to those machines.
