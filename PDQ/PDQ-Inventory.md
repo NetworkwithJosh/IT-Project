@@ -61,4 +61,5 @@ PDQ Inventory scans each machine to gather details such as:
 ### File Sharing
 - You can go to `\\shared path` to place a file for the user.
 - On the Windows 11 PC, the file is already there if properly shared.
-
+![Screenshot](images/Inventory10.jpg)
+### Remote Access
