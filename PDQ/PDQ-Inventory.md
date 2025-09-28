@@ -103,4 +103,5 @@ PDQ Inventory scans each machine to gather details such as:
 ## Silent Application Deployent Notes
 
  - Check target → Select time to deploy (etc.) → Deploy Now
+ - Package is then deployed successfully
 
