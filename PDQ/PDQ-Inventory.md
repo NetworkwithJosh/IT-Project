@@ -92,5 +92,6 @@ PDQ Inventory scans each machine to gather details such as:
   - Print preview on the top
   - This reports on all the applications on the Windows 11 machine.
 ![Screenshot](images/Inventory17.jpg)
-
+---
+### Deploying Software
 
