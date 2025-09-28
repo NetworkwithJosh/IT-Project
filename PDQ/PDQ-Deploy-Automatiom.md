@@ -32,7 +32,7 @@ As a  Helpdesk I might approval from management to install software application 
 ![Screenshot](images/PDQ4jpg)
 ## PDQ Dashboard Overview
 
--The Dashboard shows:
+- The Dashboard shows:
  - All Deployments
  - All apps deployment to endpoints
  - All schedules
