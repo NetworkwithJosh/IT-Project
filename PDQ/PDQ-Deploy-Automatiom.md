@@ -65,3 +65,5 @@ As a  Helpdesk I might approval from management to install software application 
     - Then **Deploy Now**
   ![Screenshot](images/PDQ9.jpg)
   ![Screenshot](iages/PDQ10.jpg)
+
+  > Now it's completed and fully deployed to my Server 2022.
