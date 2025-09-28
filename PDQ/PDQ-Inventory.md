@@ -23,3 +23,4 @@ PDQ Inventory scans each machine to gather details such as:
 
 ### Installing PDQ Inventory
 - Download PDQ Inventory and copy license key.
+- Launch the application → Accept terms → Next → Install
