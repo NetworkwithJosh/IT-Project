@@ -3,7 +3,7 @@
 ### What is PQD Inventory?
 PDQ Inventory is a systems management tool for Windows that helps IT administrators automatically scan, collect, and organize information about computers and devices in their network.
 It scans and gathers system information from all computers on the network (CPU, RAM, indtalled apps, OS Version, etc)
-![Screenshot](images/)
+![Screenshot](images/Inventory1.jpg)
 
 ### Computer Scanning & Data Collection
 PDQ Inventory scans each machine to gather details such as:
@@ -20,3 +20,6 @@ PDQ Inventory scans each machine to gather details such as:
 - PDQ Inventory works closely with PDQ Deploy.
  For example:
    - You can create a group in Inventory for “computers missing Adobe Reader” and then use PDQ Deploy to push the Adobe Reader update only to those machines.
+
+### Installing PDQ Inventory
+- Download PDQ Inventory and copy license key.
