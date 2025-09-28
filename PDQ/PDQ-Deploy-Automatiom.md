@@ -22,4 +22,5 @@ As a  Helpdesk I might approval from management to install software application 
 - My Windows Server 2022 has a static IP.
   In order to download PDQ, I had to change it to a dynamic IP address.
 ![Screenshot](images/PDQ2.jpg)
+### Steps:
   
