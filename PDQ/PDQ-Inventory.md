@@ -9,3 +9,7 @@ PDQ Inventory scans each machine to gather details such as:
 - Installed software and versions
 - Operating system and patch levels
 - Services, running processes, users, and event logs
+
+### Centralized DataBase
+- All the collected information is stored in a searchable database.
+- Admins can group computers dynamically (for example, “all machines missing a specific update” or “all computers running Windows 10”).
