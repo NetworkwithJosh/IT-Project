@@ -31,3 +31,5 @@ As a  Helpdesk I might approval from management to install software application 
 ![Screenshot](images/PDQ3.jpg)
 ![Screenshot](images/PDQ4jpg)
 ## PDQ Dashboard Overview
+
+-The Dashboard shows:
