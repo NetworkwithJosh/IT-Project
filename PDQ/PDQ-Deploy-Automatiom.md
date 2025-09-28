@@ -37,3 +37,4 @@ As a  Helpdesk I might approval from management to install software application 
  - All apps deployment to endpoints
  - All schedules
  - Retry queue
+ - Package Library
