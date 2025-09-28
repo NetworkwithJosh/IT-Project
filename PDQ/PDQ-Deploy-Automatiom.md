@@ -63,3 +63,5 @@ As a  Helpdesk I might approval from management to install software application 
   ![Screenshot](images/PDQ8.jpg)
     - Click on **OK**
     - Then **Deploy Now**
+  ![Screenshot](images/PDQ9.jpg)
+  ![Screenshot](iages/PDQ10.jpg)
