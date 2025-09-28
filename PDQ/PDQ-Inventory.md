@@ -77,4 +77,6 @@ PDQ Inventory scans each machine to gather details such as:
 ---
 ### Reboot or Shutdown via PDQ
 
-- PDQ Inventory also allows for **Reboot** or **Shutdown** of the machine: 
+- PDQ Inventory also allows for **Reboot** or **Shutdown** of the machine
+  - Go to: **Tools** → Reboot / Shutdown → OK
+![Screenshot](images/Inventory15.jpg)
