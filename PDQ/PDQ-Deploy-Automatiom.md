@@ -79,3 +79,6 @@ As a  Helpdesk I might approval from management to install software application 
   - Use the single arrow → **Server2022**
   - Click **OK**
   - Click **Deploy Now** 
+  ![Screenshot](images/PDQ12.jpg)
+  - Deployment finished
+  ![Screenshot](images/PDQ13.jpg)
