@@ -51,3 +51,4 @@ As a  Helpdesk I might approval from management to install software application 
 ![Screenshot](images/PDQ5.jpg)
 1. Go to **Package**
 2. Select the app package
+3. Right-click → Select **Deploy Once**
