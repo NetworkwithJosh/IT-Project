@@ -37,3 +37,8 @@ You can create a new OU in Active Directory using this cmdlet:
 * Created another sub OUs under Student for Gryffindor to add a user inside.
 ![Screenshot](images/Automation5.jpg)
 ![Screenshot](images/Automation6.jpg)
+
+# Using PowerShell, I created a New User account in Active Directory
+
+  Using the Cmdlet:
+  ![Screenshot](images/Automation7.jpg)
