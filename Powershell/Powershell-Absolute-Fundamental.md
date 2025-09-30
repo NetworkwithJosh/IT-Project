@@ -108,3 +108,5 @@ Creates a blank text file in the specified path.
 `Remove-Item -Path "C:\Users\User\example.txt"`
 
 - Deletes the specified file.
+
+- Add `-Force` if the file is hidden or read-only.
