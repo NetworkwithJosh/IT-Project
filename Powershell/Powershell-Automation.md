@@ -195,3 +195,22 @@ UserprincipalName
 Path
 Accountpassword -> Check if and if the User exists (Get-ADUser)
 -> If not found -> Create a New AD User
+
+The Script was Created Using chatgpt
+4) * Save it as: C:\Import-HogwartsStaff.ps1
+   * Now I have Created two CSV file to Create User
+![Screenshot](images/Automation34.jpg)
+4) * Navigate to powershell -> open as an admin -> Run the Command
+   Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+   (allows running you Script in this Session)
+
+   * Run the following Script: C:\Import-HogwartsStaff.ps1 on Powershell
+
+6) * After Running, it Created all the Users in the OU = Staff.
+![Screenshot](images/Automation35.jpg)
+![Screenshot](images/Automation36.jpg)
+![Screenshot](images/Automation37.jpg)
+ In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
+![Screenshot](images/Automation38.jpg)
+
+---
