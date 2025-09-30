@@ -29,3 +29,5 @@ You can create a new OU in Active Directory using this cmdlet:
 - `-Name` specifies the OU name
 
 - `-Path` specifies the domain structure where it will be create
+![Screenshot](images/Automation3.jpg)
+![Screenshot](images/Automation4.jpg)
