@@ -178,3 +178,9 @@ Example in the script:
 - Here: Create the OU only if it doesn’t exist.
 ---
 ##  String Operations
+
+`$parts = $student.Split(" ") $givenName = $parts[0] $surname   = $parts[1]`
+
+- Splits `"Harry Potter"` into `"Harry"` and `"Potter"`.
+    
+- Useful for building usernames and emails
