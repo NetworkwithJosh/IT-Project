@@ -62,3 +62,12 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 
 
 ---
+# Adding Email Address to a User
+
+- Adding email address to the user Harry Potter on PowerShell:
+    
+`Set-ADUser -Identity "hpotter" -Email "harry.potter@njikason.com" -OfficePhone "800-555-7777"`
+![Screenshot](images/Automation13.jpg)
+![Screenshot](images/Automation14.jpg)
+
+---
