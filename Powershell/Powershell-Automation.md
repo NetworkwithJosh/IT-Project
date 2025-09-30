@@ -16,4 +16,7 @@ To work with PowerShell in Active Directory, you need to import the module to ge
 1. Navigate to the Start Menu → search for **PowerShell**  
 2. Right-click and **Run as Administrator**  
 3. In PowerShell, run:
-   Import-Module Active Directory  
+   Import-Module Active Directory
+![Screenshot](images/Automation1.jpg)
+4. Get-Command  (shows Different command to use) to run scripts.
+  
