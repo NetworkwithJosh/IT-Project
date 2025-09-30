@@ -202,3 +202,6 @@ Example in the script:
 - Creates a **secure password object** for new AD accounts.
 
 - Required by `New-ADUser`.
+![Screenshot](images/Powershell18.jpg)
+---
+## Splatting
