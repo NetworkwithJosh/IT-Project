@@ -29,4 +29,5 @@
 
 ## Variables
 * A variable is a **named storage location** for data (string, number, object, etc).
+* Always starts with `$` in PowerShell.
 
