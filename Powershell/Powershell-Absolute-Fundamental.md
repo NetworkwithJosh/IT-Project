@@ -209,3 +209,5 @@ Example in the script:
 `New-ADUser @userParams`
 
 - **Splatting** passes a hashtable (`@userParams`) as parameters.
+
+- Cleaner than writing all parameters in one long line.
