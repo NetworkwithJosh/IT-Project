@@ -19,4 +19,7 @@
   → Example: `powershell-7.4.5-win-x64.msi`
   → Run the installer. ✅
 ![Screenshot](images/Powershell2.jpg)
-* PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**. 
+* PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.
+
+* Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.
+!
