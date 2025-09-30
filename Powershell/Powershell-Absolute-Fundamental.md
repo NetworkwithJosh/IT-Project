@@ -42,4 +42,5 @@
 ![Screenshot](images/Powershell7.jpg)
 * They return either **True or False**.
 ## Arrays
+* An array is just a **list of items** stored in a single variable.
 
