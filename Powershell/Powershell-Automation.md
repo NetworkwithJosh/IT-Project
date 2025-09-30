@@ -35,3 +35,5 @@ You can create a new OU in Active Directory using this cmdlet:
 
 * Creating Sub OUs inside Central Unit with PowerShell
 * Created another sub OUs under Student for Gryffindor to add a user inside.
+![Screenshot](images/Automation5.jpg)
+![Screenshot](images/Automation6.jpg)
