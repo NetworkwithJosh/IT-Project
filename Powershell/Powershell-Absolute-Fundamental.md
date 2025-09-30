@@ -78,3 +78,6 @@ PowerShell allows you to test network connectivity using `Test-Connection` (inst
 
 ![Screenshot](images/Powershell11.jpg)
 This sends ICMP echo requests and returns the response time, similar to `ping`.
+
+---
+## Creating a New File in Powershell
