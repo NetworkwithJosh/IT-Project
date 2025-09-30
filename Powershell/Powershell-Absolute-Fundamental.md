@@ -189,3 +189,5 @@ Example in the script:
 ## Calculated Properties
 
 `SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower()`
+
+- Builds `hpotter` from `"Harry Potter"`.
