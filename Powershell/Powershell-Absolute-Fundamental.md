@@ -43,4 +43,5 @@
 * They return either **True or False**.
 ## Arrays
 * An array is just a **list of items** stored in a single variable.
+* Instead of having one value, an array can hold **multiple values at once** (numbers, strings, objects, etc).  
 
