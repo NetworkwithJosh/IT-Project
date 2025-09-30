@@ -214,3 +214,5 @@ Example in the script:
 ![Screenshot](images/Powershell19.jpg)
 ---
 ##  Write-Host
+
+`Write-Host "Created user: $student in $House" -ForegroundColor Green`
