@@ -187,3 +187,5 @@ Example in the script:
 ![Screenshot](images/Powershell16.jpg)
 ---
 ## Calculated Properties
+
+`SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower()`
