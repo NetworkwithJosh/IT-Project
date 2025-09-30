@@ -71,3 +71,5 @@ Functions help you **avoid repeating long scripts** and make your automation mod
 
 ---
 ## Using the Ping Command
+
+PowerShell allows you to test network connectivity using `Test-Connection` (instead of legacy `ping`).
