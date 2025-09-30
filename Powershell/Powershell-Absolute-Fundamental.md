@@ -115,3 +115,5 @@ Creates a blank text file in the specified path.
 ### Aliases vs Full Cmdlets
 
 - Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
+
+- Aliases are good for typing faster interactively.
