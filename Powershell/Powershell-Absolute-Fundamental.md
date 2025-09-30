@@ -87,3 +87,5 @@ This sends ICMP echo requests and returns the response time, similar to `ping`.
 Creates a blank text file in the specified path.
 
 - `-Path` specifies the location.
+
+- `-ItemType File` ensures it's a file (not folder).
