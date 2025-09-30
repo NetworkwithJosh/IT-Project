@@ -117,3 +117,6 @@ Creates a blank text file in the specified path.
 - Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
 
 - Aliases are good for typing faster interactively.
+---
+
+# Breaking-Down a Powershell Script to aid my learning of Powershell automation.
