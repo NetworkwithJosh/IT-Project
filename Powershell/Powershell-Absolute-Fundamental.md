@@ -171,3 +171,10 @@ Example in the script:
 - If the user does not exist, create them.
 `if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'")) {     New-ADOrganizationalUnit -Name $House -Path $baseOU }`
 ![Screenshot](images/Powershell15.jpg)
+- **If** checks conditions.
+
+- `-not` means "if this does not exist."
+    
+- Here: Create the OU only if it doesn’t exist.
+---
+##  String Operations
