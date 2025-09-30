@@ -15,5 +15,6 @@
 
 * Go to Microsoft’s official GitHub release page:  
   [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)
-  → Under **Assets**, download the **.msi installer** for Windows (x64 bit)  
+  → Under **Assets**, download the **.msi installer** for Windows (x64 bit)
+  → Example: `powershell-7.4.5-win-x64.msi`  
  
