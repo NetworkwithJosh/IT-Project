@@ -46,3 +46,6 @@
 * Instead of having one value, an array can hold **multiple values at once** (numbers, strings, objects, etc).
 ![Screenshot](images/Powershell8.jpg)  
 ## Hashtable
+
+* A hashtable uses **specific keys**.
+* It is a **data structure** that stores **key–value pairs**.  
