@@ -68,3 +68,6 @@ A **function** in PowerShell is a reusable block of code that you define once an
 `Get-Greeting -Name "Joshua"`
 
 Functions help you **avoid repeating long scripts** and make your automation modular.
+
+---
+## Using the Ping Command
