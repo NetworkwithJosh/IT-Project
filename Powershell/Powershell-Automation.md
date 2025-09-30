@@ -42,3 +42,8 @@ You can create a new OU in Active Directory using this cmdlet:
 
   Using the Cmdlet:
   ![Screenshot](images/Automation7.jpg)
+
+```
+```powershell
+New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hpotter@Njikason.com" -Path "OU=Gryffindor, OU=Student, OU=CentralUnit, DC=Joshua, DC=local" -AccountPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $true
+```
