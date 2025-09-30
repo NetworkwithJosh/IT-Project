@@ -98,3 +98,19 @@ The password has been changed.
 
 ---
 # Unlocking a User Account in Active Directory
+
+- Navigate to PowerShell → open as Administrator → type:
+    
+`Unlock-ADAccount -Identity "hpotter" Unlock-ADAccount -Identity "hgranger"`
+![Screenshot](images/Automation20.jpg)
+
+---
+# Creating a Group (Security Group) Using PowerShell
+
+- In PowerShell type:
+`Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
+![Screenshot](images/Automation21.jpg)
+![Screenshot](images/Automation22.jpg)
+
+---
+# Creating Another User with PowerShell
