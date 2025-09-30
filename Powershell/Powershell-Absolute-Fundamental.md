@@ -152,4 +152,4 @@ Import-Module ActiveDirectory
 
 A loop goes through each item in a list and does something with it.
 
-
+- Outer loop → goes through each house.
