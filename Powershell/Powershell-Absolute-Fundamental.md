@@ -136,4 +136,5 @@ This module contains special cmdlets that let you manage Active Directory object
 - Importing the module “unlocks” commands like:  
   - `New-ADUser` → create a new user  
   - `Get-ADUser` → find a user
-  - `New-ADOrganizationalUnit` → create a new OU  
+  - `New-ADOrganizationalUnit` → create a new OU
+  - `Get-ADComputer` → view computer objects    
