@@ -125,3 +125,4 @@ Creates a blank text file in the specified path.
 
 Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=centralUnit,DC=Joshua,DC=local" # Define houses and students $Houses = @{ "Gryffindor" = 
 @("Harry Potter","Hermione Granger","Ron Weasley") "Slytherin" = @("Draco Malfoy","Pansy Parkinson","Blaise Zabini") "Ravenclaw" = @("Luna Lovegood","Cho Chang","Padma 
+Patil") "Hufflepuff" = @("Cedric Diggory","Hannah Abbott","Ernie Macmillan") } # Loop through houses foreach ($House in $Houses.Keys) { $houseOU = "OU=$House,$baseOU" 
