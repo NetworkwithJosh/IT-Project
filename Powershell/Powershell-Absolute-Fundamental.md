@@ -7,3 +7,4 @@
 - A **scripting language** means you can write a list of commands in a file (a **script**) so they run automatically instead of typing them one by one. 
 ![Screenshot](images/Powershell1.jpg)
 ### Why Use PowerShell?
+- With PowerShell scripting, you can:
