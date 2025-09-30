@@ -205,3 +205,5 @@ Example in the script:
 ![Screenshot](images/Powershell18.jpg)
 ---
 ## Splatting
+
+`New-ADUser @userParams`
