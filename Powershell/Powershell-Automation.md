@@ -52,3 +52,13 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 - Created another User account (Hermione Granger) using the same script.
 ![Screenshot](images/Automation9.jpg)
 ![Screenshot](images/Automation10.jpg)
+
+
+---
+# Get-ADUser
+
+- `Get-ADUser` is used to retrieve information about a User account in Active Directory (AD) and also properties like email, groups, account information.
+![Screenshot](images/Automation11.jpg)
+
+
+---
