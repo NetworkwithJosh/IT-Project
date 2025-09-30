@@ -22,4 +22,6 @@
 * PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.
 
 * Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.
-!
+![Screenshot](images/Powershell3.jpg)
+
+### Notes
