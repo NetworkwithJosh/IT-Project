@@ -135,4 +135,5 @@ This module contains special cmdlets that let you manage Active Directory object
 - PowerShell by default doesn’t know how to talk to Active Directory.  
 - Importing the module “unlocks” commands like:  
   - `New-ADUser` → create a new user  
-  - `Get-ADUser` → find a user  
+  - `Get-ADUser` → find a user
+  - `New-ADOrganizationalUnit` → create a new OU  
