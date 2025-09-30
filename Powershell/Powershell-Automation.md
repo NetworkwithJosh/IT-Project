@@ -217,7 +217,7 @@ The Script was Created Using chatgpt
 # Created Another CSV file for New Users In a different OU using Powershell 
 
 Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
-![Screenshot](images/Automation39.jpg)
+![Screenshot](images/Automation39-1.jpg)
 Create the Import Script (Used chat-gpt to Create an Import Script) 
 
 Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
@@ -225,10 +225,10 @@ Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, Sam
 Open Powershell as Administrator -> Run the Script
 
   C:\Import-DarkWizards.ps1 -> It Should Import Created New Users
+![Screenshot](images/Automation39.jpg)
 ![Screenshot](images/Automation40.jpg)
 ![Screenshot](images/Automation41.jpg)
 ![Screenshot](images/Automation42.jpg)
-![Screenshot](images/Automation43.jpg)
 
 # Disable All Users in `OU=Non-Staff`
 This Script disables all users in Non-staff OU via Active Directory using Powershell Scripts.
@@ -245,8 +245,9 @@ foreach ($user in $users) {
     Disable-ADAccount -Identity $user.SamAccountName
     Write-Host "Locked user: $($user.Name)" -ForegroundColor Red
 }
+![Screenshot](images/Automation43.jpg)
 ![Screenshot](images/Automation44.jpg)
-![Screenshot](images/Automation45.jpg)
+
 
 ---
 ## You could also make a **reverse script** to unlock them:
@@ -256,3 +257,4 @@ $nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
 Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
     Enable-ADAccount -Identity $_.SamAccountName
     Write-Host "Unlocked user: $($_.Name)" -ForegroundColor Green
+![Screenshot](images/Automation45.jpg)
