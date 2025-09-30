@@ -191,3 +191,6 @@ Example in the script:
 `SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower()`
 
 - Builds `hpotter` from `"Harry Potter"`.
+
+- `.ToLower()` converts it to lowercase.
+![Screenshot](images/Powershell17.jpg)
