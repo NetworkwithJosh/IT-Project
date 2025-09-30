@@ -8,3 +8,4 @@
 ![Screenshot](images/Powershell1.jpg)
 ### Why Use PowerShell?
 - With PowerShell scripting, you can:
+  - Perform **Active Directory tasks** → Create, disable, or reset 50 user accounts at once.  
