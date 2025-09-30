@@ -125,4 +125,7 @@ Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=cen
 
 
 ---
-#
+# Import-Module ActiveDirectory
+
+`Import-Module ActiveDirectory` loads the **Active Directory module** into PowerShell.  
+This module contains special cmdlets that let you manage Active Directory objects such as **users, groups, OUs, and computers**.
