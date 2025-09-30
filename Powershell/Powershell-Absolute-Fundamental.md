@@ -90,3 +90,8 @@ Creates a blank text file in the specified path.
 
 - `-ItemType File` ensures it's a file (not folder).
 ![Screenshot](images/Powershell12.jpg)
+
+---
+## Creating and Saving Command Output to a File
+
+### Example: Save Ping Results
