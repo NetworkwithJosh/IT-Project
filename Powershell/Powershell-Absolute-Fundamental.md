@@ -216,3 +216,5 @@ Example in the script:
 ##  Write-Host
 
 `Write-Host "Created user: $student in $House" -ForegroundColor Green`
+
+- Displays progress messages in the console.
