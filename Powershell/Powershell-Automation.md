@@ -231,3 +231,28 @@ Open Powershell as Administrator -> Run the Script
 ![Screenshot](images/Automation43.jpg)
 
 # Disable All Users in `OU=Non-Staff`
+This Script disables all users in Non-staff OU via Active Directory using Powershell Scripts.
+
+Import-Module ActiveDirectory
+
+Define the OU for Non-Staff
+$nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
+
+Get all users in the OU
+$users = Get-ADUser -Filter * -SearchBase $nonStaffOU
+
+foreach ($user in $users) {
+    Disable-ADAccount -Identity $user.SamAccountName
+    Write-Host "Locked user: $($user.Name)" -ForegroundColor Red
+}
+![Screenshot](images/Automation44.jpg)
+![Screenshot](images/Automation45.jpg)
+
+---
+## You could also make a **reverse script** to unlock them:
+
+Import-Module ActiveDirectory
+$nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
+Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
+    Enable-ADAccount -Identity $_.SamAccountName
+    Write-Host "Unlocked user: $($_.Name)" -ForegroundColor Green
