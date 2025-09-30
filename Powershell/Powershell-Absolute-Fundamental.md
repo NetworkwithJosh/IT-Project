@@ -211,3 +211,4 @@ Example in the script:
 - **Splatting** passes a hashtable (`@userParams`) as parameters.
 
 - Cleaner than writing all parameters in one long line.
+![Screenshot](images/Powershell19.jpg)
