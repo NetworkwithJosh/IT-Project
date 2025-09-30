@@ -167,3 +167,6 @@ Checks a condition and only runs the code if it’s true.
 Example in the script:
 
 - If the OU does not exist, create it.
+
+- If the user does not exist, create them.
+`if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'")) {     New-ADOrganizationalUnit -Name $House -Path $baseOU }`
