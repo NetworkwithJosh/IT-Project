@@ -54,3 +54,4 @@
 `$fellowshipData = @{     Key1 = "Item1"     Key2 = "Item2" }`
 
 A **hashtable** in PowerShell stores data as **key-value pairs**. Keys must be unique, and you can retrieve values by referencing their keys.
+![Screenshot](images/Powershell9.jpg)
