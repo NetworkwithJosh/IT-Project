@@ -27,3 +27,6 @@
 ### Notes
 - You can always **download a higher version of PowerShell** if your current version is outdated.
 
+## Variables
+* A variable is a **named storage location** for data (string, number, object, etc).
+
