@@ -123,3 +123,5 @@ The password has been changed.
 # Automation in powershell:
 
 ### Automation in powershell is the process of writing Scripts to perform repetitive IT tasks without manual efforts. Instead of clicking through GUI (Active Directory users & Computers) you use powershell Cmdlets to Script the process once and re-use it many times.
+
+ As a Tier 1 Learning Powershell Automation makes it easy to get work done faster, avoid repetitive task which leads to burn-out.
