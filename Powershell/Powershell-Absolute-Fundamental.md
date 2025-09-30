@@ -106,3 +106,5 @@ Creates a blank text file in the specified path.
 ## Delete a File in PowerShell
 
 `Remove-Item -Path "C:\Users\User\example.txt"`
+
+- Deletes the specified file.
