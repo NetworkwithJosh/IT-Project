@@ -207,3 +207,5 @@ Example in the script:
 ## Splatting
 
 `New-ADUser @userParams`
+
+- **Splatting** passes a hashtable (`@userParams`) as parameters.
