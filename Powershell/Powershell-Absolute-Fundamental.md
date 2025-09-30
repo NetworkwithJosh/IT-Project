@@ -48,4 +48,5 @@
 ## Hashtable
 
 * A hashtable uses **specific keys**.
-* It is a **data structure** that stores **key–value pairs**.  
+* It is a **data structure** that stores **key–value pairs**.
+## Hashtable Example 
