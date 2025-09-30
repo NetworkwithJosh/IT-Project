@@ -129,3 +129,12 @@ The password has been changed.
  Powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
 
  ## Creating a new student account using Automation in powershell.
+
+ My Current setup: Directory Setup OU = centralUnit , Under it
+ 
+I Want to Run an Automation Script that Creates multiple Organizational Unit (OU) for **Slytherin, Ravenclaw and Hupplepuff. -> Each OU will have its student as the Script will Create new Users as well.
+![Screenshot](images/Automation25.jpg)
+ What This Script Does
+   - breaks up the OU Creation under
+   OU = Student, OU = centralUnit, DC = Njikason, DC = Com.
+ if not, it Creates it
