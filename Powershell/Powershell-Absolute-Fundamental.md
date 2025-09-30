@@ -64,3 +64,5 @@ A **function** in PowerShell is a reusable block of code that you define once an
 `function Get-Greeting {     param([string]$Name)     "Hello, $Name! Welcome to PowerShell." }`
 
 ### Usage
+
+`Get-Greeting -Name "Joshua"`
