@@ -71,3 +71,13 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 ![Screenshot](images/Automation14.jpg)
 
 ---
+- ## Disable account with PowerShell:
+    
+`Set-ADUser -Identity "hgranger" -Enabled $false`
+
+- ## To enable the account again:
+    
+`Set-ADUser -Identity "hgranger" -Enabled $true`
+![Screenshot](images/Automation15.jpg)
+![Screenshot](images/Automation16.jpg)
+# Resetting Password with PowerShell on Active Directory
