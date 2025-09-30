@@ -11,4 +11,7 @@
   - Perform **Active Directory tasks** → Create, disable, or reset 50 user accounts at once.
   - Handle **Microsoft 365 / Intune tasks** → Assign licenses, reset passwords, configure settings.
   - Run **system checks** → Pull logs, check disk space, list installed software on 100 machines.
-  - Enable **automation** → Instead of manually patching machines or running updates, script it once and run it everywhere. # Downloading Powershell 7.4.5      
+  - Enable **automation** → Instead of manually patching machines or running updates, script it once and run it everywhere. # Downloading Powershell 7.4.5
+
+* Go to Microsoft’s official GitHub release page:  
+  [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)  
