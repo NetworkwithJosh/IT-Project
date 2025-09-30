@@ -33,4 +33,6 @@
 * Think of it as a **container that stores data you can reuse**.
 ![Screenshot](images/Powershell4.jpg)
 ![Screenshot](images/Powershell5.jpg)
+## Alias
+* An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
 
