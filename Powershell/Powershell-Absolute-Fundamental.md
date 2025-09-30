@@ -25,3 +25,5 @@
 ![Screenshot](images/Powershell3.jpg)
 
 ### Notes
+- You can always **download a higher version of PowerShell** if your current version is outdated.
+
