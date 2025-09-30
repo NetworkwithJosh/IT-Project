@@ -89,3 +89,4 @@ Creates a blank text file in the specified path.
 - `-Path` specifies the location.
 
 - `-ItemType File` ensures it's a file (not folder).
+![Screenshot](images/Powershell12.jpg)
