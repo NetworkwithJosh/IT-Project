@@ -114,3 +114,12 @@ The password has been changed.
 
 ---
 # Creating Another User with PowerShell
+
+- Created another user account (**Ron Weasley**)using PowerShell and added to Gryffindor group OU with created password
+![Screenshot](images/Automation23.jpg)
+![Screenshot](images/Automation24.jpg)
+
+---
+# Automation in powershell:
+
+### Automation in powershell is the process of writing Scripts to perform repetitive IT tasks without manual efforts. Instead of clicking through GUI (Active Directory users & Computers) you use powershell Cmdlets to Script the process once and re-use it many times.
