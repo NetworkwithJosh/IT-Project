@@ -50,3 +50,5 @@
 * A hashtable uses **specific keys**.
 * It is a **data structure** that stores **key–value pairs**.
 ## Hashtable Example 
+
+`$fellowshipData = @{     Key1 = "Item1"     Key2 = "Item2" }`
