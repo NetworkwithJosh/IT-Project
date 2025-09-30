@@ -34,5 +34,6 @@
 ![Screenshot](images/Powershell4.jpg)
 ![Screenshot](images/Powershell5.jpg)
 ## Alias
-* An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
+* An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.
+* It makes typing faster, but the command still runs the **full version** in the background.  
 
