@@ -137,4 +137,8 @@ This module contains special cmdlets that let you manage Active Directory object
   - `New-ADUser` → create a new user  
   - `Get-ADUser` → find a user
   - `New-ADOrganizationalUnit` → create a new OU
-  - `Get-ADComputer` → view computer objects    
+  - `Get-ADComputer` → view computer objects
+---
+## Load the Active Directory module on Powershell
+
+Import-Module ActiveDirectory
