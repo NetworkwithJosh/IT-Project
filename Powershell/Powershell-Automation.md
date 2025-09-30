@@ -24,3 +24,8 @@ To work with PowerShell in Active Directory, you need to import the module to ge
 
 You can create a new OU in Active Directory using this cmdlet:
   
+`New-ADOrganizationalUnit -Name "CentralUnit" -Path "DC=joshua,DC=local"`
+
+- `-Name` specifies the OU name
+
+- `-Path` specifies the domain structure where it will be create
