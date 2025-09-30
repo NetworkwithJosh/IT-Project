@@ -200,3 +200,5 @@ Example in the script:
 `AccountPassword = (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force)`
 
 - Creates a **secure password object** for new AD accounts.
+
+- Required by `New-ADUser`.
