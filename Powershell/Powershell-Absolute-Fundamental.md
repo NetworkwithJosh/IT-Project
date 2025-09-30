@@ -64,8 +64,6 @@ A **function** in PowerShell is a reusable block of code that you define once an
 `function Get-Greeting {     param([string]$Name)     "Hello, $Name! Welcome to PowerShell." }`
 
 ### Usage
-Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=centralUnit,DC=Njikason,DC=com" # Define houses and students $Houses = @{ "Gryffindor" = @("Harry Potter","Hermione Granger","Ron Weasley") "Slytherin" = @("Draco Malfoy","Pansy Parkinson","Blaise Zabini") "Ravenclaw" = @("Luna Lovegood","Cho Chang","Padma Patil") "Hufflepuff" = @("Cedric Diggory","Hannah Abbott","Ernie Macmillan") } # Loop through houses foreach ($House in $Houses.Keys) { $houseOU = "OU=$House,$baseOU" # Create the OU if it doesn't exist if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'" -ErrorAction SilentlyContinue)) { New-ADOrganizationalUnit -Name $House -Path $baseOU Write-Host "Created OU: $House" -ForegroundColor Cyan } # Loop through students in each house foreach ($student in 
-$Houses[$House]) { # Split into first/last name $parts = $student.Split(" ") $givenName = $parts[0] $surname = $parts[1] # Define user parameters $userParams = [ordered]@{ Name = $student DisplayName = $student GivenName = $givenName Surname = $surname SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower() 
 
 Functions help you **avoid repeating long scripts** and make your automation modular.
 
