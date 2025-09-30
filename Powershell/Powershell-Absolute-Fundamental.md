@@ -83,3 +83,7 @@ This sends ICMP echo requests and returns the response time, similar to `ping`.
 ## Creating a New File in Powershell
 
 `New-Item -Path "C:\Users\User\example.txt" -ItemType File`
+
+Creates a blank text file in the specified path.
+
+- `-Path` specifies the location.
