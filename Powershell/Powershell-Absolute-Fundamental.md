@@ -97,3 +97,5 @@ Creates a blank text file in the specified path.
 ### Example: Save Ping Results
 
 `Test-Connection google.com -Count 4 | Out-File "C:\Users\User\PingResults.txt"`
+
+- `Out-File` saves the output of a command into a text file.
