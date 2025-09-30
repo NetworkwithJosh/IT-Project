@@ -12,3 +12,5 @@ It uses PowerShell commands (cmdlets) to perform operations such as:
 ---
 ## Getting Started
 To work with PowerShell in Active Directory, you need to import the module to get the commands for Active Directory automation.  
+##  Steps:
+1. Navigate to the Start Menu → search for **PowerShell**  
