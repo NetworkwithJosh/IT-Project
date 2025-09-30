@@ -124,4 +124,4 @@ Creates a blank text file in the specified path.
 ### ***This is a script used to create new users on Active directory (Bulk user accounts) learning how everything comes together to make automation is important for work environment.
 
 Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=centralUnit,DC=Joshua,DC=local" # Define houses and students $Houses = @{ "Gryffindor" = 
-
+@("Harry Potter","Hermione Granger","Ron Weasley") "Slytherin" = @("Draco Malfoy","Pansy Parkinson","Blaise Zabini") "Ravenclaw" = @("Luna Lovegood","Cho Chang","Padma 
