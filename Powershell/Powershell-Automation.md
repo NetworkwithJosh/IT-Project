@@ -127,3 +127,5 @@ The password has been changed.
  As a Tier 1 Learning Powershell Automation makes it easy to get work done faster, avoid repetitive task which leads to burn-out.
 
  Powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
+
+ ## Creating a new student account using Automation in powershell.
