@@ -102,3 +102,7 @@ Creates a blank text file in the specified path.
 
 - Useful for logging troubleshooting steps.
 ![Screenshot](images/Powershell6.jpg)
+
+## Delete a File in PowerShell
+
+`Remove-Item -Path "C:\Users\User\example.txt"`
