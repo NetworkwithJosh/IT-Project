@@ -11,3 +11,4 @@ It uses PowerShell commands (cmdlets) to perform operations such as:
 - Automating bulk changes across multiple objects 
 ---
 ## Getting Started
+To work with PowerShell in Active Directory, you need to import the module to get the commands for Active Directory automation.  
