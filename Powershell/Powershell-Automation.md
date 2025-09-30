@@ -153,3 +153,26 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
 
  ---
 ## Creating new Users with CSV-driven automation in Powershell
+
+## What is a CSV file for AD User Creation ?
+
+CSV (Comma-Separated Values) is a simple text file where data is arranged in columns separated by commas.
+* Each row in the CSV = One User you want to Create. -> Each Column (header) = a property for the User account (Eg Name, Username, Password, OU)
+
+This file is a blueprint for Powershell. Instead of Creating Users one by one, you load the CSV, loop through each row and Powershell Creates the account Automatically.
+![Screenshot](images/Automation31.jpg)
+
+It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it manually would take hours.
+
+ With CSV + Powershell Scripts, you can Create all users in a few Seconds
+
+1) Press Windows + R, type notepad, Press Enter.
+
+* Creating new Users for Staff, The Current Set-up is OU = centralUnit, OU = Staff => Inside the Staff OU, I'm creating multiple Users at Once Using CSV method
+
+* The Script is
+
+Import-Module Active Directory (loads the Active Directory module needed to use New-ADUser, Get-ADUser etc)
+
+$Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
+![Screenshot](images/Automaton32.jpg)
