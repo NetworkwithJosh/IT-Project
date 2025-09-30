@@ -41,3 +41,5 @@
 * In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).
 ![Screenshot](images/Powershell7.jpg)
 * They return either **True or False**.
+## Arrays
+
