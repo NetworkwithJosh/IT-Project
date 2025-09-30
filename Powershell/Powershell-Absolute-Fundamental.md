@@ -212,3 +212,5 @@ Example in the script:
 
 - Cleaner than writing all parameters in one long line.
 ![Screenshot](images/Powershell19.jpg)
+---
+##  Write-Host
