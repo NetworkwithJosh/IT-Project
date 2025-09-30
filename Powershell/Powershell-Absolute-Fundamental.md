@@ -55,3 +55,7 @@
 
 A **hashtable** in PowerShell stores data as **key-value pairs**. Keys must be unique, and you can retrieve values by referencing their keys.
 ![Screenshot](images/Powershell9.jpg)
+## Functions in Powershell
+
+A **function** in PowerShell is a reusable block of code that you define once and call multiple times.
+![Screenshot](images/Powershell10.jpg)
