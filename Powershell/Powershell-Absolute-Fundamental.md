@@ -132,3 +132,5 @@ This module contains special cmdlets that let you manage Active Directory object
 
 ---
 ## Why It's Needed
+- PowerShell by default doesn’t know how to talk to Active Directory.  
+- Importing the module “unlocks” commands like:  
