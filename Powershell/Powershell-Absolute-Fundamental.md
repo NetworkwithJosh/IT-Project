@@ -218,3 +218,6 @@ Example in the script:
 `Write-Host "Created user: $student in $House" -ForegroundColor Green`
 
 - Displays progress messages in the console.
+
+- Helps track what the script is doing.
+![Screenshot](images/Powershell20.jpg)
