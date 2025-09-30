@@ -19,4 +19,6 @@ To work with PowerShell in Active Directory, you need to import the module to ge
    Import-Module Active Directory
 ![Screenshot](images/Automation1.jpg)
 4. Get-Command  (shows Different command to use) to run scripts.
+![Screenshot](images/Automation2.jpg)
+## Creating a New Organizational Unit (OU) with PowerShell  
   
