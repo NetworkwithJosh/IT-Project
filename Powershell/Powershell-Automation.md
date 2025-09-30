@@ -138,3 +138,18 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
    - breaks up the OU Creation under
    OU = Student, OU = centralUnit, DC = Njikason, DC = Com.
  if not, it Creates it
+
+ Loops through each house (Gryffindor, Slytherin, Ravenclaw, Hupplepuff)
+ Creates Students in each OU with:
+   - SamAccountName = first initial + last name (Eg: hpotter, dmalfoy)
+   - UPN / Email = Same format + @Mydomain.com
+   - Default Password: Welcome123! (forces password change at logon)
+![Screenshot](images/Automation26.jpg)
+* After running the Script, my Active-Directory looks like this. Newly Created accounts.To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
+![Screenshot](images/Automation27.jpg)
+![Screenshot](images/Automation28.jpg)
+![Screenshot](images/Automation29.jpg)
+![Screenshot](images/Automation30.jpg)
+
+ ---
+## Creating new Users with CSV-driven automation in Powershell
