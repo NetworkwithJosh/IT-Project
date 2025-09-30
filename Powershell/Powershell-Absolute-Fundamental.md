@@ -113,3 +113,5 @@ Creates a blank text file in the specified path.
 
 - Add `-Recurse` if deleting a folder with contents.
 ### Aliases vs Full Cmdlets
+
+- Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
