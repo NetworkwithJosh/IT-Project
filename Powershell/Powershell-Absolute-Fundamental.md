@@ -31,6 +31,6 @@
 * A variable is a **named storage location** for data (string, number, object, etc).
 * Always starts with `$` in PowerShell.
 * Think of it as a **container that stores data you can reuse**.
+![Screenshot](images/Powershell4.jpg)
 ![Screenshot](images/Powershell5.jpg)
-![Screenshot](images/Powershell6.jpg)
 
