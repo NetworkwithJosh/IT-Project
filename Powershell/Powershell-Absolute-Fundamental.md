@@ -110,3 +110,5 @@ Creates a blank text file in the specified path.
 - Deletes the specified file.
 
 - Add `-Force` if the file is hidden or read-only.
+
+- Add `-Recurse` if deleting a folder with contents.
