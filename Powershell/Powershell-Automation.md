@@ -81,3 +81,20 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 ![Screenshot](images/Automation15.jpg)
 ![Screenshot](images/Automation16.jpg)
 # Resetting Password with PowerShell on Active Directory
+
+* Navigate to PowerShell and type:
+
+```powershell
+Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force)
+
+```
+![Screenshot](images/Automation17.jpg)
+- Then prompt for the user to change their password at the next logon:
+    
+`Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
+![Screenshot](images/Automation18.jpg)
+The password has been changed.
+![Screenshot](images/Automation19.jpg)
+
+---
+# Unlocking a User Account in Active Directory
