@@ -75,3 +75,6 @@ Functions help you **avoid repeating long scripts** and make your automation mod
 PowerShell allows you to test network connectivity using `Test-Connection` (instead of legacy `ping`).
 
 `Test-Connection google.com -Count 4`
+
+![Screenshot](images/Powershell11.jpg)
+This sends ICMP echo requests and returns the response time, similar to `ping`.
