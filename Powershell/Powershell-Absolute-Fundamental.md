@@ -165,3 +165,5 @@ A loop goes through each item in a list and does something with it.
 
 Checks a condition and only runs the code if it’s true.  
 Example in the script:
+
+- If the OU does not exist, create it.
