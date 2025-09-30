@@ -142,3 +142,12 @@ This module contains special cmdlets that let you manage Active Directory object
 ## Load the Active Directory module on Powershell
 
 Import-Module ActiveDirectory
+
+
+![Screenshot](images/Powershell13.jpg)
+
+
+---
+## Loops
+
+
