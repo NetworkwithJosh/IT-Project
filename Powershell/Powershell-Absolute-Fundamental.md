@@ -159,3 +159,9 @@ A loop goes through each item in a list and does something with it.
 `foreach ($House in $Houses.Keys) {     foreach ($student in $Houses[$House]) {         ...     } }`
 
 - A **loop** repeats actions
+![Screeshot](images/Powershell14.jpg)
+---
+## If Statements
+
+Checks a condition and only runs the code if it’s true.  
+Example in the script:
