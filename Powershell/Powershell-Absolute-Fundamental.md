@@ -194,3 +194,7 @@ Example in the script:
 
 - `.ToLower()` converts it to lowercase.
 ![Screenshot](images/Powershell17.jpg)
+---
+## Secure Strings
+
+`AccountPassword = (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force)`
