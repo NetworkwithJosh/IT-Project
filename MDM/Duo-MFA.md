@@ -87,3 +87,8 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Groups make it easy to manage users in a more simplified way.
 - Manage applications at scale and quickly enable or disable users in bulk.
 - Navigate to:
+    - `Users` → `Groups` → `Add Groups`
+  - Name the group and add a description, then click **Add Group**.
+  - Add users to the group:
+    - Select users to add
+    - Click **Add users to group**
