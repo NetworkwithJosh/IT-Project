@@ -48,3 +48,4 @@ Setting up Duo Mobile is **simple and straightforward**:
 5. Install Duo Mobile on a smartphone and link it as your admin device.
 ![Screenshot](images/mfa3.png)
 ---   
+## Duo Mobile Dashboard
