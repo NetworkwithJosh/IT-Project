@@ -46,18 +46,18 @@ Setting up Duo Mobile is **simple and straightforward**:
 3. Click on **Sign Up** and **Verify your email address**
 4. You will be prompted to verify your phone number
 5. Install Duo Mobile on a smartphone and link it as your admin device.
-![Screenshot](images/mfa3.png)
+![Screenshot](images/duo1-1.png)
 ---   
 ## Duo Mobile Dashboard
 
 ### Users
 - Add, manage, and remove user accounts.
-![Screenshot](images/mfa4.png)
+![Screenshot](images/mfa3.png)
 ### Devices
 - Shows al registered phones, hardware tokens, etc.
 ### Policies
 - Set up rules for MFA (such as require MFA, allowed devices, geolocation rules).
-![Screenshot](images/mfa5.png)
+![Screenshot](images/mfa4.png)
 ### Applications
 - Where you integrate Duo with services like Microsoft 365, VPNs, RDP, etc.
 ### Reports, Monitoring & Billings
@@ -70,13 +70,13 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Users → Add Users (also supports Bulk End Users or Import Users)
 2. Enter the username and email address of the user.
 3. Click **Add User**.
-![Screenshot](images/mfa6.png)
+![Screenshot](images/mfa5.png)
 ## Send an Enrollment Email
 
 - The user receives an email for Duo Security enrollment.
 - The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.
+![Screenshot](images/mfa6.png)
 ![Screenshot](images/mfa7.png)
-![Screenshot](images/mfa8.png)
 
 ##  Notes
 - **NB:** MFA should always be active.
@@ -92,18 +92,18 @@ Setting up Duo Mobile is **simple and straightforward**:
   - Add users to the group:
     - Select users to add
     - Click **Add users to group**
-![Screenshot](images/mfa9.png)
+![Screenshot](images/mfa8.png)
 ---
 ## Adding Administrator
 - Assign an administrator with fewer powers to complete simple tasks.
 - Add the name and email address.
 - Since I’m aiming for Help Desk, I assign the **Help Desk** role.
-![Screenshot](images/mfa10.png)
+![Screenshot](images/mfa9.png)
 ---
 ## Applications
 - Applications: Integrate Duo into one or more of your services.
 - You can protect as many applications with Duo as you need.
-![Screenshot](images/mfa11.png)
+![Screenshot](images/mfa10.png)
 # Enabling MFA for Windows Server (via Duo)
 
 ## Adding Duo to Applications
@@ -113,7 +113,7 @@ Once you navigate to:
 - Select the application and click on **Add**
 
 > So when a user tries to access Microsoft RDP, it must prompt for 2-factor authentication.
-![Screenshot](images/mfa12.png)
+![Screenshot](images/mfa12-1.png)
 ---
 
 ## Enabling MFA on Windows Server 2022
@@ -128,8 +128,8 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 - Find application and search for **Microsoft RDP** on server
 - Join through the policies and click **Save**
 - Click on **RDP Documentation** to integrate Duo with your Microsoft RDP deployment
-![Screenshot](images/mfa13.png)
-![Screenshot](images/mfa14.png)
+![Screenshot](images/mfa12.png)
+![Screenshot](images/mfa12-1.png)
 
 ---
 ## Final Configuration
