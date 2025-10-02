@@ -39,3 +39,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 1. Go to the website: [signup.duo.com](https://signup.duo.com)
 2. Fill out the **Sign-up Form**:
 ![Screenshot](images/mfa2.png)
+   - Full name  
+   - Work email  
+   - Phone number  
+   - Country  
