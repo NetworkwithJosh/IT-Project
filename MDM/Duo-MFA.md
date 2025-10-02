@@ -57,4 +57,4 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Shows al registered phones, hardware tokens, etc.
 ### Policies
 - Set up rules for MFA (such as require MFA, allowed devices, geolocation rules).
-![Screenshot](images/screenshot280.jpg)
+![Screenshot](images/mfa5.png)
