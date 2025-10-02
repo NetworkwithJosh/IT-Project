@@ -11,3 +11,5 @@
 - **Conditional Access** – Restricts logins based on location, device, and risk factors.
 - **Self-Service Password Reset (SSPR)** – Users can reset their passwords without IT help.
 - **Device Management** – Enforces security policies on Windows, iOS, Android, and macOS devices
+
+---
