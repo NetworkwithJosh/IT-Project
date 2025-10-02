@@ -100,3 +100,4 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Since I’m aiming for Help Desk, I assign the **Help Desk** role.
 ![Screenshot](images/mfa10.png)
 ---
+## Applications
