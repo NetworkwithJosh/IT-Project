@@ -65,3 +65,10 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Check billing and usage data.
 ---
 ## Creating a User Account on Duo
+
+1. Navigate to:
+   - Users → Add Users (also supports Bulk End Users or Import Users)
+2. Enter the username and email address of the user.
+3. Click **Add User**.
+![Screenshot](images/mfa.png)
+## Send an Enrollment Email
