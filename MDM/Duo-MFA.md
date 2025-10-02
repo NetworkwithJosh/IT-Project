@@ -34,3 +34,7 @@ Is a multi-factor authentication (MFA) app developed by Cisco Duo Security. It h
 ---
 ##  Setting up Duo Mobile
 
+Setting up Duo Mobile is **simple and straightforward**:
+
+1. Go to the website: [signup.duo.com](https://signup.duo.com)
+2. Fill out the **Sign-up Form**:
