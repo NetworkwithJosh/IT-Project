@@ -117,3 +117,19 @@ Once you navigate to:
 ---
 
 ## Enabling MFA on Windows Server 2022
+
+Adding an extra layer of defense for Windows Server is really important to avoid cyber attacks and helps to harden security. Only approved individuals are allowed to access the Windows Server.
+
+### Steps:
+
+- Log into the **Duo Mobile App** (with credentials and push log-in with your mobile phone)
+- Navigate to `Dashboard` → `Select Applications`
+- Select application: **Microsoft RDP**
+- Find application and search for **Microsoft RDP** on server
+- Join through the policies and click **Save**
+- Click on **RDP Documentation** to integrate Duo with your Microsoft RDP deployment
+![Screenshot](images/mfa13.png)
+![Screenshot](images/mfa14.png)
+
+---
+## Final Configuration
