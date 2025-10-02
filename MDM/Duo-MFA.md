@@ -45,4 +45,5 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Country
 3. Click on **Sign Up** and **Verify your email address**
 4. You will be prompted to verify your phone number
-5. Install Duo Mobile on a smartphone and link it as your admin device.   
+5. Install Duo Mobile on a smartphone and link it as your admin device.
+![Screenshot](images/mfa3.png)   
