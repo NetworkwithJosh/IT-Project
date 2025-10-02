@@ -19,7 +19,7 @@ Is a multi-factor authentication (MFA) app developed by Cisco Duo Security. It h
 - If you’re logging into your university email from a new laptop, you’ll type your password, then get a Duo push on your phone. You tap “Approve,” and access is granted.
 
 **Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent working in IT.
-
+![Screenshot](images/mfa.png)
 ## What is Multi-factor Authentication?
 (MFA) is a security process that requires users to provide two or more types of verification before gaining access to an account, system, or application. The idea is to add extra layers of protection beyond just a username and password.
 
