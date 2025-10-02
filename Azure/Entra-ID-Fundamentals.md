@@ -7,3 +7,5 @@
 ### Key Uses of Entra ID : 
 - **User Authentication** – Secure sign-in for Microsoft 365, Azure, and third-party apps.
 - **Single Sign-On (SSO)** – Users can access multiple applications with one login.
+- **Multi-Factor Authentication (MFA)** – Adds extra security to sign-ins.
+- **Conditional Access** – Restricts logins based on location, device, and risk factors.
