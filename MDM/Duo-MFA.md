@@ -133,3 +133,38 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 
 ---
 ## Final Configuration
+- Scroll down to:
+  - **Duo authentication for Windows Logon Installer Package (No 8)**
+![Screenshot](images/mfa13.png)
+### Integration:
+- Copy the **API hostname**
+- Navigate back to the details and paste the API hostname
+- Add the **Integration Key** and **Security Key** from the deployment log
+![Screenshot](images/mfa14.png) ****
+## Testing Duo After Final Install
+- Click on video and finish the installation.
+- Once it's done, test if it works.
+- Go to `Devices` → `Phones or Endpoint` → Devices enrolled to Duo.
+- You will see all the devices managed by your organization.
+- For my test, I only have one device here (sent from Luke for use).
+- You can send Duo push to verify the user’s identity.
+![Screenshot](images/mfa15.png)
+---
+## Troubleshooting Duo Help Desk Issues
+
+### Scenario:
+User gets a new phone. When trying to log in to their email or VPN, the Duo prompt fails or doesn’t show.
+### Steps:
+- Verify user's identity.
+- Check if they still have access to Duo on old phone or not.
+- Navigate to Duo Admin Panel → `Users` → Scroll down to the user.
+- Remove/delete old device → Add a new device.
+- Choose Mobile → Enter their number → They install the Duo app.
+- Scan the QR Code.
+![Screenshot](images/mfa16.jpeg)
+![Screenshot](images/mfa17.png)
+![Screenshot](images/mfa18.png)
+
+---
+
+**Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
