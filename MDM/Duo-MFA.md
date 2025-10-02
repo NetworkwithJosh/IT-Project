@@ -49,3 +49,8 @@ Setting up Duo Mobile is **simple and straightforward**:
 ![Screenshot](images/mfa3.png)
 ---   
 ## Duo Mobile Dashboard
+
+### Users
+- Add, manage, and remove user accounts.
+![Screenshot](images/mfa4.jpg)
+### Devices
