@@ -42,4 +42,6 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Full name  
    - Work email  
    - Phone number  
-   - Country  
+   - Country
+3. Click on **Sign Up** and **Verify your email address**
+4. You will be prompted to verify your phone number  
