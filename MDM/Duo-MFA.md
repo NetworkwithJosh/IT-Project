@@ -55,3 +55,4 @@ Setting up Duo Mobile is **simple and straightforward**:
 ![Screenshot](images/mfa4.jpg)
 ### Devices
 - Shows al registered phones, hardware tokens, etc.
+### Policies
