@@ -58,3 +58,10 @@ Setting up Duo Mobile is **simple and straightforward**:
 ### Policies
 - Set up rules for MFA (such as require MFA, allowed devices, geolocation rules).
 ![Screenshot](images/mfa5.png)
+### Applications
+- Where you integrate Duo with services like Microsoft 365, VPNs, RDP, etc.
+### Reports, Monitoring & Billings
+- These are essential parts of Duo for reports and monitoring.
+- Check billing and usage data.
+---
+## Creating a User Account on Duo
