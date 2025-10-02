@@ -84,3 +84,6 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Always seek management approval before granting a bypass.
 ---
 ## Groups
+- Groups make it easy to manage users in a more simplified way.
+- Manage applications at scale and quickly enable or disable users in bulk.
+- Navigate to:
