@@ -9,3 +9,5 @@
 - **Single Sign-On (SSO)** – Users can access multiple applications with one login.
 - **Multi-Factor Authentication (MFA)** – Adds extra security to sign-ins.
 - **Conditional Access** – Restricts logins based on location, device, and risk factors.
+- **Self-Service Password Reset (SSPR)** – Users can reset their passwords without IT help.
+- **Device Management** – Enforces security policies on Windows, iOS, Android, and macOS devices
