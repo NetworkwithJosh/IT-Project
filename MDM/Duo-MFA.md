@@ -92,6 +92,11 @@ Setting up Duo Mobile is **simple and straightforward**:
   - Add users to the group:
     - Select users to add
     - Click **Add users to group**
-![Screenshot](images/screenshot287.jpg)
+![Screenshot](images/mfa9.png)
 ---
 ## Adding Administrator
+- Assign an administrator with fewer powers to complete simple tasks.
+- Add the name and email address.
+- Since I’m aiming for Help Desk, I assign the **Help Desk** role.
+![Screenshot](images/mfa10.png)
+---
