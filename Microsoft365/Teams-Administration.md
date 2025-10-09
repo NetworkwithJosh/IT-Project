@@ -24,3 +24,11 @@ The **Teams Admin Center** allows administrators to:
 To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://admin.teams.microsoft.com)and click on Teams.
 
 ---
+## 3. Managing Teams and Workspaces
+
+### Create a Team
+1. Open **Teams Admin Center**.
+2. Navigate to **Teams** > **Manage Teams**.
+3. Click **+ Add a Team**.
+4. Choose **Public** or **Private**.
+5. Enter a **Team Name** and **Description**.
