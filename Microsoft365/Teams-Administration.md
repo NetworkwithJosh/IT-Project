@@ -8,3 +8,4 @@ A Microsoft Teams Administrator is responsible for managing Teams settings, user
 - Managing users, teams, and channels.
 - Configuring security, compliance, and guest access.
 - Managing meetings, calling, and messaging policies.
+- Integrating apps and workflows.
