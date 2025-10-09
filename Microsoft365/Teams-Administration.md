@@ -7,3 +7,4 @@ Microsoft Teams is a collaboration platform within Microsoft 365 that provides c
 A Microsoft Teams Administrator is responsible for managing Teams settings, user access, policies, and security. Their role includes:
 - Managing users, teams, and channels.
 - Configuring security, compliance, and guest access.
+- Managing meetings, calling, and messaging policies.
