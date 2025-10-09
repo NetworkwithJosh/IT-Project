@@ -12,3 +12,7 @@ A Microsoft Teams Administrator is responsible for managing Teams settings, user
 
 ---
 ## 2. Features of Microsoft Teams Admin Center
+
+The **Teams Admin Center** allows administrators to:
+- Manage teams, users, and permissions.
+- Configure security and compliance settings.
