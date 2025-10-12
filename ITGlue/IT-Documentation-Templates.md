@@ -74,3 +74,11 @@ Effective IT documentation should:
 - **Spam Filtering:** Enabled
 - **Retention Policies:** 30 Days
 - **Conditional Access Policies:** Applied
+
+## Backup & Disaster Recovery
+- **Email Backup Provider:** [Barracuda / SkyKick]
+- **SharePoint & OneDrive Backup:** [Enabled / Not Enabled]
+---
+## **4. Standard Operating Procedure (SOP) - Password Reset**
+
+# Procedure: Password Reset  
