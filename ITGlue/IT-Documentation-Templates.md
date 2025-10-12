@@ -8,3 +8,13 @@ Effective IT documentation should:
 - Be **updated regularly** to ensure accuracy.
 ![Screenshot](images/itglue2.jpg)
 ## **1. Server Documentation**
+
+# Server Name: [SERVER-2022]
+## General Information
+- **Role:** [Domain Controller / File Server / Application Server]
+- **Operating System:** [Windows Server 2022]
+- **IP Address:** [192.168.1.X]
+- **Location:** [On-Prem / Cloud (Azure, AWS)]
+- **Administrator Account:** [Documented in IT Glue / Vault]
+- **Last Maintenance Date:** [YYYY-MM-DD]
+
