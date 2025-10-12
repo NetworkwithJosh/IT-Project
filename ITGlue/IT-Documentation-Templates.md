@@ -64,3 +64,13 @@ Effective IT documentation should:
 - **Primary Administrator:** [adele@gittens.onmicrosoft.com
 - **License Type:** [Business Premium ]
 - **MFA Status:** [Enabled / Disabled]
+
+## Users & Groups
+- **User Count:** [50+]
+- **Group Types:** [Security / Distribution / M365 Groups]
+- **Shared Mailboxes:** [support@joshua.onmicrosoft.com, sales@joshua.onmicrosoft.com]
+
+## Email Security & Compliance
+- **Spam Filtering:** Enabled
+- **Retention Policies:** 30 Days
+- **Conditional Access Policies:** Applied
