@@ -101,4 +101,16 @@ Each troubleshooting entry contains:
 ### Credentials (Stored in IT Glue)
 - **Administrator Account:** joshua@onmicrosoft.com 
 - **Recovery Account:** joshua@onmicrosoft.com  
-- 
+
+### Common Issues & Fixes
+#### User Account Locked
+1. Open **Active Directory Users & Computers**.
+2. Search for the **user account**.
+3. Right-click and select **Unlock Account**.
+4. Reset the password if needed.
+
+#### Replication Issues
+```powershell
+repadmin /showrepl
+```
+If errors appear, check **event logs** and restart **Active Directory Services**.
