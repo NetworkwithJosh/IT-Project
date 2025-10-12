@@ -31,3 +31,10 @@ This section includes documentation on all key IT assets managed by the MSP or I
 - Routers
 - VPN appliances
 - Wireless access points
+
+#### **Servers**
+- Active Directory Domain Controllers
+- File Servers
+- Remote Desktop Servers
+- Microsoft Exchange Servers
+- Virtualization Hosts (Hyper-V, VMware ESXi)
