@@ -43,3 +43,12 @@ Effective IT documentation should:
 - **Last Config Change:** [YYYY-MM-DD]
 - **Administrator Credentials:** [Stored in IT Glue / Vault]
 
+## VLANs & Subnets
+- VLAN 10 - Users (192.168.10.0/24)
+- VLAN 20 - Servers (192.168.20.0/24)
+- VLAN 30 - VoIP (192.168.30.0/24)
+## Security & Firewall Rules
+- **Allow RDP:** No
+- **Allow VPN:** Yes
+- **Geo-IP Blocking:** Enabled for [Country_List]  
+
