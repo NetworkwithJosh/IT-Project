@@ -151,3 +151,18 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 - If VPN is down, check **firewall logs** and ensure **IKE/IPSec services** are running.
 ---
 ## Printer Troubleshooting Guide
+
+### Common Printer Issues
+- Printer is offline
+- Print jobs stuck in queue
+- Cannot connect to the network printer
+
+### Fixing a Printer Offline Issue
+1. Restart the **print spooler service**.
+2. Ensure the printer is **set as the default**.
+3. Reinstall the printer driver.
+
+### Step 3: Update IT Glue Documentation
+- Add a note: *"Password reset for [User] on [Date]."*
+
+## Updating IT Glue Documentation
