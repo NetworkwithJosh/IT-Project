@@ -45,3 +45,12 @@ This section includes documentation on all key IT assets managed by the MSP or I
 - Ticketing Systems (ConnectWise, Zendesk, Freshdesk)
 - Backup Solutions (Veeam, Acronis, Datto)
 - Security Software (CrowdStrike, SentinelOne)
+
+Each IT asset entry in IT Glue contains:
+- **Name** (e.g., AD-DC01)
+- **IP Address** (e.g., 192.168.1.10)
+- **Location** (e.g., Data Center, Remote Office)
+- **Role/Purpose** (e.g., Domain Controller, VPN Gateway)
+- **Configuration Details** (e.g., OS Version, Installed Services)
+- **Credentials** (if applicable, securely stored)
+- **Related Documentation** (linked troubleshooting guides and SOPs)
