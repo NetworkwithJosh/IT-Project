@@ -72,3 +72,6 @@ Each SOP entry in IT Glue includes:
 - **Step-by-Step Guide** (Clear instructions with expected outcomes)
 - **Troubleshooting Tips** (Common errors and resolutions)
 - **Update Log** (Record of changes to the procedure)
+
+### 3. Common Fixes & Workarounds
+This section in IT Glue stores documentation for resolving frequently encountered issues. 
