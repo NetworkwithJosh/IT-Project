@@ -100,4 +100,35 @@ When a user forgets their password, follow this procedure to reset it securely.
    - For **Microsoft 365**:  
      - Log in to **admin.microsoft.com**  
      - Navigate to **Users > Active Users**  
-     - Select the user and click **Reset Password** 
+     - Select the user and click **Reset Password**
+3. **Notify the User**  
+   - Provide them with the new password securely (phone call or IT Glue secure note).  
+   - Advise them to update their credentials across devices.  
+---
+## **5. VPN Issues Troubleshooting**
+
+# Issue: VPN Connection Not Working  
+
+User reports they are unable to connect to the company VPN.  
+## Troubleshooting Steps  
+1. **Verify Internet Connection**  
+   - Ensure the user can browse the web.  
+
+2. **Check VPN Credentials**  
+   - Verify the username and password are correct.  
+   - Ensure MFA authentication is working.  
+
+3. **Confirm VPN Server is Online**  
+   - Check VPN logs in the firewall/router.  
+
+4. **Reinstall VPN Client**  
+   - Instruct the user to remove and reinstall the VPN client.  
+
+5. **Escalation**  
+   - If the issue persists, escalate to Level 2 with logs attached.  
+---
+## **Why Screenshots Are Not Included**
+
+# Why I Can't Include IT Glue Screenshots
+I currently do not have access to an IT Glue free trial, which limits my ability to provide screenshots or firsthand experience. However, I have compiled this documentation template based on research, including YouTube videos and technical guides. This structure follows IT Glue’s best practices for maintaining accurate and accessible IT documentation.
+``
