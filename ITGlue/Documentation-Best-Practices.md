@@ -166,3 +166,16 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 - Add a note: *"Password reset for [User] on [Date]."*
 
 ## Updating IT Glue Documentation
+
+### How to Update an Existing Entry
+1. Search for the existing document in **IT Glue**.
+2. Click **Edit**, make necessary changes, and add the **update date**.
+3. Save and review the update for accuracy.
+
+### How to Create a New Documentation Entry
+1. Click **New Document** in IT Glue.
+2. Select the appropriate **category (Server, Network, SOP, etc.)**.
+3. Add **relevant details, steps, and troubleshooting tips**.
+4. Save and **tag for easy searching**.
+
+## How IT Glue is Used in an MSP Workflow
