@@ -88,3 +88,17 @@ Each troubleshooting entry contains:
 - **Possible Causes** (What might be wrong)
 - **Step-by-Step Fix** (How to resolve it)
 - **Related Documentation** (Links to SOPs, IT assets)
+
+## Server Documentation - Active Directory Server
+
+### Server Details
+- **Name:** AD-DC01  
+- **IP Address:** 192.168.1.10  
+- **Location:** Main Office  
+- **Operating System:** Windows Server 2022  
+- **Roles:** Domain Controller, DNS
+
+### Credentials (Stored in IT Glue)
+- **Administrator Account:** joshua@onmicrosoft.com 
+- **Recovery Account:** joshua@onmicrosoft.com  
+- 
