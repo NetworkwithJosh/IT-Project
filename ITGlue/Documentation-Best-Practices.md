@@ -38,3 +38,10 @@ This section includes documentation on all key IT assets managed by the MSP or I
 - Remote Desktop Servers
 - Microsoft Exchange Servers
 - Virtualization Hosts (Hyper-V, VMware ESXi)
+
+#### **Applications**
+- Microsoft 365 (Exchange, SharePoint, Teams)
+- Microsoft Intune (Device Management, Policies)
+- Ticketing Systems (ConnectWise, Zendesk, Freshdesk)
+- Backup Solutions (Veeam, Acronis, Datto)
+- Security Software (CrowdStrike, SentinelOne)
