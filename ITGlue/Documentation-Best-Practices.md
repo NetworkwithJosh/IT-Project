@@ -82,3 +82,9 @@ This section in IT Glue stores documentation for resolving frequently encountere
 - Printer Offline Fix
 - VPN Connection Issues
 - Microsoft Intune Device Enrollment Issues
+
+Each troubleshooting entry contains:
+- **Symptoms** (What issue users report)
+- **Possible Causes** (What might be wrong)
+- **Step-by-Step Fix** (How to resolve it)
+- **Related Documentation** (Links to SOPs, IT assets)
