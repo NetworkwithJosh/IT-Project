@@ -139,3 +139,15 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 3. Map the drive via **Group Policy Preferences**.
 4. Test access from multiple user accounts.
 ---
+## Network Devices Documentation
+
+| Device Name | Type     | IP Address  | Location      | Notes                   |
+| ----------- | -------- | ----------- | ------------- | ----------------------- |
+| Firewall-01 | Firewall | 192.168.1.1 | Data Center   | Main perimeter firewall |
+| Switch-01   | Switch   | 192.168.1.2 | Office Floor  | 48-Port Gigabit Switch  |
+| VPN-01      | VPN      | 192.168.1.3 | Remote Access | VPN for external users  |
+
+### Troubleshooting VPN Issues
+- If VPN is down, check **firewall logs** and ensure **IKE/IPSec services** are running.
+---
+## Printer Troubleshooting Guide
