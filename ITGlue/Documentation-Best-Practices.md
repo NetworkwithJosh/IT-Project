@@ -21,3 +21,6 @@ Due to the lack of access to an IT Glue trial version, this documentation is bas
 
 ## IT Glue Structure
 IT Glue is structured to provide a logical and organized way to store and retrieve IT documentation. Below are the key components:
+
+### 1. IT Assets
+This section includes documentation on all key IT assets managed by the MSP or IT team. It is categorized into three primary areas:
