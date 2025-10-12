@@ -65,3 +65,10 @@ SOPs provide step-by-step instructions for common IT support issues. These ensur
 - **Printer Installation & Troubleshooting**
 - **Software Deployment via Intune or PDQ Deploy**
 - **Updating IT Glue Documentation**
+
+Each SOP entry in IT Glue includes:
+- **Purpose** (Why the procedure exists)
+- **Prerequisites** (Any necessary information before starting)
+- **Step-by-Step Guide** (Clear instructions with expected outcomes)
+- **Troubleshooting Tips** (Common errors and resolutions)
+- **Update Log** (Record of changes to the procedure)
