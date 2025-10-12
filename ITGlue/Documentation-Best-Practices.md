@@ -114,3 +114,19 @@ Each troubleshooting entry contains:
 repadmin /showrepl
 ```
 If errors appear, check **event logs** and restart **Active Directory Services**.
+
+## Standard Operating Procedure - Password Reset
+
+### When to Use This Guide
+- User forgot their password.
+- Account is locked due to multiple failed attempts.
+
+### Step 1: Verify User Identity
+- Confirm the request via email or phone.
+- Check with the **manager** if needed.
+
+### Step 2: Reset Password in Active Directory
+1. Open **Active Directory Users & Computers**.
+2. Search for the **user account**.
+3. Right-click and select **Reset Password**.
+4. Enter the new password and confirm.
