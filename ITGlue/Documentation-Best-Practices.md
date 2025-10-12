@@ -130,3 +130,12 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 2. Search for the **user account**.
 3. Right-click and select **Reset Password**.
 4. Enter the new password and confirm.
+
+## File Sharing Configuration
+
+### Configuring a Shared Drive
+1. Create a shared folder on the **File Server**.
+2. Set permissions using **NTFS & Share Permissions**.
+3. Map the drive via **Group Policy Preferences**.
+4. Test access from multiple user accounts.
+---
