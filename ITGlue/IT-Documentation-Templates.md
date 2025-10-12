@@ -18,3 +18,12 @@ Effective IT documentation should:
 - **Administrator Account:** [Documented in IT Glue / Vault]
 - **Last Maintenance Date:** [YYYY-MM-DD]
 
+## Services Running
+- **Active Directory / DHCP / DNS**
+- **File Sharing / Print Services**
+- **Virtualization  / VMware**
+
+## Backup & Recovery
+- **Backup Solution:** [Veeam / Azure Backup / Acronis]
+- **Retention Policy:** [Daily / Weekly / Monthly]
+- **Recovery Procedure:** [Step-by-step guide]
