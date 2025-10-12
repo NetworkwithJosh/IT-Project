@@ -52,3 +52,15 @@ Effective IT documentation should:
 - **Allow VPN:** Yes
 - **Geo-IP Blocking:** Enabled for [Country_List]  
 
+## Backup & Recovery
+- **Configuration Backup Location:** [Cloud / Local Repository]
+- **Restoration Procedure:** [Step-by-step guide
+---
+## **3. Microsoft 365 Documentation**
+
+# Microsoft 365 Tenant: [Njikason.onmicrosoft.com]
+## General Information
+- **Admin Portal:** [joshua@gittens.onmicrosoft.com]
+- **Primary Administrator:** [adele@gittens.onmicrosoft.com
+- **License Type:** [Business Premium ]
+- **MFA Status:** [Enabled / Disabled]
