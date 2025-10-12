@@ -75,3 +75,10 @@ Each SOP entry in IT Glue includes:
 
 ### 3. Common Fixes & Workarounds
 This section in IT Glue stores documentation for resolving frequently encountered issues. 
+
+#### **Examples of Common Fixes:**
+- Outlook Not Syncing
+- Account Locked in Active Directory
+- Printer Offline Fix
+- VPN Connection Issues
+- Microsoft Intune Device Enrollment Issues
