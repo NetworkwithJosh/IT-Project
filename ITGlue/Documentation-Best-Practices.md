@@ -53,4 +53,8 @@ Each IT asset entry in IT Glue contains:
 - **Role/Purpose** (e.g., Domain Controller, VPN Gateway)
 - **Configuration Details** (e.g., OS Version, Installed Services)
 - **Credentials** (if applicable, securely stored)
-- **Related Documentation** (linked troubleshooting guides and SOPs)
+- **Related Documentation** (linked troubleshooting guides and SOPs
+
+### 2. Standard Operating Procedures (SOPs)
+SOPs provide step-by-step instructions for common IT support issues. These ensure consistency and efficiency when resolving recurring issues.
+
