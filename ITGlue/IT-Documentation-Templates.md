@@ -82,3 +82,22 @@ Effective IT documentation should:
 ## **4. Standard Operating Procedure (SOP) - Password Reset**
 
 # Procedure: Password Reset  
+
+When a user forgets their password, follow this procedure to reset it securely.  
+![Screenshot](images/itglue2.jpg)
+## Steps  
+1. **Verify User Identity**  
+   - Confirm user's identity via security questions or an alternate method.  
+   - Check if the user has MFA enabled.  
+
+2. **Reset Password**  
+   - For **Active Directory**:  
+     - Open **Active Directory Users & Computers (ADUC)**  
+     - Locate the user and click **Reset Password**  
+     - Assign a **temporary password**  
+     - Ensure **User must change password at next logon** is checked  
+
+   - For **Microsoft 365**:  
+     - Log in to **admin.microsoft.com**  
+     - Navigate to **Users > Active Users**  
+     - Select the user and click **Reset Password** 
