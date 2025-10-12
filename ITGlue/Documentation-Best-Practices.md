@@ -58,3 +58,10 @@ Each IT asset entry in IT Glue contains:
 ### 2. Standard Operating Procedures (SOPs)
 SOPs provide step-by-step instructions for common IT support issues. These ensure consistency and efficiency when resolving recurring issues.
 
+#### **Examples of SOPs in IT Glue:**
+- **Password Reset** (Active Directory, Microsoft 365)
+- **New User Onboarding** (Creating accounts, setting permissions)
+- **VPN Setup & Troubleshooting**
+- **Printer Installation & Troubleshooting**
+- **Software Deployment via Intune or PDQ Deploy**
+- **Updating IT Glue Documentation**
