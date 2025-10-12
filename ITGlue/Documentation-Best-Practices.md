@@ -24,3 +24,10 @@ IT Glue is structured to provide a logical and organized way to store and retrie
 
 ### 1. IT Assets
 This section includes documentation on all key IT assets managed by the MSP or IT team. It is categorized into three primary areas:
+
+#### **Network Devices**
+- Firewalls (e.g., Cisco ASA, pfSense, Meraki)
+- Switches (e.g., Cisco, HP, Unifi)
+- Routers
+- VPN appliances
+- Wireless access points
