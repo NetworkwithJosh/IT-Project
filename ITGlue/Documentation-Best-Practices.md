@@ -179,3 +179,19 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 4. Save and **tag for easy searching**.
 
 ## How IT Glue is Used in an MSP Workflow
+
+### Step 1: Review Ticket in Zendesk or ConnectWise
+- User reports: *"Cannot log in to VPN."*
+- Check **past issues** in IT Glue.
+
+### Step 2: Search IT Glue for Documentation
+- Look up **VPN-01** in Network Devices.
+- Find **troubleshooting steps**.
+
+### Step 3: Remote Into the Device
+- Use **ConnectWise Control** to access the user’s PC.
+- Check **VPN client logs** for error codes.
+
+### Step 4: Apply Fix and Update IT Glue
+- If the issue is resolved, document the fix in IT Glue.
+  *Example: "Resolved VPN login issue for UserX by resetting VPN profile."*
