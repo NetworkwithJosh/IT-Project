@@ -19,3 +19,5 @@ IT Glue is a cloud-based IT documentation platform designed for Managed Service 
 ### Limitations of This Documentation
 Due to the lack of access to an IT Glue trial version, this documentation is based on extensive research from industry resources, including YouTube tutorials, official documentation, and IT support knowledge bases. While screenshots cannot be included, the structured guidelines and mock data closely replicate real-world IT documentation practices used in MSP environments.
 
+## IT Glue Structure
+IT Glue is structured to provide a logical and organized way to store and retrieve IT documentation. Below are the key components:
