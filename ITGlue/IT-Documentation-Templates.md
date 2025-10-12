@@ -27,3 +27,9 @@ Effective IT documentation should:
 - **Backup Solution:** [Veeam / Azure Backup / Acronis]
 - **Retention Policy:** [Daily / Weekly / Monthly]
 - **Recovery Procedure:** [Step-by-step guide]
+
+## Monitoring & Alerts
+- **Monitoring Tool:** [ SolarWinds / ConnectWise Automate]
+- **Alerting Method:** [Email / Ticket Creation]
+---
+## **2. Network Device Documentation (Router, Switch, Firewall)**
