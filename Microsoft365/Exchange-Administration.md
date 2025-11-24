@@ -189,3 +189,5 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 7. Click **Save**.  
 
 ✅ Now, the selected users have the required access!  
+
+![Screenshot](images/EA3.png)
