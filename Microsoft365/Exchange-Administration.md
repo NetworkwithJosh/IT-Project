@@ -80,3 +80,18 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
 ### **4. How to Perform Message Trace (Track Email Deliveries & Failures)**  
 
 **Message Trace** helps track if an email was successfully delivered, delayed, or failed. 
+
+#### **Steps:**  
+1. Go to **Mail Flow > Message Trace**.  
+2. Click **Start a Trace**.  
+3. Enter the **sender or recipient email address**.  
+4. Select a **time range** (e.g., last 7 Days).  
+5. Click **Search**.  
+6. Review the results:  
+   - **Delivered** – The email was successfully sent.  
+   - **Pending** – The email is still processing.  
+   - **Failed** – The email was not sent (check the error code for details).  
+
+ **This helps troubleshoot missing emails for users.**  
+
+---
