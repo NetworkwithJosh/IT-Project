@@ -5,3 +5,6 @@ Microsoft Exchange Administration involves managing **email services, mail flow,
 As a **IT Support** technician, I will handle tasks related to **user mailboxes, shared mailboxes, groups, email forwarding, message tracing, and mail flow rules** using the **Exchange Admin Center (EAC)** or **PowerShell**.
 
 ---
+## Key Responsibilities in Exchange Administration  
+
+### 1️ Managing Recipients (Mailboxes, Groups, Contacts, and Resources)  
