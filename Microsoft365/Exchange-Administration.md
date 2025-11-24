@@ -59,3 +59,6 @@ Groups allow multiple users to receive emails sent to a single email address.
 6. You can also create **Microsoft 365 Group** in Exchange Admin portal as-well.
 
  **Now, emails sent to the group email address will be received by all members.**  
+
+---
+![Screenshot](images/EA2.jpg)
