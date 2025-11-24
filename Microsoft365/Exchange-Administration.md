@@ -210,4 +210,4 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 - If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
 - Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to Microsoft).  
 
----  
+--- 
