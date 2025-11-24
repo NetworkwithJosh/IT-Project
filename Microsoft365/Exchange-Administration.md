@@ -22,3 +22,18 @@ As a **IT Support** technician, I will handle tasks related to **user mailboxes,
 - Monitor **alerts and audit logs** for compliance.  
 
 ---
+### 1. How to Create a Shared Mailbox
+
+A **shared mailbox** allows multiple users to access and send emails from a single mailbox (e.g., `Support-joshua@local.onmicrosoft.com`).  
+#### **Steps:**  
+1. Go to **Exchange Admin Center**.  
+2. Navigate to **Recipients > Mailboxes**.  
+3. Click **Add Mailbox > Shared Mailbox**.  
+4. Enter a **name** (e.g., "Procurement-Team") and **email address** (e.g., `Support-Team@Njikason.onmicosoft.com).  
+5. Click **Create** and wait for the mailbox to be provisioned.  
+6. Assign users who should have access by clicking **Add Members**.  
+7. Click **Save**.  
+
+ **Users can now access this shared mailbox in Outlook under "Shared Mailboxes."**  
+
+---
