@@ -39,3 +39,13 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 ---
 ![Screenshot](images/EA1.png)
 
+###  2. How to Create a Group (Distribution List & Microsoft 365 Group)
+
+Groups allow multiple users to receive emails sent to a single email address.  
+
+#### **For a Distribution List:**  
+1. Go to **Recipients > Groups**.  
+2. Click **Add Group > Select Distribution**.  
+3. Enter a **name, email, and description**.  
+4. Add members who should receive emails sent to this group.  
+5. Click **Create**.  
