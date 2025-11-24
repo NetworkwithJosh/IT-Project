@@ -125,3 +125,16 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
  
 ---
 ### **7. How to Assign Exchange Admin Roles to Users**  
+
+Exchange permissions are managed via **Admin Roles**.  
+#### **Steps:**  
+1. Go to **Roles > Admin Roles**.  
+2. Click **+ Add Role Group**.  
+3. Select a **role** (e.g., "Help Desk" ).  
+4. Add users who need this role.  
+5. Click **Save**.  
+
+ **Ensures that Level 1 IT Support has limited access without full admin privileges.**  
+
+---
+# Exchange Admin Center - Email Forwarding & Delegate Access
