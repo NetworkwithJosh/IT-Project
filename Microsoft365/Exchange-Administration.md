@@ -191,3 +191,23 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 ✅ Now, the selected users have the required access!  
 
 ![Screenshot](images/EA3.png)
+###  How to Remove Delegate Access  
+1. Navigate to **Mailbox Permissions** > **Manage mailbox delegation**.  
+2. Remove the user from **Send As, Send on Behalf, or Full Access**.  
+3. Click **Save**.  
+
+ **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
+ 
+---
+## Troubleshooting  
+ **Email forwarding isn’t working?**  
+- Check if there’s a conflicting **mail flow rule** in **Exchange Admin Center > Mail Flow > Rules**.  
+- Ensure the forwarding user’s mailbox isn’t full.  
+- Verify the correct recipient email was added.  
+
+ **Delegate access isn’t working?**  
+- If the user can't send emails as the owner, ensure **Send As** permission is set.  
+- If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
+- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to Microsoft).  
+
+---  
