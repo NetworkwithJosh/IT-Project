@@ -61,7 +61,7 @@ Groups allow multiple users to receive emails sent to a single email address.
  **Now, emails sent to the group email address will be received by all members.**  
 
 ---
-![Screenshot](images/EA2.jpg)
+![Screenshot](images/EA2.png)
 
 ### **3. How to Manage Resources (Meeting Rooms & Equipment Mailboxes)**
 
