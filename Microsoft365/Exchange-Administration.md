@@ -95,3 +95,17 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
  **This helps troubleshoot missing emails for users.**  
 
 ---
+### **5. How to Configure Mail Flow Rules (Transport Rules)**  
+
+Mail Flow Rules control how emails are processed based on conditions (e.g., block certain attachments or forward emails).  
+#### **Steps:**  
+1. Go to **Mail Flow > Rules**.  
+2. Click **+ Add Rule**.  
+3. Enter a **rule name** (e.g., "Block ZIP Attachments").  
+4. Select **Apply this rule if…** (e.g., "Attachment includes .zip files").  
+5. Choose an **action** (e.g., "Reject the message with an explanation").  
+6. Click **Save**.  
+
+ **Useful for compliance and security policies.**  
+
+---
