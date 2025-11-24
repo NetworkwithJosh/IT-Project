@@ -78,3 +78,5 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
 
 ---
 ### **4. How to Perform Message Trace (Track Email Deliveries & Failures)**  
+
+**Message Trace** helps track if an email was successfully delivered, delayed, or failed. 
