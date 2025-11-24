@@ -62,3 +62,19 @@ Groups allow multiple users to receive emails sent to a single email address.
 
 ---
 ![Screenshot](images/EA2.jpg)
+
+### **3. How to Manage Resources (Meeting Rooms & Equipment Mailboxes)**
+
+A **resource mailbox** is used to schedule **meeting rooms or equipment**.  
+
+#### **Steps:**  
+1. Go to **Recipients > Resources**.  
+2. Click **Add Resource > Choose Room Mailbox or Equipment Mailbox**.  
+3. Enter a **name** (e.g., "Conference Room A") and **email address**.  
+4. Configure **booking options** (auto-accept requests or manual approval).  
+5. Click **Save**.  
+
+ **Users can now book this resource when scheduling meetings in Outlook.**  
+
+---
+### **4. How to Perform Message Trace (Track Email Deliveries & Failures)**  
