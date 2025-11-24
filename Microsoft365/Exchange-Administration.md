@@ -37,3 +37,5 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
  **Users can now access this shared mailbox in Outlook under "Shared Mailboxes."**  
 
 ---
+![Screenshot](images/EA1.png)
+
