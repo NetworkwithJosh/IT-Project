@@ -10,3 +10,12 @@ Microsoft 365 is a **cloud-based suite of productivity and security tools** offe
 - **Microsoft Teams** – Chat, video conferencing, and team collaboration tool.  
 - **Microsoft Intune** – Device and application management (MDM/MAM).  
 - **Azure AD (Entra ID)** – Identity and access management (IAM).  
+
+![Screenshot](images/EA6.png)
+### Role of Microsoft 365 Admin Center  
+The **Microsoft 365 Admin Center** is a web-based portal used by IT administrators to:  
+- **Manage users and groups**  
+- **Assign licenses and subscriptions**  
+- **Monitor service health and security**  
+- **Configure security and compliance settings**  
+- **Manage Microsoft 365 services like Exchange, SharePoint, and Teams**  
