@@ -82,3 +82,20 @@ External access allows communication with users outside the organization.
 5. Click **Save**.
 ---
 ## 7. Managing Teams Policies
+
+Policies in Teams help enforce security and compliance.
+### Configure Teams Policies
+1. Open **Teams Admin Center**.
+2. Navigate to **Teams policies**.
+3. Click **+ Add** to create a new policy or select an existing one.
+4. Set restrictions on messaging, file sharing, or meeting capabilities.
+5. Assign the policy to users or groups.
+6. Click **Save**.
+### Assign Policies to Users
+1. In **Teams Admin Center**, go to **Users**.
+2. Select a user.
+3. Under **Policies**, click **Edit**.
+4. Assign the required policies.
+5. Click **Save**.
+---
+## 9. Managing Channels in Teams
