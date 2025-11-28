@@ -35,3 +35,16 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
    - **Set roles** (User, Admin)  
 5. Click **Add user**  
 ---
+
+![Screenshot](images/EA3.png)
+#### **Deleting a User**  
+1. Go to **Users > Active users**  
+2. Select the user you want to delete  
+3. Click **Delete user**  
+#### **Restoring a Deleted User**  
+1. Go to **Users > Deleted users**  
+2. Select the user you want to restore  
+3. Click **Restore user**  
+4. Assign a license (if required)  
+
+---
