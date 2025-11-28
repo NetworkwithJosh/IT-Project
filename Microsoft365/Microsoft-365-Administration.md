@@ -48,3 +48,18 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 4. Assign a license (if required)  
 
 ---
+### Assigning and Managing Licenses  
+
+1. Go to **Users > Active users**  
+2. Click on a user’s name  
+3. Go to the **Licenses and apps** tab  
+4. Select the appropriate Microsoft 365 license (E3, Business Premium, etc.)  
+5. Click **Save changes**  
+
+![Screenshot](images/EA4.png)
+#### **Bulk License Assignment**  
+1. Select multiple users  
+2. Click **Edit product licenses**  
+3. Choose a license and click **Save changes**  
+---
+### Resetting Passwords and MFA Setup  
