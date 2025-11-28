@@ -8,3 +8,5 @@ Microsoft 365 is a **cloud-based suite of productivity and security tools** offe
 - **Exchange Online** – Cloud-based email hosting and management.  
 - **SharePoint Online** – Document storage, intranet, and collaboration platform.  
 - **Microsoft Teams** – Chat, video conferencing, and team collaboration tool.  
+- **Microsoft Intune** – Device and application management (MDM/MAM).  
+- **Azure AD (Entra ID)** – Identity and access management (IAM).  
