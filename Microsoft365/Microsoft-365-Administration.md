@@ -19,3 +19,19 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 - **Monitor service health and security**  
 - **Configure security and compliance settings**  
 - **Manage Microsoft 365 services like Exchange, SharePoint, and Teams**  
+## 2. User Management  
+
+### Creating, Deleting, and Restoring Users  
+
+#### **Creating a New User in Microsoft 365 Admin Center**  
+1. Go to **[Microsoft 365 Admin Center](https://admin.microsoft.com/)**  
+2. Navigate to **Users > Active users**  
+3. Click **Add a user**  
+4. Fill in user details:  
+   - **Name**  
+   - **Username (email address)**  
+   - **Password (auto-generated or manual)**  
+   - **Assign a license** (Microsoft 365 Business Premium, E3, etc.)  
+   - **Set roles** (User, Admin)  
+5. Click **Add user**  
+---
