@@ -126,3 +126,54 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 6. Name your team and add members  
 ---
 ## How to Give Full Rights to Someone’s Mailbox in Microsoft 365 (Delegated Access)
+
+1. Log into the **Microsoft 365 Admin Center**  
+   - Go to [admin.microsoft.com](https://admin.microsoft.com) and sign in with an admin account.
+1. Navigate to **Users → Active Users**  
+   - Search for and select the mailbox user you want to delegate access to.
+1. Go to **Mail tab → Manage Mailbox Permissions**  
+   - Under **Mailbox permissions**, click **Manage mailbox permission**.
+1. Grant **Full Access**  
+   - Under the **Full Access** section, click **Add Permissions**.  
+   - Search for the users who need full access and select them.
+1. Click **Save Changes**.
+2. Wait for permissions to apply.
+---
+## How to Convert a User Mailbox to a Shared Mailbox
+
+1. Sign in to the **Microsoft 365 Admin Center**  
+   - Go to [admin.microsoft.com](https://admin.microsoft.com) and log in with an admin account.
+
+2. Navigate to **Active Users**  
+   - In the left pane, go to **Users → Active Users**.
+
+3. Select the **User Mailbox**  
+   - Find and select the user whose mailbox you want to convert.
+
+4. Click on **Mail Settings**  
+   - Under **More Actions**, click **Convert to Shared Mailbox**.
+---
+## Assigning Permissions and Licenses
+
+- **Required Action:**  
+  - Assign **Permission** (if needed).  
+  - If users need access, go to **Mail → Manage Mailbox Permissions**, and add users to **Full Access** and/or **Send As**.
+
+---
+## How to Add a Contact in Microsoft 365
+
+- **For Organization-Wide Contacts**  
+  1. Sign in to the **Microsoft 365 Admin Center**.  
+  2. Navigate to **Contacts Management**  
+     - In the left pane, go to **Teams & Groups → Contacts**.
+
+  3. Add a contact in **Microsoft 365 Admin Center, Exchange Admin Center, or Outlook Web**.  
+     - The method depends on whether you want to add a **personal contact** or a **global contact** for the organization.
+
+---
+##  Summary  
+- **Microsoft 365 Admin Center** is the central hub for managing users, devices, and groups.  
+- **User management** involves creating, deleting, and restoring accounts, managing licenses, and troubleshooting login issues.  
+- **Groups & Teams** help organize communication and collaboration through Microsoft 365 Groups, shared mailboxes, and Teams.  
+
+---
