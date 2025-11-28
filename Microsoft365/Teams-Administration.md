@@ -99,3 +99,82 @@ Policies in Teams help enforce security and compliance.
 5. Click **Save**.
 ---
 ## 9. Managing Channels in Teams
+### Add a Channel
+1. Open **Teams Admin Center**.
+2. Select a **Team**.
+3. Click **+ Add Channel**.
+4. Enter a **Channel Name** and **Description**.
+5. Set **Privacy**:  
+   - **Standard**: Everyone in the team can access.  
+   - **Private**: Only selected members can access.  
+   - **Shared**: Share with users outside the team.
+6. Click **Create**.
+![Screenshot](images/Teams3.png)
+### Delete a Channel
+1. In **Teams Admin Center**, go to **Manage Teams**.
+2. Select the team.
+3. Under **Channels**, choose the channel to delete.
+4. Click **Delete** and confirm.
+---
+## 10. File Sharing and Collaboration
+
+### Upload and Share Files
+1. Open **Teams** and go to a **Team or Channel**.
+2. Click the **Files** tab.
+3. Click **Upload** and select a file.
+4. Click **Share** to set permissions.
+*Note:* File Sharing is the cloud alternative to network file sharing on windows server (share file/mapping drive)
+
+---
+## 11. Managing Meetings & Calls
+
+### Schedule a Meeting
+1. Open **Teams** > Click **Calendar**.
+2. Click **+ New Meeting**.
+3. Add **Title, Date, Time, and Participants**.
+4. Click **Send**.
+### Manage Call Settings
+1. Open **Teams Admin Center**.
+2. Navigate to **Voice**.
+3. Configure:
+   - **Calling Policies**.
+   - **Voicemail Settings**.
+   - **Call Forwarding Rules**.
+---
+## 12. Managing Apps and Integrations
+
+### Add an App to Teams
+1. Open **Teams Admin Center**.
+2. Go to **Teams apps** > **Manage apps**.
+3. Click **+ Add an App**.
+4. Search for the app and click **Add**.
+### Remove an App
+1. Open **Teams Admin Center**.
+2. Navigate to **Teams apps** > **Manage apps**.
+3. Select the app and click **Remove**.
+---
+## 13. Troubleshooting Teams Issues
+
+### Common Issues and Fixes
+
+#### Teams Login Issues
+- Verify the user account in **Microsoft 365 Admin Center**.
+- Reset the password if necessary.
+- Check **Multi-Factor Authentication (MFA)** settings.
+#### Teams Not Loading
+- Clear the cache (`%appdata%\Microsoft\Teams\cache`).
+- Restart **Teams** and **PC**.
+- Check Microsoft 365 service status at [Service Health]
+#### Audio/Video Issues in Meetings
+- Verify **Microphone and Camera settings** in Teams.
+- Run **Windows Troubleshooter** (`Settings > System > Sound`).
+- Ensure **Teams is up to date**.
+---
+## 14. Best Practices for Microsoft Teams Administration
+
+- **Enable Multi-Factor Authentication (MFA)** for security.
+- **Limit Guest Access** to protect sensitive data.
+- **Use Private Channels** for restricted discussions.
+- **Regularly Audit Teams** to remove inactive users.
+
+---
