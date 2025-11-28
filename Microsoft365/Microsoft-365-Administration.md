@@ -96,3 +96,33 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 5. Enter a **Group Name** and **Email Address**  
 6. Assign **Group Owners** and **Members**  
 7. Click **Create group**  
+
+
+![Screenshot](images/EA5.png)
+#### **Managing Group Membership**  
+- To add or remove members, go to **Teams & Groups > Active teams & groups**  
+- Select the group and click **Members**  
+- Add new members or remove existing ones  
+
+---
+### Shared Mailboxes vs. Distribution Lists vs. Security Groups  
+
+#### **Creating a Shared Mailbox**  
+1. Go to **Microsoft 365 Admin Center**  
+2. Navigate to **Teams & Groups > Shared mailboxes**  
+3. Click **Add a shared mailbox**  
+4. Enter **Mailbox Name** and **Email Address**  
+5. Assign **Members** who can send/receive emails  
+6. Click **Save**  
+---
+### Microsoft Teams Setup and Troubleshooting  
+
+#### **Setting Up a Microsoft Teams Group**  
+1. Open **Microsoft Teams**  
+2. Click **Teams > Join or create a team**  
+3. Click **Create a team**  
+4. Choose **From scratch** or **From an existing group**  
+5. Select **Private** (for restricted access) or **Public** (anyone can join)  
+6. Name your team and add members  
+---
+## How to Give Full Rights to Someone’s Mailbox in Microsoft 365 (Delegated Access)
