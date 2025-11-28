@@ -63,3 +63,17 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 3. Choose a license and click **Save changes**  
 ---
 ### Resetting Passwords and MFA Setup  
+
+#### **Resetting a User’s Password**  
+1. Go to **Users > Active users**  
+2. Select the user  
+3. Click **Reset password**  
+4. Choose **Auto-generate** or enter a new password manually  
+5. Click **Reset** and notify the user  
+#### **Setting Up Multi-Factor Authentication (MFA)**  
+1. Go to **Users > Active users**  
+2. Click **Multi-factor authentication**  
+3. Select the user and enable MFA  
+4. The user will be required to set up MFA on their next login with their Device.
+---
+### Troubleshooting Login Issues  
