@@ -149,7 +149,7 @@ IT Support
 My goal is to maintain clear and professional communication during real-time interactions or ticket updates.
 
 - I greet the client warmly and identify myself.  
-  *Hi John, this is Kizito from IT Support. I’ve just picked up your ticket and I’ll assist you now.*
+  *Hi John, this is Joshua from IT Support. I’ve just picked up your ticket and I’ll assist you now.*
 
 - I provide brief updates if something takes time.  
   *I’m checking your account now, one moment please.*
