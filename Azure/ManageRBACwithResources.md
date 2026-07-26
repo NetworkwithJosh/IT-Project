@@ -317,3 +317,443 @@ Enabling Microsoft Entra Authorization causes Azure Portal authentication to rel
 ![Step 6](images/rbac-06.png)
 
 ---
+
+## Step 7 — Disable Shared Key Authentication
+
+One of the primary goals of this project was to eliminate dependency on Shared Key authentication.
+
+Azure Storage allows administrators to disable Storage Account Key access.
+
+After opening the **Configuration** blade of the storage account, I reviewed the following security settings:
+
+- Secure transfer required
+- Blob anonymous access
+- Storage account key access
+- Microsoft Entra authorization
+- TLS version
+
+The critical change was disabling:
+
+**Allow storage account key access**
+
+Disabling this setting prevents users and applications from authenticating with:
+
+- Storage account keys
+- Connection strings using Shared Key
+- Shared Key authorization
+
+Instead, authentication must occur using Microsoft Entra identities and Azure RBAC.
+
+This greatly improves security because permissions become tied to an individual identity instead of a shared secret.
+
+Benefits include:
+
+- Better auditing
+- Easier access removal
+- Support for Conditional Access
+- Support for MFA
+- Least privilege permissions
+
+> **Note:** Before disabling Shared Key access in production, all applications should first be migrated to Microsoft Entra authentication or Managed Identities.
+
+![Step 7](images/rbac-07.png)
+
+---
+
+## Step 8 — Access Control (IAM)
+
+After securing the storage account, I opened **Access Control (IAM)**.
+
+IAM is Azure's centralized authorization system that controls who can perform actions on Azure resources.
+
+The IAM blade provides several important capabilities:
+
+- Review existing role assignments
+- Assign Azure roles
+- Check user access
+- View inherited permissions
+- Review deny assignments
+
+Access Control follows Azure RBAC principles by assigning permissions to identities instead of sharing credentials.
+
+This is the foundation of Microsoft's Zero Trust model.
+
+![Step 8](images/rbac-08.png)
+
+---
+
+# Understanding Azure RBAC
+
+Azure Role-Based Access Control (RBAC) is Microsoft's authorization service.
+
+Authentication answers:
+
+> Who are you?
+
+Authorization answers:
+
+> What are you allowed to do?
+
+Azure RBAC answers the second question.
+
+Permissions are granted through:
+
+- Users
+- Groups
+- Service Principals
+- Managed Identities
+
+Rather than assigning permissions directly to resources.
+
+---
+
+# Principle of Least Privilege
+
+This project follows Microsoft's recommended security practice:
+
+**Grant only the permissions necessary for the task.**
+
+For example:
+
+A user that only needs to download files should receive:
+
+Storage Blob Data Reader
+
+NOT
+
+Storage Blob Data Owner
+
+Likewise,
+
+Someone managing Azure resources may receive:
+
+Contributor
+
+without ever receiving permission to read sensitive storage data.
+
+---
+
+## Step 9 — Review Azure Management Roles
+
+Next I reviewed Azure's built-in management roles.
+
+Three of the most common roles are:
+
+### Owner
+
+The Owner role provides:
+
+- Full resource management
+- Role assignment permissions
+- Complete administrative control
+
+Owners can create new RBAC assignments.
+
+---
+
+### Contributor
+
+Contributors can:
+
+- Create resources
+- Modify resources
+- Delete resources
+
+However,
+
+Contributors **cannot assign Azure RBAC roles.**
+
+---
+
+### Reader
+
+Readers can:
+
+- View Azure resources
+- Inspect configuration
+- Review settings
+
+Readers cannot make changes.
+
+---
+
+These three roles belong to the **Management Plane**.
+
+They control Azure resources—not blob data.
+
+This distinction is extremely important during Azure administration.
+
+![Step 9](images/rbac-09.png)
+
+---
+
+# Management Plane Example
+
+Imagine the following scenario.
+
+A user receives:
+
+Owner
+
+for a Storage Account.
+
+That user can:
+
+✔ Configure networking
+
+✔ Configure encryption
+
+✔ Delete the storage account
+
+✔ Configure lifecycle policies
+
+However,
+
+That same user may still receive:
+
+**AuthorizationPermissionMismatch**
+
+when attempting to download a blob.
+
+Why?
+
+Because blob access belongs to the **Data Plane**, which requires Storage Blob Data roles.
+
+---
+
+## Step 10 — Review Storage Blob Data Roles
+
+Next I searched Azure's built-in Storage Blob roles.
+
+These roles provide permissions over the actual files stored inside Azure Blob Storage.
+
+---
+
+### Storage Blob Data Reader
+
+Permissions include:
+
+- View containers
+- Download blobs
+- Read blob metadata
+
+Cannot:
+
+- Upload
+- Delete
+- Modify blobs
+
+Ideal for:
+
+- Auditors
+- Employees needing document access
+
+---
+
+### Storage Blob Data Contributor
+
+Permissions include:
+
+- Read blobs
+- Upload blobs
+- Delete blobs
+- Modify blob metadata
+
+Cannot:
+
+- Assign permissions
+
+Ideal for:
+
+- Developers
+- Applications
+- Storage operators
+
+---
+
+### Storage Blob Data Owner
+
+Highest Blob Storage permission.
+
+Allows:
+
+- Full blob access
+- Read
+- Upload
+- Delete
+- Modify permissions
+- Manage POSIX ACLs
+
+Ideal for:
+
+- Storage Administrators
+
+---
+
+### Storage Blob Delegator
+
+This role allows creation of:
+
+**User Delegation SAS**
+
+instead of Shared Key SAS.
+
+This is Microsoft's preferred method for generating SAS tokens because authentication is tied to Microsoft Entra identities.
+
+![Step 10](images/rbac-10.png)
+
+---
+
+# Why Data Roles Matter
+
+Many Azure administrators encounter this situation:
+
+"I can see the Storage Account but I cannot open the blobs."
+
+This happens because Azure separates:
+
+Management permissions
+
+from
+
+Data permissions.
+
+Both must be granted separately.
+
+---
+
+## Step 11 — Assign Storage Blob Data Owner
+
+Next I created a role assignment.
+
+Selected role:
+
+Storage Blob Data Owner
+
+Assigned to:
+
+A Microsoft Entra user
+
+Assignment type:
+
+User
+
+This role assignment grants full blob permissions without sharing Storage Account Keys.
+
+Instead of providing one secret to everyone,
+
+Azure now evaluates:
+
+Identity
+
+↓
+
+Role Assignment
+
+↓
+
+Scope
+
+↓
+
+Authorization Decision
+
+This approach significantly improves cloud security.
+
+![Step 11](images/rbac-11.png)
+
+---
+
+# Azure Authorization Flow
+
+```text
+Microsoft Entra User
+
+        │
+
+Authenticate
+
+        ▼
+
+Microsoft Entra ID
+
+        │
+
+RBAC Evaluation
+
+        ▼
+
+Storage Blob Data Owner
+
+        │
+
+Permission Granted
+
+        ▼
+
+Blob Container
+
+        │
+
+Blob Files
+```
+
+---
+
+## Step 12 — Validate Effective Permissions
+
+Finally,
+
+I validated the user's effective permissions.
+
+Azure displayed two important assignments.
+
+### Inherited Role
+
+Owner
+
+Inherited from the Azure Subscription.
+
+This allows management of Azure resources.
+
+---
+
+### Direct Role Assignment
+
+Storage Blob Data Owner
+
+Assigned directly to the Storage Account.
+
+This grants permission to access blob data.
+
+Azure combines inherited permissions with direct assignments to determine the user's effective access.
+
+Understanding inheritance is critical because permissions can originate from multiple scopes:
+
+- Subscription
+- Resource Group
+- Storage Account
+- Blob Container
+
+This validation confirmed that the user could successfully authenticate using Microsoft Entra ID and perform blob operations without relying on Storage Account Keys.
+
+![Step 12](images/rbac-12.png)
+
+---
+
+# RBAC Summary
+
+During this section of the project I successfully:
+
+- Reviewed Azure management roles
+- Reviewed Azure Storage data roles
+- Compared Management Plane vs Data Plane permissions
+- Disabled Shared Key authentication
+- Enabled Microsoft Entra authorization
+- Assigned Storage Blob Data Owner
+- Verified inherited role assignments
+- Verified direct role assignments
+- Implemented least privilege authentication
+- Replaced shared secrets with identity-based access
+
+The next section demonstrates applying RBAC at the **container level**, creating private containers, assigning Storage Blob Data Reader permissions, and validating Microsoft Entra authentication when uploading and accessing blob data.
