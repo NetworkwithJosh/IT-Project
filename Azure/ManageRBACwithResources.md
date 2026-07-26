@@ -757,3 +757,331 @@ During this section of the project I successfully:
 - Replaced shared secrets with identity-based access
 
 The next section demonstrates applying RBAC at the **container level**, creating private containers, assigning Storage Blob Data Reader permissions, and validating Microsoft Entra authentication when uploading and accessing blob data.
+
+# Blob Containers and Container-Level RBAC
+
+After configuring Microsoft Entra authentication and Azure RBAC at the Storage Account level, I continued by creating Blob Containers and assigning permissions directly to individual containers.
+
+Container-level permissions allow administrators to follow the Principle of Least Privilege by granting users access only to the data they require instead of the entire storage account.
+
+---
+
+# Why Container-Level RBAC?
+
+Azure RBAC allows permissions to be assigned at multiple scopes.
+
+Instead of granting a user access to every container within a Storage Account, permissions can be limited to a single container.
+
+Benefits include:
+
+- Reduced attack surface
+- Better security isolation
+- Easier auditing
+- Least privilege access
+- Better separation of responsibilities
+
+Example:
+
+Finance Department
+
+↓
+
+Finance Container
+
+Human Resources
+
+↓
+
+HR Container
+
+Engineering
+
+↓
+
+Engineering Container
+
+Each department only receives access to its own container.
+
+---
+
+## Step 13 — Create a Blob Container
+
+Next, I navigated to the **Containers** blade of the Storage Account and created a new Blob Container.
+
+Configuration:
+
+- Container Name: myfirst
+- Public Access Level: Private (no anonymous access)
+
+Choosing **Private** ensures that blob data cannot be accessed anonymously over the internet.
+
+Only authenticated Microsoft Entra users with the appropriate Azure RBAC role can access the container.
+
+This aligns with Microsoft's Zero Trust security model.
+
+![Step 13](images/container-01.png)
+
+---
+
+# Why Keep Containers Private?
+
+Azure supports several container access levels.
+
+### Private
+
+Only authenticated users can access blobs.
+
+Recommended for nearly every production environment.
+
+---
+
+### Blob
+
+Anonymous users can read blobs if they know the URL.
+
+Not recommended for sensitive information.
+
+---
+
+### Container
+
+Anonymous users can list the container and access every blob.
+
+Rarely recommended.
+
+For this project I selected **Private** because identity-based authorization is significantly more secure than anonymous access.
+
+---
+
+## Step 14 — Assign Storage Blob Data Reader
+
+After creating the container, I opened **Access Control (IAM)** for the container itself.
+
+Instead of assigning permissions to the Storage Account, I assigned permissions directly to the individual Blob Container.
+
+Role selected:
+
+**Storage Blob Data Reader**
+
+Assigned to:
+
+A Microsoft Entra user.
+
+This role allows the user to:
+
+- View blobs
+- Download blobs
+- Read metadata
+
+The user cannot:
+
+- Upload blobs
+- Delete blobs
+- Modify permissions
+
+This demonstrates least privilege because the user receives only the permissions required for reading data.
+
+![Step 14](images/container-02.png)
+
+---
+
+# Why Use Storage Blob Data Reader?
+
+Many users only require read access.
+
+Examples include:
+
+- Executives downloading reports
+- Auditors reviewing files
+- Employees reading documentation
+- Customers downloading invoices
+
+Providing Owner or Contributor permissions would violate the Principle of Least Privilege.
+
+Instead, Storage Blob Data Reader grants exactly the permissions required.
+
+---
+
+## Step 15 — Review Container Role Assignments
+
+After assigning the role, I reviewed the IAM role assignments for the Blob Container.
+
+The results demonstrated Azure RBAC inheritance.
+
+The container displayed inherited permissions from higher scopes as well as direct assignments made specifically to the container.
+
+Inherited Roles included:
+
+- Owner
+- Storage Blob Data Owner
+
+Direct Assignment:
+
+- Storage Blob Data Reader
+
+This demonstrates how Azure evaluates permissions across multiple scopes before making an authorization decision.
+
+![Step 15](images/container-03.png)
+
+---
+
+# RBAC Inheritance
+
+Azure RBAC evaluates permissions from the top of the resource hierarchy down to the selected resource.
+
+```text
+Subscription
+        │
+Resource Group
+        │
+Storage Account
+        │
+Blob Container
+        │
+Blob
+```
+
+Permissions assigned higher in the hierarchy automatically flow downward.
+
+For example:
+
+Owner assigned at the Subscription
+
+↓
+
+Automatically applies to
+
+Storage Accounts
+
+↓
+
+Blob Containers
+
+↓
+
+Blobs
+
+However, assigning a role directly to a Blob Container limits the permission to only that container.
+
+This provides much better security than assigning broad permissions across an entire subscription.
+
+---
+
+## Step 16 — Upload a Blob Using Microsoft Entra Authentication
+
+Finally, I uploaded a file into the Blob Container.
+
+The Azure Portal authenticated using my Microsoft Entra identity rather than Storage Account Keys.
+
+The portal indicated:
+
+**Authentication Method**
+
+Microsoft Entra user account
+
+This verified that authentication and authorization were being handled through Azure RBAC.
+
+The upload completed successfully without requiring:
+
+- Storage Account Keys
+- Shared Key authentication
+- Connection strings
+
+Instead, Azure evaluated my Microsoft Entra identity and the assigned RBAC role before permitting access.
+
+![Step 16](images/container-04.png)
+
+---
+
+# Authentication Flow
+
+```text
+User
+
+      │
+
+Signs into Azure Portal
+
+      │
+
+Microsoft Entra Authentication
+
+      │
+
+Azure RBAC Evaluation
+
+      │
+
+Storage Blob Data Owner
+
+      │
+
+Access Granted
+
+      │
+
+Blob Container
+
+      │
+
+Upload Blob
+```
+
+---
+
+# Storage Account vs Container Permissions
+
+Storage Account Scope
+
+✔ Access to multiple containers
+
+✔ Easier administration
+
+✔ Broader permissions
+
+Container Scope
+
+✔ Access limited to one container
+
+✔ Better isolation
+
+✔ Better security
+
+✔ Least privilege
+
+For organizations with multiple departments, assigning permissions at the container level is generally preferred.
+
+---
+
+# RBAC Roles Used
+
+| Role | Purpose |
+|------|---------|
+| Owner | Full management of Azure resources including role assignments |
+| Contributor | Manage Azure resources without assigning permissions |
+| Reader | View Azure resources |
+| Storage Blob Data Owner | Full control over blob data |
+| Storage Blob Data Contributor | Read, upload, modify, and delete blobs |
+| Storage Blob Data Reader | Read-only access to blobs |
+
+---
+
+# Security Improvements Achieved
+
+During this project I successfully replaced Shared Key authentication with Microsoft Entra ID.
+
+Security improvements included:
+
+- Disabled Storage Account Key authentication
+- Enabled Microsoft Entra authentication
+- Used Azure RBAC
+- Assigned least privilege roles
+- Eliminated shared credentials
+- Implemented identity-based authorization
+- Restricted access using container-level RBAC
+- Verified inherited permissions
+- Verified direct permissions
+- Validated Microsoft Entra authentication while accessing blob storage
+
+This approach aligns with Microsoft's cloud security best practices and provides significantly stronger identity management than traditional Storage Account Keys.
+
