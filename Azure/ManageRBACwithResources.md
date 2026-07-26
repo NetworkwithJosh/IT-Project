@@ -223,7 +223,7 @@ Configuration included:
 
 This storage account serves as the parent resource for all blob containers.
 
-![Step 1](images/rbac-01.png)
+![Step 1](images/rbac.png)
 
 ---
 
@@ -239,7 +239,7 @@ During deployment I reviewed several advanced storage options including:
 
 For this lab I left Hierarchical Namespace disabled because the project focused on Azure Blob Storage rather than Azure Data Lake Storage Gen2.
 
-![Step 2](images/rbac-02.png)
+![Step 2](images/rbac2.png)
 
 ---
 
@@ -254,7 +254,7 @@ Deployment included:
 - Storage Account
 - Default Storage Configuration
 
-![Step 3](images/rbac-03.png)
+![Step 3](images/rbac3.png)
 
 ---
 
@@ -273,7 +273,7 @@ Important configuration included:
 
 These settings provide a secure baseline for Azure Storage.
 
-![Step 4](images/rbac-04.png)
+![Step 4](images/rbac4.png)
 
 ---
 
@@ -296,7 +296,7 @@ Reasons include:
 
 The storage account keys remained hidden throughout this project to protect credentials.
 
-![Step 5](images/rbac-05.png)
+![Step 5](images/rbac5.png)
 
 ---
 
@@ -314,7 +314,7 @@ Security settings included:
 
 Enabling Microsoft Entra Authorization causes Azure Portal authentication to rely on Microsoft Entra identities rather than Storage Account Keys.
 
-![Step 6](images/rbac-06.png)
+![Step 6](images/rbac6.png)
 
 ---
 
@@ -356,7 +356,7 @@ Benefits include:
 
 > **Note:** Before disabling Shared Key access in production, all applications should first be migrated to Microsoft Entra authentication or Managed Identities.
 
-![Step 7](images/rbac-07.png)
+![Step 7](images/rbac7.png)
 
 ---
 
@@ -378,7 +378,7 @@ Access Control follows Azure RBAC principles by assigning permissions to identit
 
 This is the foundation of Microsoft's Zero Trust model.
 
-![Step 8](images/rbac-08.png)
+![Step 8](images/rbac8.png)
 
 ---
 
@@ -483,7 +483,7 @@ They control Azure resources—not blob data.
 
 This distinction is extremely important during Azure administration.
 
-![Step 9](images/rbac-09.png)
+![Step 9](images/rbac9.png)
 
 ---
 
@@ -600,7 +600,7 @@ instead of Shared Key SAS.
 
 This is Microsoft's preferred method for generating SAS tokens because authentication is tied to Microsoft Entra identities.
 
-![Step 10](images/rbac-10.png)
+![Step 10](images/RBAC10.png)
 
 ---
 
@@ -660,7 +660,7 @@ Authorization Decision
 
 This approach significantly improves cloud security.
 
-![Step 11](images/rbac-11.png)
+![Step 11](images/rbac11.png)
 
 ---
 
@@ -737,7 +737,7 @@ Understanding inheritance is critical because permissions can originate from mul
 
 This validation confirmed that the user could successfully authenticate using Microsoft Entra ID and perform blob operations without relying on Storage Account Keys.
 
-![Step 12](images/rbac-12.png)
+![Step 12](images/rbac12.png)
 
 ---
 
@@ -819,7 +819,7 @@ Only authenticated Microsoft Entra users with the appropriate Azure RBAC role ca
 
 This aligns with Microsoft's Zero Trust security model.
 
-![Step 13](images/container-01.png)
+![Step 13](images/container1.png)
 
 ---
 
@@ -881,7 +881,7 @@ The user cannot:
 
 This demonstrates least privilege because the user receives only the permissions required for reading data.
 
-![Step 14](images/container-02.png)
+![Step 14](images/container2.png)
 
 ---
 
@@ -921,7 +921,7 @@ Direct Assignment:
 
 This demonstrates how Azure evaluates permissions across multiple scopes before making an authorization decision.
 
-![Step 15](images/container-03.png)
+![Step 15](images/container3.png)
 
 ---
 
@@ -989,7 +989,7 @@ The upload completed successfully without requiring:
 
 Instead, Azure evaluated my Microsoft Entra identity and the assigned RBAC role before permitting access.
 
-![Step 16](images/container-04.png)
+![Step 16](images/container4.png)
 
 ---
 
