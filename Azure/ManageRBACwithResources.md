@@ -1085,3 +1085,337 @@ Security improvements included:
 
 This approach aligns with Microsoft's cloud security best practices and provides significantly stronger identity management than traditional Storage Account Keys.
 
+# Security Comparison
+
+One of the primary goals of this project was improving the security posture of Azure Storage by replacing Shared Key authentication with Microsoft Entra ID and Azure RBAC.
+
+The following table summarizes the differences.
+
+| Shared Key Authentication | Microsoft Entra ID + Azure RBAC |
+|----------------------------|--------------------------------|
+| Uses long-lived account keys | Uses Microsoft Entra identities |
+| Shared secret | Individual user authentication |
+| Difficult auditing | Activity tied to a specific identity |
+| Manual key rotation | No storage keys required |
+| Broad storage account access | Least privilege access |
+| Easy to accidentally expose | Identity-based authorization |
+| Does not support Conditional Access | Supports Conditional Access |
+| Limited visibility into who accessed data | Full Azure Activity Logs and Sign-In Logs |
+
+---
+
+# Why Microsoft Recommends Microsoft Entra Authentication
+
+Microsoft recommends identity-based authentication whenever possible because it follows Zero Trust principles.
+
+Instead of trusting a shared secret, Azure verifies:
+
+- Who the user is
+- What permissions they have
+- Where the permissions were assigned
+- Whether Conditional Access policies apply
+- Whether Multi-Factor Authentication (MFA) has been satisfied
+
+Only after these checks are completed is access granted.
+
+---
+
+# Least Privilege Model
+
+The Principle of Least Privilege means users should receive only the permissions required to perform their job.
+
+Examples include:
+
+### Storage Administrator
+
+Role:
+
+Storage Blob Data Owner
+
+Capabilities:
+
+- Upload blobs
+- Delete blobs
+- Modify permissions
+- Manage ACLs
+
+---
+
+### Application
+
+Role:
+
+Storage Blob Data Contributor
+
+Capabilities:
+
+- Upload files
+- Download files
+- Delete files
+
+Cannot:
+
+- Change permissions
+
+---
+
+### Auditor
+
+Role:
+
+Storage Blob Data Reader
+
+Capabilities:
+
+- View containers
+- Download files
+- Read metadata
+
+Cannot:
+
+- Upload
+- Delete
+- Modify
+
+Using smaller permission scopes significantly reduces security risk.
+
+---
+
+# Role Assignment Best Practices
+
+Microsoft recommends assigning roles to Azure groups whenever possible rather than assigning permissions directly to individual users.
+
+Recommended hierarchy:
+
+```text
+User
+
+↓
+
+Microsoft Entra Group
+
+↓
+
+Azure RBAC Role
+
+↓
+
+Azure Resource
+```
+
+Benefits include:
+
+- Easier administration
+- Simpler onboarding
+- Simpler offboarding
+- Consistent permissions
+- Reduced administrative overhead
+
+---
+
+# Validation Checklist
+
+During this project I successfully completed the following tasks.
+
+## Azure Storage
+
+- Created a Storage Account
+- Configured StorageV2
+- Used Standard Performance
+- Selected Locally Redundant Storage
+- Verified successful deployment
+
+---
+
+## Security Configuration
+
+- Enabled Secure Transfer
+- Configured TLS 1.2
+- Disabled Anonymous Blob Access
+- Enabled Microsoft Entra Authorization
+- Reviewed Storage Account Keys
+- Disabled Shared Key Authentication
+
+---
+
+## Azure RBAC
+
+- Opened Access Control (IAM)
+- Reviewed built-in Azure roles
+- Compared Management Plane vs Data Plane
+- Assigned Storage Blob Data Owner
+- Verified inherited permissions
+- Verified direct permissions
+
+---
+
+## Blob Containers
+
+- Created private Blob Container
+- Assigned Storage Blob Data Reader
+- Uploaded blob
+- Verified Microsoft Entra authentication
+- Confirmed RBAC authorization
+
+---
+
+# Troubleshooting
+
+## Problem
+
+User receives:
+
+AuthorizationPermissionMismatch
+
+Possible causes:
+
+- Missing Storage Blob Data role
+- RBAC propagation delay
+- Wrong assignment scope
+
+Resolution:
+
+- Verify role assignment
+- Wait several minutes
+- Sign out and back into Azure
+- Refresh Azure Portal
+- Verify scope
+
+---
+
+## Problem
+
+User can manage Storage Account but cannot access blobs.
+
+Cause:
+
+Only a Management Plane role is assigned.
+
+Solution:
+
+Assign one of the following:
+
+- Storage Blob Data Reader
+- Storage Blob Data Contributor
+- Storage Blob Data Owner
+
+---
+
+## Problem
+
+Application stops working after Shared Key authentication is disabled.
+
+Cause:
+
+The application still uses:
+
+- Connection String
+- Storage Account Key
+- Shared Key Authentication
+
+Resolution:
+
+Migrate to:
+
+- Managed Identity
+- Microsoft Entra Authentication
+- Service Principal
+- User Delegation SAS
+
+---
+
+## Problem
+
+RBAC assignment appears correct but access is denied.
+
+Possible causes:
+
+- Role assigned at incorrect scope
+- User signed in with wrong account
+- Azure RBAC propagation delay
+- Cached authentication token
+
+Resolution:
+
+- Verify effective permissions
+- Use Check Access in IAM
+- Sign out and back in
+- Wait for Azure RBAC propagation
+
+---
+
+# Production Best Practices
+
+When implementing Azure Storage in production environments, Microsoft recommends the following practices.
+
+## Identity
+
+- Use Microsoft Entra ID
+- Use Managed Identities whenever possible
+- Avoid Shared Keys
+- Avoid hardcoded credentials
+
+---
+
+## Authorization
+
+- Follow Least Privilege
+- Assign permissions at the lowest scope possible
+- Use Microsoft Entra Groups
+- Regularly review RBAC assignments
+
+---
+
+## Storage Security
+
+- Disable Anonymous Blob Access
+- Require Secure Transfer
+- Use TLS 1.2 or higher
+- Disable Shared Key authentication whenever applications support identity-based access
+
+---
+
+## Monitoring
+
+Enable:
+
+- Azure Activity Logs
+- Diagnostic Settings
+- Azure Monitor
+- Microsoft Defender for Cloud
+
+Review:
+
+- Failed sign-ins
+- Unauthorized access attempts
+- Storage Account configuration changes
+
+---
+
+## Credential Management
+
+Avoid storing:
+
+- Storage Account Keys
+- Connection Strings
+- SAS Tokens
+
+Instead use:
+
+- Azure Key Vault
+- Managed Identity
+- Microsoft Entra Authentication
+
+---
+
+# What I Learned
+
+This project strengthened my understanding of how Azure separates authentication from authorization.
+
+Authentication determines **who** a user is through Microsoft Entra ID.
+
+Authorization determines **what** that authenticated identity is allowed to do through Azure RBAC.
+
+I also learned that Azure Storage separates Management Plane permissions from Data Plane permissions. A user may have Owner access to a Storage Account yet still require a Storage Blob Data role to interact with blob data.
+
+Finally, I gained hands-on experience implementing identity-based access, assigning RBAC roles at multiple scopes, and validating permissions using Access Control (IAM), reinforcing the importance of least privilege and Microsoft's Zero Trust security model.
