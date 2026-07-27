@@ -52,7 +52,7 @@ The command successfully created a new resource group named **Staging_Vms1** in 
 
 ### Screenshot
 
-![Azure Policy PowerShell 1](images/AzurePolicyPowerShell1.png)
+![Azure Policy PowerShell 1](images/policypowershell.png)
 
 ---
 
@@ -73,7 +73,7 @@ Using variables improves automation by allowing future commands to reference Azu
 
 ### Screenshot
 
-![Azure Policy PowerShell 2](images/AzurePolicyPowerShell2.png)
+![Azure Policy PowerShell 2](images/policypowershell2.png)
 
 ---
 
@@ -108,7 +108,7 @@ Successfully retrieving the policy confirms it is ready to be assigned programma
 
 ### Screenshot
 
-![Azure Policy PowerShell 3](images/AzurePolicyPowerShell3.png)
+![Azure Policy PowerShell 3](images/policypowershell3.png)
 
 ---
 
@@ -141,7 +141,7 @@ Using Azure PowerShell makes policy assignments repeatable and scalable across m
 
 ### Screenshot
 
-![Azure Policy PowerShell 4](images/AzurePolicyPowerShell4.png)
+![Azure Policy PowerShell 4](images/policypowershell4.png)
 
 ---
 
@@ -163,7 +163,7 @@ This confirms that the governance policy is now applied to the **Staging_Vms1** 
 
 ### Screenshot
 
-![Azure Policy PowerShell 5](images/AzurePolicyPowerShell5.png)
+![Azure Policy PowerShell 5](images/policypowershell5.png)
 
 ---
 
@@ -180,7 +180,7 @@ The lab successfully demonstrated the following:
 This confirms that Azure governance tasks can be fully automated using PowerShell rather than relying on manual configuration.
 
 ---
-
+![Azure Policy PowerShell 5](images/policypowershell6.png)
 # What I Learned
 
 This lab reinforced how Azure PowerShell can automate Azure governance tasks that are commonly performed through the Azure Portal.
